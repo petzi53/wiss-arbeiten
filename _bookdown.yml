@@ -1,4 +1,19 @@
 book_filename: "wiss-arbeiten"
 language:
-  ui:
-    chapter_name: "Chapter "
+    label:
+        fig: 'Grafik '
+        tab: 'Tabelle '
+        eq: 'Equation '
+        thm: 'Theorem '
+        lem: 'Lemma '
+        def: 'Definition '
+        cor: 'Corollary '
+        prp: 'Proposition '
+        exm: 'Example '
+        exr: 'Exercise '
+        proof: 'Proof. '
+        remark: 'Remark. '
+        solution: 'Solution. '
+    ui:
+        edit: Edit
+        chapter_name: ' '
