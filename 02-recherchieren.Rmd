@@ -1,5 +1,31 @@
 # Recherchieren
-Abb.: Recherchieren – Überblick
+
+
+```{r fig.align='center', echo=FALSE, fig.cap='Recherchieren (Übersicht)'}
+knitr::include_graphics('images/recherchieren-min.png', dpi = NA)
+```
+
+Obige Grafik [@xie2015] ist weiter entwickelt worden
+
+
+```{block2, type='rmdnote'}
+Bereits beim Konzipieren der Arbeit haben Sie Material gesucht (siehe Kapitel „Konzipieren einer Arbeit“). Das war aber erst eine vorläufige Umschau, die Ihnen geholfen hat, ein Thema zu finden und sich einen Überblick über die zu bearbeitende Literatur dazu zu verschaffen. Jetzt geht es darum, systematisch die Quellen für die wissenschaftliche Arbeit zusammenzustellen.
+```
+
+```{block type='rmdnote'}
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under the terms of the
+GNU General Public License versions 2 or 3.
+For more information about these matters see
+http://www.gnu.org/licenses/.
+```
+
+
+<div class="rmdcaution">
+R is free software and comes with ABSOLUTELY NO WARRANTY. You are welcome to redistribute it under the terms of the GNU General Public License versions 2 or 3. For more information about these matters see <a href="http://www.gnu.org/licenses/" class="uri">http://www.gnu.org/licenses/</a>.
+</div>
+
+
 
 Bereits beim Konzipieren der Arbeit haben Sie Material gesucht (siehe Kapitel „Konzipieren einer Arbeit“). Das war aber erst eine vorläufige Umschau, die Ihnen geholfen hat, ein Thema zu finden und sich einen Überblick über die zu bearbeitende Literatur dazu zu verschaffen. Jetzt geht es darum, systematisch die Quellen für die wissenschaftliche Arbeit zusammenzustellen. Das erste Ergebnis dieser Phase ist eine Leseliste, die alle Aspekte, die Sie in der Arbeit behandeln wollen, umfasst. Zusammen mit der Erstellung der Leseliste erheben und entscheiden Sie auch, wie Sie an die aufgelisteten Quellen herankommen: aus dem Internet herunterladen, kaufen oder entleihen. Am Ende der Recherche haben Sie die wesentlichen Materialien für Ihre Arbeit beisammen und verfügbar, und Sie können mit dem Lesen beginnen. Es kann sich später herausstellen, dass noch Literatur zur einen oder anderen Frage fehlt und zusätzlich gesucht, beschafft und gelesen werden muss. Das bringt aber jedes mal wieder die Gefahr mit sich, dass man sich in erneuter Literatursuche verzettelt, meint, immer noch mehr lesen zu müssen, und nie damit fertig wird.
 
@@ -7,7 +33,7 @@ Grundsätzlich gilt: Sie können nie alles zu Ihrem Thema kennen und lesen! Es g
 
 In diesem und dem nächsten Kapitel werden zwei „Hauptstraßen“ des Recherchierens, jeweils mit mehreren Abzweigungen, beschritten: einmal die traditionelle Literatursuche in Bibliotheken, in Bibliografien und im Buchhandel, und einmal die Materialsuche im Internet. Manche Tätigkeiten, z. B. die Suche im lokalen Bibliothekskatalog, können Sie sowohl auf die eine als auch auf die andere Art erledigen. 
 
-## Material sammeln
+## Material sammeln {#recherchieren-material-sammeln}
 
 Der erste Teil dieses Abschnitts beschreibt auch die Materialsuche, die Sie beim Konzipieren einer Arbeit ausführen, um einen Überblick und eine vorläufige Literaturliste zu erhalten (siehe Kapitel „Konzipieren einer Arbeit“). Die Phase der Materialsammlung, -sichtung und -auswahl ist im folgenden Diagramm dargestellt.
 
@@ -239,7 +265,7 @@ Prüfliste: Literatur auswählen und beschaffen
 * Steht die (vorläufige) Reihenfolge der Bearbeitung der Leseliste fest?
 * Habe ich mir einen Termin für das Ende der ersten Lesephase gesetzt?
 
-## Material ordnen
+## Material ordnen {#material-ordnen}
 
 Leben Sie nun zwischen Stößen von Büchern, Notizzetteln, kopierten Artikeln und Buchauszügen, ausgedruckten Webseiten usw.? Müssen Sie jedesmal, wenn Sie einen Artikel suchen, mehrere Stapel umschichten und durchsuchen? Dann wird es Zeit, die Materialien in eine Ordnung zu bringen, die Ihnen die Arbeit erleichtert. 
 Besonders die „kleinen“ Papiere – Artikel, eigene Notizen und Ausdrucke, Kopien usw. – machen dabei Probleme. Hier sind einige Möglichkeiten, wie Sie damit umgehen können:

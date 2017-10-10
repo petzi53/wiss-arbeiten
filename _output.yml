@@ -5,10 +5,12 @@ bookdown::pdf_book:
   citation_package: natbib
   keep_tex: yes
   toc_depth: 3
+  md_extensions: +emoji
 bookdown::epub_book: default
 bookdown::gitbook:
-  css: style.css
-
+  css: [css/style.css]
+  split_by: section
+  md_extensions: +emoji
   config:
     toc:
       before: |

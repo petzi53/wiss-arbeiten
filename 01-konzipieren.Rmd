@@ -1,5 +1,11 @@
 # Konzipieren einer Arbeit
 
+
+
+```{r fig.align='center', echo=FALSE, fig.cap='Konzipieren (Übersicht)'}
+knitr::include_graphics('images/konzipieren-min.png', dpi = NA)
+```
+
 ## Von der Idee zum Konzept
 
 Am Anfang jeder Arbeit sollte ein eigenes – wenn auch noch vages – Interesse an einem Problem, an einem Sachgebiet stehen. Persönliches Engagement ist der beste Start für die harte Arbeit, die vor Ihnen liegt. Sich eine Thematik von der Betreuerin oder der Professorin bloß zuweisen zu lassen, ohne eigenes Interesse oder zumindest einen eigenen Gesichtspunkt einzubringen, ist zwar bequem und spart anfangs auch etwas Zeit, kann aber leicht in eine Sackgasse führen. Wissenschaftliches Arbeiten lässt sich nicht mit „Dienst nach Vorschrift“ abarbeiten, umsetzen oder aussitzen, sondern braucht Motivation, Engagement und Kreativität.
@@ -10,7 +16,9 @@ Es zahlt sich daher aus, für die Phase der Konzeptentwicklung genügend Zeit vo
 
 Mit diesem Kapitel möchten wir versuchen, Ihnen Tipps und Hilfen für den Weg von der ersten Idee über die Themenfindung und -eingrenzung bis zum Exposé der Arbeit zu geben. Leider können das nur relativ allgemeine Vorschläge sein. Warum? Konzeptionelle Arbeit erfordert Kreativität und lässt sich mit formalen Verhaltensregeln nicht vollständig beschreiben. Jeder soll und muss die eigenen Vorlieben und Methoden entdecken und nutzen. Wie diese individuellen Wege zu einem konkreten Konzept oder Exposé aber auch aussehen mögen, irgendeine Art von methodischem Vorgehen ist notwendig, um sich den Rahmen für eine machbare, überschaubare Arbeit zu schaffen. 
 
-Abb.: Von der Idee zum Arbeitsbeginn
+```{r fig.align='center', echo=FALSE, fig.cap='Von der Idee zum Arbeitsbeginn'}
+knitr::include_graphics('images/konzipieren-von-idee-zum-arbeitsbeginn-min.png', dpi = NA)
+```
 
 ## Rahmenbedingungen klären
 
@@ -26,120 +34,118 @@ Das folgende Beispiel für einen Zeitplan orientiert sich an einer Magister- ode
 
 ### Zeitplan für eine größere Arbeit (z. B. Diplomarbeit)
 
-Aktionstabelle: Zeitplan für eine größere Arbeit (z. B. Diplomarbeit)
-Sie rechnen ... 
-für ... 
-vorausgesetzt, dass Sie ...
-2 Wochen
-erste Materialsammlung
-bereits eine Idee haben
-1 Woche
-Konzepterstellung
-danach ein Gespräch mit dem Betreuer führen
-2 Wochen
-Konzeptüberarbeitung 
-das Konzept nach dem Betreuungsgespräch ändern müssen
-3 Wochen
-Literatursuche, 
--auswahl und 
--beschaffung
-„grünes Licht“ bekommen haben und ca. 100 Seiten pro Tag überfliegen können
-9 Wochen
-Lesen und notieren
-ca. 50 Seiten pro Tag analytisch lesen können, inkl. Notizen machen
-4 Wochen
-Rohfassung schreiben
-bei 80-100 Seiten Gesamtumfang ca. 4-5 Seiten pro Tag schreiben
-3 Wochen
-Überarbeitung der Rohfassung
-Einleitung, Schluss, Übergänge noch formulieren müssen
-1 Woche
-Fertigstellung
-alle inhaltlichen Teile vollständig haben; 
-alle bibliografischen Angaben verfügbar haben 
-25 Wochen
-die gesamte Arbeit bis zur Abgabe
+Table: **(\#tab:zeitplan-gross) Zeitplan für eine größere Arbeit (z. B. Diplomarbeit)**
+
+--------------------------------------------------------------------------------------------------------------------
+Sie rechnen&nbsp;…  für …                                       vorausgesetzt, dass Sie …   
+------------------  ------------------------------------------  ----------------------------------------------------
+zwei Wochen         erste Materialsammlung                      bereits eine Idee haben\vspace{5mm}
+
+eine Woche          Konzepterstellung                           danach ein Gespräch mit dem/der Betreuer/in führen\vspace{5mm}
+
+zwei Wochen         Konzeptüberarbeitung                        das Konzept nach dem Betreuungsgespräch ändern müssen\vspace{5mm}
+
+drei Wochen         Literatursuche, -auswahl und -beschaffung   „grünes Licht“ bekommen haben und ca. 100 Seiten pro Tag überfliegen können\vspace{5mm}                                
+                    
+neun Wochen         Lesen und notieren                          ca. 50 Seiten pro Tag analytischlesen können, inkl. Notizen machen\vspace{5mm}
+
+vier Wochen         Rohfassung schreiben                        bei 80-100 Seiten Gesamtumfang ca. 4-5 Seiten pro Tag schreiben\vspace{5mm}
+
+drei Wochen         Überarbeitung der Rohfassung                Einleitung, Schluss, Übergänge noch formulieren müssen\vspace{5mm}
+
+eine Woche          Fertigstellung                              alle inhaltlichen Teile vollständig haben; alle bibliografischen Angaben verfügbar haben\vspace{5mm} 
+
+**25 Wochen**       **die gesamte Arbeit bis zur Abgabe**
+--------------------------------------------------------------------------------------------------------------------
 
 
 ### Zeitplan für eine Semesterarbeit
 
-Zum Vergleich dazu zeigen wir hier noch einen möglichen Zeitplan für eine kleinere Arbeit (z. B. Semesterarbeit), die nebenher geschrieben werden muss. Hier wurden als wöchentliche Arbeitszeit ca. 10 Stunden angenommen, und als Zeitbudget 10 Wochen.
+Zum Vergleich dazu zeigen wir hier noch einen möglichen Zeitplan für eine kleinere Arbeit (z. B. Semesterarbeit), die nebenher geschrieben werden muss. Hier wurden als wöchentliche Arbeitszeit ca. 10 Stunden angenommen, und als Zeitbudget zehn Wochen.
 
-Aktionstabelle: Zeitplan für eine kleinere Arbeit (z. B. Semesterarbeit)
-Sie rechnen ... 
-für ... 
-Sie sollten ...
-2 Wochen
-erste Materialsammlung und Konzipieren der Arbeit
-frühzeitig das Thema und damit die Literatursuche eingrenzen 
-1 Woche
-ergänzende systematische Literatursuche und -beschaffung
-sich auf rasch zugängliche Literatur beschränken und die Suche streng zeitlich begrenzen 
-3 Wochen
-Lesen und Notieren
-Notizen möglichst so verfassen, dass sie im Text verwendet werden können
-3 Wochen
-Rohfassung schreiben
-bei 30 Seiten Gesamtumfang durchschnittlich 2 Seiten pro Tag schreiben
-1 Woche
-Überarbeitung und Fertigstellung
-Formvorschriften, Zitierweise usw. schon beim Schreiben berücksichtigen
-10 Wochen
-die gesamte Arbeit bis zur Abgabe
+Table: **(\#tab:zeitplan-klein) Zeitplan für eine kleinere Arbeit (z. B. Semesterarbeit)**
+
+---------------------------------------------------------------------------------------------------------------------------------
+Sie rechnen&nbsp;…  für …                                                    Sie sollten …   
+------------------  -------------------------------------------------------- ----------------------------------------------------
+zwei Wochen         erste Materialsammlung und Konzipieren der Arbeit        frühzeitig das Thema und damit die Literatursuche eingrenzen\vspace{5mm} 
+
+eine Woche          ergänzende systematische Literatursuche und -beschaffung sich auf rasch zugängliche Literatur beschränken und die Suche streng zeitlich begrenzen\vspace{5mm} 
+
+drei Wochen         Lesen und Notieren                                       Notizen möglichst so verfassen, dass sie im Text verwendet werden können\vspace{5mm}
+
+drei Wochen         Rohfassung schreiben                                     bei 30 Seiten Gesamtumfang durchschnittlich 2 Seiten pro Tag schreiben\vspace{5mm}
+
+eine Woche          Überarbeitung und Fertigstellung                         Formvorschriften, Zitierweise usw. schon beim Schreiben berücksichtigen\vspace{5mm}
+
+**zehn Wochen**     **die gesamte Arbeit bis zur Abgabe**
+---------------------------------------------------------------------------------------------------------------------------------
 
 
-Prüfliste: Rahmenbedingungen klären
-Wieviel Zeit steht mir für die Arbeit zur Verfügung? (Abgabetermin, Bearbeitungsfrist, eigene Planung)
-Wieviel Zeit werde ich für die einzelnen Phasen benötigen, bzw. wieviel darf ich mir erlauben?
-Wieviel Geld steht mir zur Verfügung z. B. für Anschaffung von Literatur, Kopien, Reisen, Software, Internet-Zugang usw.?
-Welche Infrastruktur steht zur Verfügung, mit welchen Beschränkungen? (z. B. PC-Benutzerräume – Ausstattung, Auslastung? Bibliotheken – Öffnungszeiten, Urlaubssperren, Entleihfristen?)
-Wie ist die Betreuung organisiert? (regelmäßige Treffen oder Sprechstunden, Terminvereinbarung, Abwesenheit ...) 
+### Rahmenbedingungen abklären
+
+Table: **(\#tab:rahmenbedingungen) Rahmenbedingungen klären**
+
++----------------------------------------------------------------------+
+| * Wieviel Zeit steht mir für die Arbeit zur Verfügung?               |           
+| (Abgabetermin, Bearbeitungsfrist, eigene Planung)                    |                
++----------------------------------------------------------------------+
+| * Wieviel Zeit werde ich für die einzelnen Phasen benötigen,         |
+| bzw. wieviel darf ich mir erlauben?                                  |         
++----------------------------------------------------------------------+
+| * Wieviel Geld steht mir zur Verfügung, z. B. für Anschaffung von    | 
+| Literatur, Kopien, Reisen, Software, Internet-Zugang usw.?           |
++----------------------------------------------------------------------+
+| * Welche Infrastruktur steht zur Verfügung, mit welchen              |
+| Beschränkungen? (z. B. PC-Benutzerräume – Ausstattung, Auslastung?   |
+| Bibliotheken – Öffnungszeiten, Urlaubssperren, Entleihfristen?)      |
++----------------------------------------------------------------------+
+| * Wie ist die Betreuung organisiert? (regelmäßige Treffen oder       |
+| Sprechstunden, Terminvereinbarung, Abwesenheit ...)                  |
++----------------------------------------------------------------------+
+
 
 Der Einfluss dieser äußeren Bedingungen auf die Themenwahl, aber auch auf Methoden, Ansprüche, Umfang usw. kann sich in verschiedenen Entscheidungen niederschlagen. Die nachfolgende Tabelle listet einige – längst nicht alle – Schwierigkeiten auf:
 
-Aktionstabelle: Auswirkungen der Rahmenbedingungen
-Sie haben z. B. ...
-Sie entscheiden: 
-... und handeln 
-(Beispiele):
-eine fixe Abgabefrist für die Arbeit
-Ist das Thema in diesem Zeitrahmen machbar?
-Thema eingrenzen, 
-Methode ändern (z. B. nur Literaturstudie oder nur empirische Arbeit)
-beschränkten Internet- Zugang
-Wann und wofür verwenden Sie das Internet, wie lässt sich die beschränkte Zeit sinnvoll nutzen? 
-Zeit des Internet-Zugang planen (Uni, Tageszeit)
-Hilfsmittel kaufen (z. B. Offline Browser)
-beschränkten Zugang zu PCs, Druckern etc. 
-Wann und wie wird dieser Zugang am effektivsten genutzt? Lässt sich der Zustand ändern?
-eigenen PC kaufen,
-Arbeitsplatz reservieren, PC leihen 
-Literatur, die nur über Fernleihe verfügbar ist
-Ist das Thema durch diese Zeitverzögerung im vorgesehenen Zeitrahmen machbar?
-Literatur sofort anfordern,
-anderes Thema wählen
-Literatur, die nicht entliehen werden darf
-Öffnungszeiten ausreichend?
-Literatur kaufen,
-kopieren
-die Erfahrung, dass Sie für eine bestimmte Tätigkeit viel Zeit brauchen, etwa zum Schreiben
-Wie viel Zeit dürfen (innerhalb eines festen Zeitrahmens) die anderen Tätigkeiten maximal beanspruchen?
-Arbeitsphase entsprechend einplanen,
-Hilfe organisieren (z. B. beim Korrekturlesen)
-einen Betreuer, der schwer erreichbar ist
-Gibt es Abhilfen oder Alternativen?
-Sie vereinbaren Beratungsmodalitäten (Termine, e- Mail etc.),
-Sie suchen sich eine andere Betreuerin
+Table: **(\#tab:auswirkungen) Auswirkungen der Rahmenbedinungen**
+
+---------------------------------------------------------------------------------------------------------------------------------------
+Sie haben z.B.…                       Sie entscheiden…                             … und handeln (Beispiele)  
+------------------------------------  -------------------------------------------  ----------------------------------------------------
+eine fixe Abgabefrist für die Arbeit  Ist das Thema in diesem Zeitrahmen machbar?  Thema eingrenzen, Methode ändern (z. B. nur Literaturstudie oder nur empirische Arbeit) \vspace{5mm}
+
+beschränkten Internet-Zugang          Wann und wofür verwenden Sie das Internet,   Zeit des Internet-Zugang planen (Uni, Tageszeit),
+                                      wie lässt sich die beschränkte Zeit          Hilfsmittel kaufen (z. B. Offline Browser) \vspace{5mm}
+                                      sinnvoll nutzen? 
+
+beschränkten Zugang zu PCs,           Wann und wie wird dieser Zugang am           eigenen PC kaufen, Arbeitsplatz reservieren, PC leihen\vspace{5mm} 
+Druckern etc.                         effektivsten genutzt? Lässt sich der 
+                                      Zustand ändern?
+
+Literatur, die nur über Fernleihe     Ist das Thema durch diese Zeitverzögerung     Literatur sofort anfordern, anderes Thema wählen\vspace{5mm}
+verfügbar ist                         im vorgesehenen Zeitrahmen machbar?
+
+Literatur, die nicht entliehen werden Öffnungszeiten ausreichend?                   Literatur kaufen, kopieren\vspace{5mm}
+darf
+
+die Erfahrung, dass Sie für eine      Wie viel Zeit dürfen (innerhalb eines festen  Arbeitsphase entsprechend einplanen, Hilfe organisieren (z. B. beim Korrekturlesen)\vspace{5mm}
+bestimmte Tätigkeit viel Zeit         Zeitrahmens) die anderen Tätigkeiten maximal
+brauchen, etwa zum Schreiben          beanspruchen?
+
+eine Betreuung, die schwer            Gibt es Abhilfen oder Alternativen?           Sie vereinbaren Beratungsmodalitäten (Termine, e- Mail etc.), Sie suchen sich eine andere Betreuung
+erreichbar ist
+----------------------------------------------------------------------------------------------------------------------------------------
+
 
 Manchmal können sich während einer (längeren) Arbeitsdauer die Rahmenbedingungen auch ändern. Die Handlungsentscheidungen dieser Tabelle sind daher nicht nur so früh wie möglich zu treffen, sondern an Hand der aktuellen Rahmenbedingungen auch immer wieder zu überprüfen.
 
-## Eine Fragestellung erarbeiten
+## Fragestellung erarbeiten
 
 Wir betrachten hier den Fall, dass man sich das Thema für eine wissenschaftliche Arbeit selbst suchen kann oder muss. Meist sind auch die von der Betreuerin vorgeschlagenen Themen erst grob gefasst, sodass genügend Spielraum für eigene Gestaltung – und das Einbringen eigener Interessen – bleibt. Auch in diesen Fällen sollte man also ähnlich wie nachfolgend beschrieben vorgehen. 
 
 Nachdem eine Idee aufgetaucht ist, besteht der erste Schritt darin, sie in allen Facetten zu erkunden, um möglichst vielfältige Fragen zu generieren. In dieser Phase geht es darum, ein geeignetes Problem zu finden, indem die Idee systematisch exploriert und die Fragestellung „geöffnet“ wird.
 
-### Thematik erschließen, „öffnen“
+### Thematik erschließen
 
 Meistens weiß man viel mehr über ein Thema oder ein Sachgebiet, als man selbst glaubt. Um dieses Wissen zu aktivieren, sind Methoden empfehlenswert, die extra dafür entwickelt wurden, um das assoziative und kreative Denken zu fördern. Mit diesen Techniken lässt sich eine erste Idee nach vielen Richtungen hin genauer entwickeln („öffnen“):
 
@@ -155,7 +161,7 @@ Oft lohnt es sich auch, für sich selbst zu ergründen, wie man auf die Idee ges
 
 Ein Projekttagebuch, das auch ein schlichtes Notizheft sein kann, dient dazu, über längere Zeiträume hinweg immer wieder Fragen, Ideen, Bemerkungen usw. zum Thema aufzuschreiben. Mit dieser Methode werden sich vor allem diejenigen anfreunden, die auch sonst ihre Gedanken gerne schreibend generieren und ordnen.
 
-### Material sammeln
+### Material sammeln {#konzipieren-material-sammeln}
 
 Nach der Phase der Ideenfindung wird eine erste Recherche durchgeführt (siehe Kapitel „Recherchieren“). Bei dieser vorläufigen Materialsammlung geht es weder um Vollständigkeit noch um Genauigkeit, sondern bloß darum, einen ersten, möglichst breiten Überblick zu bekommen, wo und wie etwas zum Thema gesagt und veröffentlicht wurde. Der Zweck dieser Rundschau ist es, sich stichprobenartig mit dem Thema vertraut zu machen und es von verschiedenen Seiten zu betrachten, um später den eigenen Zugang dazu abgrenzen und begründen zu können.
 
@@ -163,87 +169,107 @@ Nutzen Sie alle Sinne, Möglichkeiten und Quellen, um zu Informationen über Ihr
 
 Achten Sie beim Sammeln des Materials nicht nur auf die Inhalte, sondern auch auf die Akteure (Personen, Institutionen,...), die diese Positionen vertreten. Das ist besonders für aktuelle Bezüge (Kontaktnahme, Interviews,...) und die Orientierung im wissenschaftlichen Diskurs (Meinungsführer, Kontrahenten, Schulen, ...) wichtig.
 
-Mit der globalen Vernetzung hat sich heute eine völlig neue Dimension für Studierende und Wissenschafter geöffnet: Relativ einfach, mit wenig Kosten und geringem Zeitaufwand können Sie sich weltweit z. B. über aktuelle Projekte informieren (Recherche im Internet, Besuch der Homepage des jeweiligen Wissenschaftlers, Instituts etc.) oder eine konkrete Anfrage starten (siehe Kapitel „Recherchieren im Internet“). 
-Prüfliste „Social Inquiry“
+Mit der globalen Vernetzung hat sich heute eine völlig neue Dimension für Studierende und Wissenschafter geöffnet: Relativ einfach, mit wenig Kosten und geringem Zeitaufwand können Sie sich weltweit z. B. über aktuelle Projekte informieren (Recherche im Internet, Besuch der Homepage des jeweiligen Wissenschaftlers, Instituts etc.) oder eine konkrete Anfrage starten (siehe Kapitel „Recherchieren im Internet“ XXX). 
 
-* Wen kann ich aus meinem Bekanntenkreis zur Thematik fragen? (Betreuerin, Kollegin, fachfremde Personen,...)
-* Wen könnte ich außerhalb meines Bekanntenkreises fragen, anschreiben, interviewen?
-* Welche Personen haben sich zu meiner Problematik bereits profiliert?
-* Wer vertritt (im wissenschaftlichen Diskurs, in einer aktuellen Kontroverse) welche Position?
-* Gibt es eine Meinungsführerin?
-* Welche Arbeits- und Forschungsgruppen arbeiten an meinem Thema?
-* Welche Institution (Institut, Labor, Forschungseinrichtung) könnte ich besuchen (evt. virtuell über die Homepage im Internet)?
-* Wie könnte ich kompetente Personen motivieren, für mich ihre kostbare Zeit zu opfern?
-* Gibt es dazu eine gute (passende) Gelegenheit (Konferenz, Vortrag an meiner Uni etc.)?
+Table: **(\#tab:enquiry) Social Inquiry**
 
-Auch wenn es heute (technisch) relativ einfach ist, mit den Akteurinnen der Wissenschaft in Kontakt zu treten, so bedeutet das nicht automatisch, dass Sie auch eine Antwort auf Ihre Frage(n) bekommen: Namhafte Leute (Wissenschafterinnen, Journalistinnen) sind viel beschäftigt und Sie müssen sich schon einen guten Grund einfallen lassen, wenn Ihre Anfrage nicht sang- und klanglos in den Weiten des Cyberspace verschwinden soll (siehe Kapitel „Kooperieren“). 
++----------------------------------------------------------------------------------------------------------------------------------+
+| * Wen kann ich aus meinem Bekanntenkreis zur Thematik fragen? (Betreuerin, Kollegin, fachfremde Personen,...)                    |           
++----------------------------------------------------------------------------------------------------------------------------------+
+| * Wen könnte ich außerhalb meines Bekanntenkreises fragen, anschreiben, interviewen?                                             |
++----------------------------------------------------------------------------------------------------------------------------------+
+| * Welche Personen haben sich zu meiner Problematik bereits profiliert?                                                           | 
++----------------------------------------------------------------------------------------------------------------------------------+
+| * Wer vertritt (im wissenschaftlichen Diskurs, in einer aktuellen Kontroverse) welche Position?                                  |
++----------------------------------------------------------------------------------------------------------------------------------+
+| * Gibt es Meinungsführer/innen?                                                                                                  |
++----------------------------------------------------------------------------------------------------------------------------------+
+| * Welche Arbeits- und Forschungsgruppen arbeiten an meinem Thema?                                                                |
++----------------------------------------------------------------------------------------------------------------------------------+
+| * Welche Institution (Institut, Labor, Forschungseinrichtung) könnte ich besuchen (evt. virtuell über die Homepage im Internet)? |
++----------------------------------------------------------------------------------------------------------------------------------+
+| * Wie könnte ich kompetente Personen motivieren, für mich ihre kostbare Zeit zu opfern?                                          |
++----------------------------------------------------------------------------------------------------------------------------------+
+| * Gibt es dazu eine gute (passende) Gelegenheit (Konferenz, Vortrag an meiner Hochschule etc.)?                                  |
++----------------------------------------------------------------------------------------------------------------------------------+
+
+Auch wenn es heute (technisch) relativ einfach ist, mit den Akteurinnen der Wissenschaft in Kontakt zu treten, so bedeutet das nicht automatisch, dass Sie auch eine Antwort auf Ihre Frage(n) bekommen: Namhafte Leute (Wissenschafterinnen, Journalistinnen) sind viel beschäftigt und Sie müssen sich schon einen guten Grund einfallen lassen, wenn Ihre Anfrage nicht sang- und klanglos in den Weiten des Cyberspace verschwinden soll (siehe Kapitel „Kooperieren“ XXX). 
 
 Überlegen Sie sich daher, wie Sie Ihr (virtuelles) Gegenüber zu einer Antwort motivieren können. Am Besten ist natürlich, wenn Sie nicht nur etwas wollen, sondern auch etwas anzubieten haben wie z. B. Übermittlung der Arbeitsergebnisse, an denen die Expertin Interesse haben könnte. Ihre Chancen auf eine Antwort steigen auch, wenn Sie den Kontakt durch eine andere Person, die die Angefragte kennt bzw. ihr persönlich verbunden ist, aufnehmen können.
 
-Überlegen Sie sich schon bei dieser ersten Recherche ein System, mit dem Sie gefundene Literatur, E-Mail- und Internet-Adressen usw. so ordnen und aufbewahren, dass Sie später bei der systematischen Materialsammlung darauf zurückgreifen können. (siehe „Material ordnen“)
+Überlegen Sie sich schon bei dieser ersten Recherche ein System, mit dem Sie gefundene Literatur, E-Mail- und Internet-Adressen usw. so ordnen und aufbewahren, dass Sie später bei der systematischen Materialsammlung darauf zurückgreifen können. (siehe Abschnitt \@ref(material-ordnen))
 
 ### Material sichten und bewerten
 
 Nach dieser breit angelegten Erschließung des Themas, bei der alle gefundenen Hinweise und Informationen als potenziell gleich wichtig behandelt werden, geht es in der nächsten Phase darum, die eigentliche Fragestellung herauszuarbeiten. Das vorhandene Material muss nun auf seine Tauglichkeit für eine interessante Fragestellung untersucht werden. Dazu ist es notwendig, von den Quellen und Materialien wieder etwas Distanz zu gewinnen und die eigenen Notizen und Skizzen aus einer Vogelperspektive zu bewerten. Es geht nicht darum, einzelne Positionen, Meinungen etc. einzuschätzen, sondern einen Zugang zu den stichprobenartig gesammelten Materialien zu gewinnen. Dieses Material wird jetzt ganz gezielt unter dem Gesichtspunkt des Themas angeschaut, das man bearbeiten möchte:
 
-Prüfliste: Sichtung des Materials
-* Wie viele Literaturhinweise habe ich bei der ersten Suche gefunden?
-* Ist die Literatur für mich in der verfügbaren Zeitspanne zugänglich?
-* Wird das Thema in der neuesten Literatur behandelt, gibt es eine aktuelle Diskussion dazu? 
-* Was sind die wichtigsten Standpunkte, Theorien, Beteiligten in dieser Diskussion?
-* Welche Aspekte werden unbefriedigend behandelt, zu wenig beachtet, fehlen überhaupt?
-* Was fordert Kritik oder Neugier heraus?
-* Welche Grundlagen und Voraussetzungen habe ich (bzw. fehlen mir), um das Thema zu bearbeiten?
-* Welche Frage würde ich gern lösen? Welche kann ich lösen?
-* Welche Sichtweise, Voraussetzungen, Erfahrungen, Zugänge etc. habe ich, die mich dazu besonders befähigen, diese Frage(n) zu behandeln?
+Table: **(\#tab:sichten) Sichtung des Materials**
+
++----------------------------------------------------------------------------------------------------------------------------------+
+| * Wie viele Literaturhinweise habe ich bei der ersten Suche gefunden?                                                            |           
++----------------------------------------------------------------------------------------------------------------------------------+
+| * Ist die Literatur für mich in der verfügbaren Zeitspanne zugänglich?                                                           |
++----------------------------------------------------------------------------------------------------------------------------------+
+| * Wird das Thema in der neuesten Literatur behandelt, gibt es eine aktuelle Diskussion dazu?                                     | 
++----------------------------------------------------------------------------------------------------------------------------------+
+| * Was sind die wichtigsten Standpunkte, Theorien, Beteiligten in dieser Diskussion?                                              |
++----------------------------------------------------------------------------------------------------------------------------------+
+| * Welche Aspekte werden unbefriedigend behandelt, zu wenig beachtet, fehlen überhaupt?                                           |
++----------------------------------------------------------------------------------------------------------------------------------+
+| * Was fordert Kritik oder Neugier heraus?                                                                                        |
++----------------------------------------------------------------------------------------------------------------------------------+
+| * Welche Grundlagen und Voraussetzungen habe ich (bzw. fehlen mir), um das Thema zu bearbeiten?                                  |
++----------------------------------------------------------------------------------------------------------------------------------+
+| * Welche Frage würde ich gern lösen? Welche kann ich lösen?                                                                      |
++----------------------------------------------------------------------------------------------------------------------------------+
+| * Welche Sichtweise, Voraussetzungen, Erfahrungen, Zugänge etc. habe ich, die mich dazu besonders befähigen, diese Frage(n)      | 
+| zu behandeln?                                                                                                                    |
++----------------------------------------------------------------------------------------------------------------------------------+
+
 
 Auch bei diesem Schritt hilft es sehr, alle Antworten und Überlegungen zu notieren, sei es als „Roh-Exposé“ oder bloß in Stichworten, als Listen, Diagramme oder Mind-Maps. Die Antworten auf diese Fragen können auf Probleme hinweisen, die die Bearbeitung des Themas behindern oder sogar unmöglich machen können. Man sollte sie ernst nehmen und letztlich bei der Entscheidung für oder gegen ein Thema sorgfältig abwägen, welche Schwierigkeiten damit verbunden sind, welche man in Kauf nehmen will (oder muss), und welche man – z. B. durch Eingrenzung oder Abänderung des Themas – umgehen kann.
 
-Aktionstabelle: Bewertung des Materials
-Sie stellen fest, dass ...
-Das kann bedeuten: 
-Tipps:
-es sehr viel Literatur zu Ihrem Thema gibt
-• Das Thema ist zu breit und zu allgemein
-• Es handelt sich um ein „Modethema“
-• Thema eingrenzen, einen Aspekt herausgreifen
-• Entscheidung treffen: Thema ändern oder nicht?
-es fast keine, auf jeden Fall zu wenig Literatur zu Ihrem Thema gibt
-• Das Thema ist sehr eng und speziell 
-• Das Thema ist neu und noch wenig „beackert“, viel eigenständiges Arbeiten notwendig
-• Thema etwas weiter und allgemeiner fassen
-• Entscheidung treffen: Fähigkeit, Zeit und Bereitschaft zu großem Arbeitsaufwand vorhanden und gerechtfertigt?
-kaum neuere, aktuelle Literatur zu finden ist
-• Das Thema gilt in der Fachwelt als veraltet, ausreichend behandelt
-• Prüfen: gibt es genügend (neue) Aspekte und Gründe, um das Thema wieder aufzugreifen?
-es viele Institutionen, laufende Projekte, Diskussionen, Veranstaltungen etc. zum Thema gibt
-• Modethema
-• viel aktuelles Material zu bearbeiten, möglicherweise wenig „gesicherte“ Grundlagen, keine „Standardwerke“
-• laufende Materialvermehrung während der Arbeit
-• s. oben zu „Modethema“
-• strenge Qualitätsprüfung der zu berücksichtigenden Materialien notwendig
+Table: **(\#tab:bewerten) Bewertung des Materials**
 
-• festen „Stichtag“ für den Abschluss der Materialsammlung vorsehen
-die meisten Beiträge zu Ihrem Thema aus anderen Disziplinen stammen
-• „Ihre“ Disziplin beschäftigt sich (noch) zu wenig mit dem Thema
-• Das Thema lässt sich innerhalb Ihrer Disziplin nicht befriedigend behandeln (lt. Fachmeinung)
-• evt. Fragestellung auf möglichen Beitrag Ihrer Disziplin ausrichten
-• Prüfen: fundierte Argumente, die diese Meinung widerlegen? Lohnt sich der Aufwand, den Gegenbeweis anzutreten?
-die meisten Beiträge zu Ihrem Thema aus anderen Ländern stammen, fremdsprachig erschienen sind, etc. 
-• Das Thema wird in Ihrem Sprachraum/Kulturkreis (noch) zu wenig behandelt
-• Fremdsprachenkenntnisse sind Voraussetzung für die Bearbeitung des Themas
-• evt. Ansatzpunkt für speziell auf diese Lücke ausgerichtete Fragestellung
-• Vorkenntnisse sollten vorhanden sein: Aneignung meist zu zeitaufwendig, nur für längerfristige Beschäftigung mit dem Thema sinnvoll
-alle Fragen, die Sie haben, bereits behandelt wurden
-• Das Thema bietet keine neuen Aspekte und Lücken an
-• Sie haben in eingefahrenen Bahnen gedacht
-• Für manche Arbeiten genügt es, Vorhandenes aufzuarbeiten
-• Führen Sie Gespräche über das Thema; schaffen Sie sich Abwechslung
-Ihnen Vorwissen, Fertigkeiten, Grundlagen etc. fehlen
-• Das Thema ist für Ihren Stand zu „hoch“
-• Bearbeitung des Themas kann zeitaufwendig werden
-• Machen Sie es sich nicht schwerer, als gefordert ist
-• Prüfen: Lohnt sich die Aneignung der fehlenden Grundlagen (evt. in Hinblick auf spätere Weiterarbeit am Thema)? Ist sie im vorgegebenen oder geplanten Zeitraum möglich? 
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+Sie stellen fest, dass…                         Das kann bedeuten…                            Tipps:  
+----------------------------------------------- --------------------------------------------- --------------------------------------------
+es sehr viel Literatur zu Ihrem                 Das Thema ist zu breit und zu allgemein;      Thema eingrenzen, einen Aspekt herausgreifen;
+                                                es handelt sich um ein "Modethema"            Entscheidung treffen: Thema ändern?\vspace{5mm} 
+                                      
+es fast keine, auf jeden Fall zu                Das Thema ist sehr eng und speziell;          Thema etwas weiter und allgemeiner fassen;
+wenig Literatur zu Ihrem Thema gibt             Das Thema ist neu und noch wenig bearbeitet,  Entscheidung treffen: Fähigkeit, Zeit und
+                                                                                              Bereitschaft zu großem Arbeitsaufwand vorhanden und gerechtfertigt?\vspace{5mm}
+                                                                                    
+kaum neuere, aktuelle Literatur zu              Das Thema gilt in der Fachwelt als veraltet,  Prüfen: gibt es genügend (neue) Aspekte und
+finden ist                                      ausreichend behandelt                         Gründe, um das Thema wieder aufzugreifen?\vspace{5mm}
+
+es viele Institutionen, laufende                Modethema; viel aktuelles Material            s. oben zu "Modethema"; strenge Qualitätsprüfung der zu berücksichtigenden
+Projekte, Diskussionen,                         zu bearbeiten, möglicherweise wenig           Materialien notwendig; festen "Stichtag" für den Abschluss der
+Veranstaltungen etc. zum Thema gibt             gesicherte" Grundlagen, keine "Standardwerke" Materialsammlung vorsehen\vspace{5mm}
+
+die meisten Beiträge zu Ihrem Thema             "Ihre"" Disziplin beschäftigt sich (noch) zu  ev. Fragestellung auf möglichen Beitrag Ihrer Disziplin ausrichten
+aus anderen Disziplinen stammen                  wenig mit dem Thema                          Prüfen: fundierte Argumente, die diese Meinung widerlegen?
+                                                 Das Thema lässt sich innerhalb Ihrer         Lohnt sich der Aufwand, den Gegenbeweis anzutreten?\vspace{5mm} 
+                                                 (noch) nicht befriedigend behandeln 
+                                                 (lt. Fachmeinung)
+                                      
+die meisten Beiträge zu Ihrem Thema              Das Thema wird in Ihrem Sprachraum/          ev. Ansatzpunkt für speziell auf dies Lücke ausgerichtete Fragestellung 
+aus anderen Ländern stammen, fremdsprachig       Kulturkreis (noch) zu wenig behandelt;       Vorkenntnisse sollten vorhanden sein: Aneignung meist zu zeitraubend,
+erschienen sind                                  Fremdsprachenkenntnisse sind Voraussetzung   nur für längerfristige Beschäftigung mit dem Thema sinnvoll\vspace{5mm}
+                                                 für die Bearbeitung des Themas
+
+alle Fragen, die Sie haben, bereits behandelt    Das Thema bietet keine neuen Aspekte und     Für manche Themen muss nicht etwas völlig Neues
+wurden                                           Lücken an; Sie haben in eingefahrenen        "erfunden" werden, oft ist es die Perspektive, oder 
+                                                 Bahnen gedacht                               ein besonderer Aspekt der die Neuigkeit darstellt\vspace{5mm}
+                                                                                                            
+Ihnen Vorwissen, Fertigkeiten, Grundlagen etc.   Das Thema ist dzt. noch zu komplex für Sie;  Machen Sie es sich nicht schwerer, als gefordert ist;
+                                                 Die Einarbeitung / Bearbeitung kann          Prüfen Sie: Lohnt sich die Einarbeitung (ev. Chance auf 
+                                                 zeitaufwändig  werden                        spätere Weiterarbeit/Beschäftigung zum Thema?); Ist die Arbeit
+                                                                                              im vorgegebenen/geplanten Zeitrahmen durchführbar?\vspace{5mm}
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 
 ### Thematik eingrenzen
 
@@ -253,46 +279,41 @@ Während das „Öffnen“ des Themas erfahrungsgemäß relativ wenig Schwierigk
 
 Die oft langen und komplizierten Titel wissenschaftlicher Arbeiten entstehen gerade dadurch, dass die Eingrenzung des Themas und seiner Behandlung darin wiedergegeben werden. Das ist zwar einerseits „korrekt“, weil es bei der Leserin (bzw. Begutachterin) keine falschen und zu hohen Erwartungen weckt, aber andererseits nicht sehr lesefreundlich. Es ist nicht unbedingt notwendig, dass der endgültige Titel alle gemachten Einschränkungen wiedergibt. Aber es darf nicht versäumt werden, die Einschränkung des Themas in der Arbeit genau darzustellen, und in manchen Fällen auch zu begründen. Was Sie brauchen, ist ein „griffiger“ d. h. interessanter Arbeitstitel, den sie (im Untertitel, in der Einleitung etc.) einschränken bzw. spezifizieren.
 
-Aktionstabelle: Thema eingrenzen
-Sie beschränken sich auf ...
-Sie bearbeiten daher ...
-Beispiele
-einen Zeitraum
-eine bestimmte Periode in der Geschichte
-einen bestimmten Abschnitt im Werk eines Autors
-... in der Zwischenkriegszeit
-... des frühen Wittgenstein 
-einen geographischen Raum
-nur ein bestimmtes Land (oder sogar Region), evt. zwei Länder in Gegenüberstellung
-... in Mitteleuropa
-... in Kroatien
-... in Oberkärnten
-bestimmte Quellen
-bestimmte Autoren
-ein Werk oder eine Gruppe von Werken eines Autors
-einen Typ von Quellen
-ein Medium
-... im Briefverkehr zwischen Freud und Jung
-... in österreichischen Schulbüchern
-... im ORF
-eine Betrachtungsweise 
-einen theoretischen Ansatz
-eine Disziplin bzw. Teilgebiet der Disziplin
-eine Ebene, z. B. methodologisch, ...
-... innerhalb des marxistischen Paradigmas
-... der Sozialpsycholgie
-... in Giddens’ Strukturationstheorie
-einen Einzelfall, einen Anwendungsbereich, 
-z. B. Biographie, Fallstudie, Institution, soziale Gruppe, Ereignisse ...
-...Sabine Spielrein und ihre Beziehung zu Freud und Jung
-wenige Parameter/ Faktoren eines Systems
-einzelne Aspekte und betrachten die übrigen Parameter als konstant, unabhängig („ceteris paribus“-Annahme)
-zwei Faktoren, Aspekte etc. in ihrer Beziehung zueinander (“und“-Verknüpfung)
-... unter der Annahme eines stagnierenden Bevölkerungswachstums
-... Bevölkerungspolitk und individuelle Familienplanung
-auf einen inhaltlichen Aspekt 
-ein (typisches) Phänomen oder Problem, das Sie herausgreifen
-... Angstzustände in Zusammenhang mit dem Aidstest
+Table: **(\#tab:eingrenzen) Thema eingrenzen**
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+Sie beschränken sich auf…                       Sie bearbeiten daher…                         Beispiele
+----------------------------------------------- --------------------------------------------- --------------------------------------------
+einen Zeitraum                                  eine bestimmte Periode in der Geschichte;      …in der Zwischenkriegszeit;
+                                                einen bestimmten Abschnitt im Werk             …des frühen Wittgenstein\vspace{5mm} 
+                                                eines Autors / einer Autorin
+                                                
+einen geographischen Raum                       nur ein bestimmtes Land (oder sogar Region);   …in Mitteleuropa;
+                                               evt. zwei Länder in Gegenüberstellung,          …in Kroatien;
+                                                                                               …in Oberkärnten\vspace{5mm}
+                                                                                    
+bestimmte Quellen                               bestimmte Autoren / Autorinnen; ein Werk      …im Briefverkehr zwischen Freud und Jung;
+                                                oder eine Gruppe von Werken;                  …in österreichischen Schulbüchern; 
+                                                einen Typ von Quellen; ein Medium              im ORF/ARD/SAT 3/ARTE
+                                                                             
+
+eine Betrachtungsweise                          einen theoretischen Ansatz;                    …innerhalb des marxistischen Paradigmas;
+                                                eine Disziplin bzw. Teilgebiet der Disziplin;  der Sozialpsycholgie;
+                                                eine Ebene, z. B. methodologisch, …            …in Giddens’ Strukturationstheorin\vspace{5mm}
+
+einen Einzelfall; einen Anwendungsbereich;      z.B. Biographie, Fallstudie, Institution,  ev. …Sabine Spielrein und ihre Beziehung zu Freud und Jung\vspace{5mm}
+                                                soziale Gruppe, Ereignisse                          
+                                      
+wenige Parameter; Faktoren eines Systems         einzelne Aspekte und betrachten die übrigen   …unter der Annahme eines stagnierenden Bevölkerungswachstums; 
+                                                 Parameter als konstant, unabhängig            …Bevölkerungspolitk und individuelle Familienplanung;\vspace{5mm}
+                                                  („ceteris paribus“-Annahme); zwei
+                                                  Faktoren, Aspekte etc. in ihrer Beziehung
+                                                  zueinander (“und“-Verknüpfung)
+
+auf einen inhaltlichen Aspekt                    ein (typisches) Phänomen oder Problem,       …Angstzustände in Zusammenhang mit dem Aidstest\vspace{5mm}
+                                                 das Sie herausgreifen                          
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 ## Ein Konzept erstellen
 
@@ -302,20 +323,37 @@ Im Gegensatz zu einem formellen Projektantrag – der im Aufbau ganz ähnlich w�
 
 An vielen Fachbereichen bzw. Instituten gibt es Merkblätter für die Erstellung des Konzepts. Es ist schwierig, allgemeine Richtlinien zu geben, was in ein Exposé alles – und in welchem Detaillierungsgrad – hineingehört. Je nach Art und Umfang der Arbeit (z. B. Literaturarbeit vs. empirische Arbeit, kleinere Seminararbeit vs. Buch, Qualifikationsarbeit vs. Projekteinreichung usw.) gibt es unterschiedliche Voraussetzungen und Anforderungen an ein Konzept. Die nachfolgende Liste ist daher bloß eine allgemeine Orientierungshilfe und entsprechend den Gegebenheiten abzuwandeln:
 
-Prüfliste: Bestandteile eines Exposés
-* Was ist die Ausgangslage, der Stand der Forschung? Welche Erkenntnisse liegen bereits vor? (Beschreibung des „state of the art“)
-* Was ist mein Erkenntnisinteresse, meine Motivation für diese Arbeit?
-* Welches (theoretische, praktische, empirische, soziale, politische,...) Problem ist der Ausgangspunkt meiner Arbeit?
-* Zu welchem Ziel (Ergebnis) soll meine Arbeit führen?
-* Welche Fragen will ich in meiner Arbeit behandeln (Thema)?
-* Welche Fragen bzw. Aspekte der Fragen werde ich in meiner Arbeit NICHT behandeln? (Eingrenzung des Themas)
-* Welche Quellen will ich dazu verwenden? (nur im Überblick, noch keine detaillierte Bibliografie – die gibt es ja noch nicht!)
-* Welche Quellen werde ich NICHT verwenden? (Eingrenzung des Materials)
-* Welche Methode will ich anwenden?
-* Welche Hilfe bzw. Hilfsmittel (Beratung, Infrastruktur, Software, Reisemittel,...) benötige ich für meine Arbeit?
-* Wie könnte eine vorläufige Gliederung meiner Arbeit aussehen?
-* Welche Arbeitsschritte, Phasen, Zwischenergebnisse plane ich?
-* Wie könnte ein grober Zeitplan aussehen? Bis wann will ich welche Etappen der Arbeit abgeschlossen haben?
+Table: **(\#tab:expose) Bestandteile eines Exposés**
+
++----------------------------------------------------------------------------------------------------------------------------------+
+| * Was ist die Ausgangslage, der Stand der Forschung? Welche Erkenntnisse liegen bereits vor?                                     | 
+| (Beschreibung des „state of the art“)                                                                                            |           
++----------------------------------------------------------------------------------------------------------------------------------+
+| * Was ist mein Erkenntnisinteresse, meine Motivation für diese Arbeit?                                                           |
++----------------------------------------------------------------------------------------------------------------------------------+
+| * Welches (theoretische, praktische, empirische, soziale, politische,...) Problem ist der Ausgangspunkt meiner Arbeit?           | 
++----------------------------------------------------------------------------------------------------------------------------------+
+| * Zu welchem Ziel (Ergebnis) soll meine Arbeit führen?                                                                           |
++----------------------------------------------------------------------------------------------------------------------------------+
+| * Welche Fragen will ich in meiner Arbeit behandeln (Thema)?                                                                     |
++----------------------------------------------------------------------------------------------------------------------------------+
+| * Welche Fragen bzw. Aspekte der Fragen werde ich in meiner Arbeit NICHT behandeln? (Eingrenzung des Themas)                     |
++----------------------------------------------------------------------------------------------------------------------------------+
+| * Welche Quellen will ich dazu verwenden? (nur im Überblick, noch keine detaillierte Bibliografie – die gibt es ja noch nicht!)  |
++----------------------------------------------------------------------------------------------------------------------------------+
+| * Welche Quellen werde ich NICHT verwenden? (Eingrenzung des Materials)                                                          |
++----------------------------------------------------------------------------------------------------------------------------------+
+| * Welche Methode will ich anwenden?                                                                                              |
++----------------------------------------------------------------------------------------------------------------------------------+
+| * Welche Hilfe bzw. Hilfsmittel (Beratung, Infrastruktur, Software, Reisemittel,...) benötige ich für meine Arbeit?              |
++----------------------------------------------------------------------------------------------------------------------------------+
+|* Wie könnte eine vorläufige Gliederung meiner Arbeit aussehen?                                                                   |
++----------------------------------------------------------------------------------------------------------------------------------+
+| * Welche Arbeitsschritte, Phasen, Zwischenergebnisse plane ich?                                                                  |
++----------------------------------------------------------------------------------------------------------------------------------+
+| * Wie könnte ein grober Zeitplan aussehen? Bis wann will ich welche Etappen der Arbeit abgeschlossen haben?                      |
++----------------------------------------------------------------------------------------------------------------------------------+
+
 
 ### Grünes Licht?
 Das Exposé ist auch eine konkrete Grundlage, mit der man die geplante Arbeit mit einer Betreuerin, Projektleiterin, Projektteam etc. absprechen kann. Dieses Gespräch hat mehrere Ziele:
@@ -326,24 +364,56 @@ Das Exposé ist auch eine konkrete Grundlage, mit der man die geplante Arbeit mi
 
 Im Idealfall übergeben Sie Ihren Gesprächspartnern das Papier ein paar Tage vor dem Gesprächstermin, um ihm oder ihr Zeit zu lassen, es gründlich zu lesen und sich Gedanken dazu zu machen. Bereiten Sie dieses Gespräch nicht nur umsichtig vor, sondern nehmen Sie sich auch die Zeit, es gründlich nachzubereiten.
 
-Prüfliste: Betreuungsgespräch zum Exposé
-* VOR dem Gespräch: Wie könnte ich mein Konzept in einem mündlichen Gespräch kurz darstellen? (sinnvoll als Einleitung, auch wenn Sie annehmen können, dass Ihre Gesprächspartnerin den Inhalt des Exposés kennt) 
-* Welche Schwachpunkte, offenen Fragen, Unklarheiten möchte ich ansprechen? (Sie sind nicht in einer Prüfungssituation: Weisen Sie selbst auf Probleme in Ihrem Konzept hin, zu denen Sie Tipps und Ratschläge brauchen)
-* Was will ich im Gespräch erreichen? („grünes Licht“, Literaturhinweise, Kontakte, einen weiteren Termin usw.)
-* WÄHREND des Gesprächs: Welche Hinweise, Anmerkungen und/oder Kritiken zu meinem Konzept haben sich im Laufe des Gesprächs ergeben?
-* Welche dieser Hinweise, Anmerkungen, Kritiken sind leicht in mein Konzept einzubauen?
-* Welche Hinweise, Anmerkungen, Kritiken laufen auf eine komplette Neubearbeitung hinaus?
-* Wie lässt sich das gemeinsam erreichte Verständnis zusammenfassen? (Versuchen Sie bereits am Ende des Gesprächs eine Zusammenfassung zu geben, die das gemeinsam erreichte Verständnis noch einmal absichert.)
-* Was sind meine nächsten Arbeitsschritte? (Vereinbaren Sie wenn möglich gleich einen weiteren Gesprächstermin zu einem konkreten Inhalt, z. B. umgearbeitetes Konzept, Literaturliste)
-* Soll eine schriftliche Zusammenfassung der Ergebnisse des Gesprächs an die Betreuerin geschickt werden?
+Table: **(\#tab:betreuung) Betreuungsgespräch zum Exposé**
+
++----------------------------------------------------------------------------------------------------------------------------------+
+| * _Vor_ dem Gespräch: Wie könnte ich mein Konzept in einem mündlichen Gespräch kurz darstellen?                                  | 
+|  (sinnvoll als Einleitung, auch wenn Sie annehmen können, dass Ihre Gesprächspartnerin den Inhalt des Exposés kennt)             |           
++----------------------------------------------------------------------------------------------------------------------------------+
+|* Welche Schwachpunkte, offenen Fragen, Unklarheiten möchte ich ansprechen? (Sie sind nicht in einer Prüfungssituation:           |
+|  Weisen Sie selbst auf Probleme in Ihrem Konzept hin, zu denen Sie Tipps und Ratschläge brauchen)                                |
++----------------------------------------------------------------------------------------------------------------------------------+
+| * Was will ich im Gespräch erreichen? („grünes Licht“, Literaturhinweise, Kontakte, einen weiteren Termin usw.)                  | 
++----------------------------------------------------------------------------------------------------------------------------------+
+| * _Während_ des Gesprächs: Welche Hinweise, Anmerkungen und/oder Kritiken zu meinem Konzept haben sich                           | 
+| im Laufe des Gesprächs ergeben?                                                                                                  |
++----------------------------------------------------------------------------------------------------------------------------------+
+| * Welche dieser Hinweise, Anmerkungen, Kritiken sind leicht in mein Konzept einzubauen?                                          |
++----------------------------------------------------------------------------------------------------------------------------------+
+| * Welche Hinweise, Anmerkungen, Kritiken laufen auf eine komplette Neubearbeitung hinaus?                                        |
++----------------------------------------------------------------------------------------------------------------------------------+
+| * Wie lässt sich das gemeinsam erreichte Verständnis zusammenfassen? (Versuchen Sie bereits am Ende des Gesprächs                |
+| eine Zusammenfassung zu geben, die das gemeinsam erreichte Verständnis noch einmal absichert.)                                   |
++----------------------------------------------------------------------------------------------------------------------------------+
+| * Was sind meine nächsten Arbeitsschritte? (Vereinbaren Sie wenn möglich gleich einen weiteren Gesprächstermin                   |  
+| zu einem konkreten Inhalt, z. B. umgearbeitetes Konzept, Literaturliste)                                                         |
++----------------------------------------------------------------------------------------------------------------------------------+
+| * Soll eine schriftliche Zusammenfassung der Ergebnisse des Gesprächs an die Betreuerin geschickt werden?                        |
++----------------------------------------------------------------------------------------------------------------------------------+
+
 
 Notieren Sie sich Hinweise (z. B. auf Literatur, Materialien, Namen etc.) um darauf später zurückkommen zu können, sowie Anmerkungen und Kritiken, um später genauer beurteilen zu können, welche Veränderungen sie für Ihr Konzept bedeuten. Nehmen Sie Hinweise, die auf grundlegende Änderungen des Konzepts hinauslaufen, ernst, aber nehmen Sie sich auch Zeit, darüber nachzudenken – evt. bis zu einem weiteren Gesprächstermin. Sie müssen im Gespräch nicht gleich ein Gegenargument bei der Hand haben – entweder es fällt Ihnen später ein, dann ist es vielleicht ein Hinweis auf eine Argumentation, die Sie in der Arbeit behandeln könnten. Oder es fällt Ihnen keines ein – dann ist es ein Hinweis auf eine Schwäche im Konzept.
 
 Fassen Sie auf jeden Fall für sich selbst die Ergebnisse schriftlich zusammen. In manchen Fällen (z. B. überarbeiteter, „vergesslicher“ Betreuer) kann ein übermitteltes schriftliches Protokoll für Sie einen Schutz darstellen (“Sicherung des Erreichten“). Klären Sie das aber vorher noch mündlich ab, weil Ihre Betreuerin vielleicht so ein unverlangtes formales Verhalten, wie es z. B. ein Protokoll darstellt, ablehnt.
 
 Entscheidend für Ihre weitere Vorgangsweise ist die grundlegende und mit der Betreuerin gemeinsam erreichte Beurteilung des Betreuungsgespräches: Gab es eine „Stop“ oder „Go“-Vereinbarung? Müssen Sie Ihr Konzept nochmals überarbeiten, oder können Sie – evt. mit kleinen Änderungen – mit der eigentlichen Arbeit beginnen?
-Aufgabe: 
-1. Suchen Sie ein Thema freier Wahl für eine wissenschaftliche Arbeit.. Finden Sie einen (vorläufigen) Titel für die Arbeit. 
-2. Erschließen Sie das Thema mit einer Methode Ihrer Wahl (freies Schreiben, Assoziieren, Mindmapping ...)
-3. Erläutern Sie kurz (auf der Grundlage Ihrer ersten Notizen bzw. Mindmap, Liste ... ) in wenigen Sätzen, und noch ohne gezielte Recherchen durchgeführt zu haben Ihre persönliche Motivation, Ihr Forschungsinteresse, Ihre Fragestellung(en), warum Sie dieses Thema beschäftigt.
-4. Nun grenzen Sie das Thema auf drei verschiedene Arten ein (s. Aktionstabelle „Thema eingrenzen“) und geben dies durch Untertitel wieder. Geben Sie zu jedem eingegrenzten Thema Ihre Fragestellung an. (Vernachlässigen Sie dabei fürs erste die Realisierbarkeit des Themas)
+
+Table: **(\#tab:aufgabe) Übungsaufgabe**
+
++----------------------------------------------------------------------------------------------------------------------------------+
+| 1. Suchen Sie ein Thema freier Wahl für eine wissenschaftliche Arbeit.. Finden Sie einen (vorläufigen) Titel für die Arbeit.     |
++----------------------------------------------------------------------------------------------------------------------------------+
+| 2. Erschließen Sie das Thema mit einer Methode Ihrer Wahl (freies Schreiben, Assoziieren, Mindmapping ...)                       |
++----------------------------------------------------------------------------------------------------------------------------------+
+| 3. Erläutern Sie kurz (auf der Grundlage Ihrer ersten Notizen bzw. Mindmap, Liste … ) in wenigen Sätzen,                         |  
+| und noch ohne gezielte Recherchen durchgeführt zu haben Ihre persönliche Motivation, Ihr Forschungsinteresse,                    |
+| Ihre Fragestellung(en), warum Sie dieses Thema beschäftigt.                                                                      |
++----------------------------------------------------------------------------------------------------------------------------------+
+| 4. Nun grenzen Sie das Thema auf drei verschiedene Arten ein (s. Aktionstabelle „Thema eingrenzen“)                              |    
+| und geben dies durch Untertitel wieder. Geben Sie zu jedem eingegrenzten Thema Ihre Fragestellung an.                            |
+| (Vernachlässigen Sie dabei fürs erste die Realisierbarkeit des Themas)                                                           |    
++----------------------------------------------------------------------------------------------------------------------------------+
+
+
+  
+
