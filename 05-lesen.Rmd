@@ -11,7 +11,7 @@ Es gibt verschiedene Arten des Lesens, die wir alle kennen: wir lesen Zeitungen 
 
 
 ```{r fig.align='center', echo=FALSE, fig.cap='Vier Lesestufen'}
-knitr::include_graphics('images/lesen-4-stufen-min.png', dpi = NA)
+knitr::include_graphics('images/lesen-vier-stufen-min.png', dpi = NA)
 ```
 
 So wie es in den unterschiedlichen Phasen einer Reise (Vorbereitung, Durchführung, Nachbereitung) verschiedene Interessen (und damit Ziele) im Umgang mit einem Reiseführer gibt, so lassen sich auch beim Lesen verschiedene Stufen unterscheiden. Der historische, aber immer noch aktuelle “Klassiker“ zur Kunst des Lesens, auf den wir uns hier in diesem Kapitel stützen werden, unterscheidet sogar vier verschiedene Ebenen im Lesevorgang. Auch wenn sie unterschiedliche Charakteristika aufweisen, sind diese verschiedenen Stufen nicht unabhängig voneinander, sondern bauen aufeinander auf: Jede höhere Stufe setzt die untere Stufe voraus, d. h. baut auf ihr auf und schließt sie mit ein. 
