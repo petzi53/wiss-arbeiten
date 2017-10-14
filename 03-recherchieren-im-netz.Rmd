@@ -1,234 +1,261 @@
 # Recherchieren im Internet
-Abb.: Recherchieren im Internet – Überblick
+
+
+```{r fig.align='center', echo=FALSE, fig.cap='Recherchieren im Internet (Überblick)'}
+knitr::include_graphics('images/recherchieren-internet-min.png', dpi = NA)
+```
 
 
 Mit diesem Kapitel führen wir das Kapitel „Recherchieren“ fort – hinein ins Internet und die Online-Recherche. Manchen Fundorten für Materialien werden Sie hier wiederbegegnen, manche Quellen sind jedoch für das Internet spezifisch und nur über das Netz zugänglich. Die Informationssuche ist – nach der E-Mail (siehe Kapitel „Kooperieren“) – die wichtigste Nutzungsart des Internets. Zu praktisch jedem Thema kann man im Internet eine Fülle von Informationen finden, meist zu viel als zu wenig. Die Fertigkeit, das Internet für wissenschaftliches Arbeiten zu nutzen, besteht daher weniger darin, etwas zu finden, sondern darin, mit vernünftigem Aufwand an Zeit und Geld genau das zu finden, was man braucht, die Qualität des Gefundenen zu bewerten und den Überblick über die Vielfalt der Quellen zu behalten.
-Zugang zum Internet schaffen
-Was ist das Internet?
+
+
+```{r fig.align='center', echo=FALSE, fig.cap='Prozessschritte der Recherche im Internet'}
+knitr::include_graphics('images/recherchieren-internet-ablauf-min.png', dpi = NA)
+```
+
+
+## Zugang zum Internet schaffen
+
+### Was ist das Internet?
+
 „Internet“ ist der Name eines weltweiten Netzwerkes all jener Computer, die über das gemeinsame Protokoll TCP/IP (Transmission Control Protocol/Internet Protocol) miteinander kommunizieren können. Das Internet ist ein Zusammenschluss von Teil-Netzwerken mit verschiedenen Betreibern, es gibt daher nicht „den“ Internet-Betreiber. Notwendige Regulierungen, Standardisierungen, Änderungen usw. werden von weltweiten Gremien aus Vertretern der Betreiber beschlossen. Durch diese Absprachen wird sichergestellt, dass trotz der raschen Weiterentwicklung des Internets die Grundprinzipien erhalten bleiben: einheitliches Protokoll, Plattformunabhängigkeit usw. 
+
 Das Internet entstand aus dem Zusammenschluss verschiedener spezialisierter Computernetzwerke, die anfangs nur bestimmte Rechner für bestimmte Zwecke miteinander verbanden. „Internet“ ist die Bezeichnung für das übergeordnete Netzwerk, das diese Netze mittels eines gemeinsamen Protokolls verband. Dadurch wurde es möglich, ganz unterschiedliche Rechner miteinander zu verbinden und eine Reihe von „Diensten“ zu benutzen. Bis zum Durchbruch des World Wide Web (WWW) blieb das Internet jedoch ein Netzwerk für die Forschung und von der breiten Öffentlichkeit unbemerkt. Das WWW wurde 1992 am Europäischen Kernforschungszentrum CERN eingesetzt, ursprünglich um intern Dokumente und Berichte zu verwalten und komfortabel abrufen zu können. Der Dienst wurde an die Internetgemeinde kostenlos weitergegeben, und gab damit den Anstoß für den weltweiten Siegeszug des WWW und des Internets, dessen Ende und Auswirkungen noch bei weitem nicht abzusehen sind. 
-Voraussetzungen für den privaten Zugang zum Internet
-Im Prinzip braucht man für den Zugang zum Internet nicht viel: einen PC, ein Modem (= MOdulator-DEModulator), eine Leitung für die Datenübertragung, und einen Provider (= Service- oder Zugangsanbieter). Praktisch jeder PC ist gut genug für das Internet, es muss kein neuer und schon gar nicht der teuerste sein. 
+
+### Voraussetzungen für den privaten Zugang zum Internet
+
+Im Prinzip braucht man für den Zugang zum Internet nicht viel: einen PC, ein Modem (= MOdulator-DEModulator), eine Leitung für die Datenübertragung, und einen Provider (= Service- oder Zugangsanbieter). Praktisch jeder PC ist gut genug für das Internet, es muss kein neuer und schon gar nicht der teuerste sein.
+
 Bei der Leitung kommt für den privaten Internet-Zugang vor allem die Telefonleitung in Frage. Sie kann auf verschiedene Weise für die Datenübertragung genutzt werden:
+
 * analog, d. h. das Modem benutzt das herkömmliche Telefonnetz, um Daten in digitaler Form zu übertragen, dzt. mit maximal 56 kbps (= Kilobit pro Sekunde)
 * digital mit ISDN (Integrated Services Digital Network), einem digitalen Verfahren auf der Basis des herkömmlichen Telefonnetzes, das pro Telefonanschluss nun zwei Verbindungen gleichzeitig und (etwas) höhere Übertragungsraten (64 kbps pro Kanal) ermöglicht.
 * digital mit ADSL (Asymmetric Digital Subscriber Line). Dieses Verfahren nutzt die Kupferkabel des herkömmlichen Telefonnetzes sehr effizient und kann daher preisgünstig angeboten werden. ADSL bietet gegenüber Modem- oder ISDN-Verbindungen bis zu zehnmal höhere Übertragungsraten. 
 Als weitere Übertragunsgsmedien kommen in Frage: 
 * (Fernseh-)Kabelnetzwerk: Außer der Telefonleitung wird in Ballungsräumen und Großstädten auch die Datenübertragung über das Netz des Kabelfernsehens angeboten (über Kupferkoaxialkabel, d.h. ein Verbund von mehr Kabeln als den zwei Kupferkabeln der Telefonleitungen). Es wird ein eigenes Modem benötigt, das meist vom Provider zur Verfügung gestellt wird. Die Datenraten sind hoch, d.h. auch für umfangreiche Upload- und Download-Vorgänge geeignet. 
 * Mobilfunknetz: Über UMTS (Universal Mobile Telecommunications System) steht ein drahtloses Verfahren zur Verfügung, dessen Übertragungsraten z. B. Videokonferenzen auch im mobilen Einsatz ermöglichen. Derzeit wird bereits der nächste Schritt in der mobilen Datenübertragung getan, nämlich HSDPA (High Speed Downlink Packet Access) mit wesentlich größeren Bandbreiten. 
-Diese verschiedenen Zugangsarten unterscheiden sich zum einen in der Übertragungsrate, die in Bits (Informationseinheit) pro Sekunde (bps oder bit/s) angegeben wird (z. B. 1 ISDN-Kanal = 64 kbps = ca. 64 000 bps); zum andern natürlich im Preis. Für den privaten Internet-Zugang reicht meistens auch die analoge Telefonleitung aus. Einrichtungs- oder Umstellungskosten fallen dabei – bis auf die Anschaffung eines Modems – weg. Bei ADSL und Fernsehkabel-Zugängen wird oft nach einer „Flatrate“ abgerechnet, d. h. es wird eine pauschale, fixe Monatsgebühr verrechnet, unabhängig von der Nutzungsdauer und dem Datenvolumen (in den Grenzen des „fair use“). „Flatrate“ ist daher für „Dauersurfer“ empfehlenswert. 
+
+Diese verschiedenen Zugangsarten unterscheiden sich zum einen in der Übertragungsrate, die in Bits (Informationseinheit) pro Sekunde (bps oder bit/s) angegeben wird (z. B. 1 ISDN-Kanal = 64 kbps = ca. 64 000 bps); zum andern natürlich im Preis. Für den privaten Internet-Zugang reicht meistens auch die analoge Telefonleitung aus. Einrichtungs- oder Umstellungskosten fallen dabei – bis auf die Anschaffung eines Modems – weg. Bei ADSL und Fernsehkabel-Zugängen wird oft nach einer „Flatrate“ abgerechnet, d. h. es wird eine pauschale, fixe Monatsgebühr verrechnet, unabhängig von der Nutzungsdauer und dem Datenvolumen (in den Grenzen des „fair use“). „Flatrate“ ist daher für „Dauersurfer“ empfehlenswert.
+
 Schwieriger ist die Wahl des Providers, wenn sie nicht schon durch die Art der Übertragung festgelegt wird. Ein Provider stellt Internet-Zugang und -Dienste für seine Kunden zur Verfügung. Seine Infrastruktur verbindet die Computer der Kunden miteinander und – was heute viel wichtiger ist – mit der „Welt“ des Internets. Die Preise für den Internet-Zugang sind nur schwer miteinander vergleichbar, denn a) wird häufig der Internet-Zugang im Paket mit anderen Dienstleistungen (wie Mobil- und/oder Festnetztelefonie) angeboten, und b) sind die Abrechnungsmodalitäten und Zusatzleistungen sehr vielfältig. Wir können daher nur ein paar Anhaltspunkte für die Wahl des Providers liefern. Zum Teil sind das Fragen, die man selten stellt, weil man zuerst nur auf den Preis achtet:
+
 * „Gateway“ zum Internet: welche Kapazität? Die Anbindung des Providers an das Internet kann zum Nadelöhr für die Kunden werden. So nützen die großzügigen Übertragungsraten innerhalb z. B. eines regional begrenzten Kabelfernsehnetzes wenig, wenn die Leitung des Anbieters nach außen zu schwach ist. 
 * Datenübertragungskosten: nach Zeit, nach Datenmenge oder pauschal (flat rate)? (Diese Kosten sind unabhängig von den allfälligen Telefonkosten, die ja nicht der Provider einhebt, sondern die Telekommunikationsgesellschaft - falls für den Internetzugang das Telefonnetzwerk genutzt wird)
 * Was wird zusätzlich zu den Internet-Diensten (E-Mail, WWW) angeboten (z. B. mehrere E-Mail-Adressen, Speicherplatz für die eigene Homepage, FTP, Telnet)?
 * Wie zuverlässig ist der Provider? Wie funktioniert der technische Support? Hat er einen effizienten Spam-Filter? funktioniert die Abrechnung reibungslos und korrekt?  Hier ist man meistens auf Erfahrungen anderer Benutzer angewiesen.
-Internet-Zugang an den Universitäten
+
+### Internet-Zugang an den Universitäten
+
 Universitäten bieten PC-Benutzerräume für Studierende mit Rechnern, die ans Internet angeschlossen sind. So können auch Studierende ohne eigenen Computer die Internetdienste nutzen. Abgesehen davon, dass der Andrang in diesen öffentlichen Benutzerräumen meist groß ist, denn das Angebot an Computerarbeitsplätzen hinkt der Nachfrage ständig hinterher, müssen Sie einige Dinge berücksichtigen, wenn Sie an ständig wechselnden Computern arbeiten müssen:
+
 * Die Verwaltung Ihrer E-Mails ist schwierig, wenn die Nachrichten bei jeder Sitzung auf den lokalen Rechner übertragen werden. Dann können Sie nie in alten E- Mails suchen und verlieren leicht die Übersicht darüber, was Sie schon beantwortet oder weitergeleitet haben. Eine einfache und unkomplizierte Lösung dafür liegt in der Benutzung von Web-Zugängen zu Ihrem E-Mail-Server, wie ihn viele Free- Mailer und Universitäten bieten. Über Ihren Browser können Sie dann von überall her auf Ihre Nachrichten zugreifen. Allerdings bieten alle Internet-Provider nur einen begrenzten Platz für die Speicherung Ihrer E-Mails. Wenn Sie diesen Speicherplatz ausgeschöpft haben, können Sie erst wieder E-Mails erhalten, wenn Sie alte (und vor allem umfangreiche) Nachrichten gelöscht haben.
 * Ihre im Web-Browser angelegten „Lesezeichen“ (siehe „Web-Adressen abspeichern“) werden im Normalfall lokal gespeichert. Benutzer-PCs an Universitäten können allerdings so konfiguriert sein, dass die Lesezeichen automatisch auf einem Server – in Ihrem Benutzervrezeichnis – abgelegt werden und daher von jedem Rechner aus zugänglich sind. Ist das nicht der Fall oder müssen Sie auch zwischen anderen, nicht vernetzten PCs wechseln, werden Sie andere Lösungen finden müssen: Wenn Sie eine eigene Website (Homepage) haben, können Sie Ihre Lesezeichen von Zeit zu Zeit exportieren und als HTML-Datei auf Ihrer Website speichern. Dann können Sie zwar von überall her auf Ihre Lesezeichen zugreifen, das Anlegen neuer Lesezeichen bleibt aber weiterhin auf den PC beschränkt, an dem Sie gerade arbeiten. Einen ortsneutralen Zugang ermöglichen jene Anbieter, die sich auf die Speicherung von Lesezeichen im Web spezialisiert haben. Ihre Daten liegen dann passwortgeschützt im Internet und lassen sich mit der Unterstützung einer Software auf Ihrem PC synchronisieren. Da diese Dienste per Web- Formular auch die Eintragung von überall her erlauben, können Sie von jedem Standort aus auf Ihre Lesezeichen sowohl lesend als auch schreibend zugreifen. 
-WWW benutzen
+
+## WWW benutzen
+
 Um ins World Wide Web – WWW – zu gelangen, benötigt man neben dem Internet-Zugang auch ein Programm auf dem lokalen PC, einen sogenannten „Browser“ (von to browse = blättern, schmökern). Die folgende Tabelle zeigt die wichtigsten Funktionen, die ein Browser – unabhängig davon, welches Produkt Sie verwenden, haben sollte:
-Aktionstabelle: Browser benutzen
-Sie verwenden die Funktion ...
-und können damit
-Anmerkung
-Einstellungen, Optionen ...
-Voreinstellungen für Verbindung, Erscheinungsbild, Sicherheit, Verhalten des Browsers definieren
 
-eine Webadresse (URL) eingeben
-die betreffende Webseite abrufen
+Table: **(\#tab:browser-benutzen) Broswer benutzen**
 
-Blättern
-zwischen den bereits aufgerufenen Seiten wechseln
-schneller als erneutes Laden, da im „Cache“ (lokal) gespeichert
-Home (Startseite)
-zu der von Ihnen definierten Startseite zurückkehren
-günstig als Startseite: die bevorzugte Suchmaschine oder eine aktuelle Nachrichtenseite
-„history“ (Liste der bereits aufgerufenen Seiten)
-zwischen allen bereits aufgerufenen Seiten wechseln
-schneller als erneutes Laden, da im „Cache“ (lokal) gespeichert
-„reload“ (erneut laden)
-die aktuelle Webseite nochmals abrufen
-z. B. bei Übertragungsfehlern oder zwischenzeitlichen Änderungen
-Lesezeichen oder Favoriten
-Webadressen speichern
-s. unten
-Drucken
-um Seiten (oder „Frames“) auszudrucken
+| Sie verwenden die Funktion          | und können damit…               | Anmerkung                              |
+|-------------------------------------|---------------------------------|----------------------------------------|
+|Einstellungen, Optionen … \vspace{5mm} | Voreinstellungen für Verbindung, Erscheinungsbild, Sicherheit, Verhalten des Browsers definieren \vspace{5mm} | |
+|eine Webadresse (URL) eingeben \vspace{5mm} | die betreffende Webseite abrufen | |
+| Blättern \vspace{5mm} | zwischen den bereits aufgerufenen Seiten wechseln \vspace{5mm} | schneller als erneutes Laden, da im „Cache“ (lokal) gespeichert \vspace{5mm} | 
+| Home (Startseite) \vspace{5mm} | zu der von Ihnen definierten Startseite zurückkehren \vspace{5mm} | günstig als Startseite: die bevorzugte Suchmaschine oder eine aktuelle Nachrichtenseite\vspace{5mm} |
+| „history“ (Liste der bereits aufgerufenen Seiten) \vspace{5mm} | zwischen allen bereits aufgerufenen Seiten wechseln \vspace{5mm} | schneller als erneutes Laden, da im „Cache“ (lokal) gespeichert \vspace{5mm} | 
+| „reload“ (erneut laden) \vspace{5mm} | die aktuelle Webseite nochmals abrufen \vspace{5mm} | z. B. bei Übertragungsfehlern oder zwischenzeitlichen Änderungen \vspace{5mm} | 
+| Lesezeichen oder Favoriten \vspace{5mm} | Webadressen speichern \vspace{5mm} | s. unten \vspace{5mm} | 
+| Drucken \vspace{5mm} | um Seiten (oder „Frames“) auszudrucken \vspace{5mm} | |
 
 
 Die Grundfunktion des Browsers ist es, Webseiten HTML-Dokumente, HTML = Hypertext Markup Language) mitsamt den eingebauten Verknüpfungen (Hyperlinks) auf dem Bildschirm darzustellen und die vom Benutzer eingegebenen oder angeklickten Web-Adressen (URL = uniform resource locator) an das Interent weiterzuleiten. 
+
 Die Darstellung von Webseiten umfasst auch die Darstellung von „Frames“ (Rahmen), den vordefinierten Unterteilungen von Webseiten. Frames werden meist dazu verwendet, um Navigationselemente und Menüs einer Website (= zusammengehörige Sammlung von Webseiten) in einem eigenen, gleichbleibenden Bereich des Browser-Fensters zusammenzufassen. 
+
 Weitere Funktionen, wie z. B. die Wiedergabe von Ton, Animationen oder Video, sind entweder (bei neuen Versionen) bereits im Browser integriert oder müssen als Zusatzprogramme (Plug-Ins) installiert werden. Die meisten Plug-Ins können aus dem Internet heruntergeladen und einfach installiert werden. Sind sie einmal installiert, erkennt der Browser automatisch, wann welches Zusatzprogramm aufgerufen werden muss. Plug-Ins erweitern die Darstellungsmöglichkeiten der Browser um weitere, meist herstellerabhängige Dateiformate oder andere spezielle Funktionen wie z. B. das Navigieren in 3D-Welten. Websites, die solche Multimedia-Elemente enthalten, bieten meistens auch einen Link auf die Bezugsquelle der zum Abspielen notwendigen Zusatzprogramme. 
-Ausgangspunkte der Suche
+
+## Ausgangspunkte der Suche
+
 Um die Recherche im Internet beginnen zu können, brauchen Sie einen ersten Anhalts- oder Ausgangspunkt. Das könnten sein
-* Suchmaschinen: Zugriff auf zahlreiche Webseiten, die automatisch von der Suchmaschine erfasst werden; die Webseiten sind nicht nach Qualität selektiert oder bewertet, d. h. man erhält im Normalfall sehr viele Ergebnisse, die man selbst prüfen muss. Suchmaschinen unterscheiden sich nach der Art und Menge der Webseiten, die sie erfassen. Um eine halbwegs vollständige Übersicht über die Webseiten zu einem Thema zu erhalten, sollte man daher mit mindestens zwei Suchmaschinen arbeiten. Dafür gibt es auch sogenannte
-* Metasuchmaschinen, die für eine Suche automatisch mehrere Suchmaschinen heranziehen. 
-* Spezielle Suchmaschinen, wie. z.B. das deutsche Forschungsportal, mit einem beschränkten, dafür geprüften Suchraum (hier Universitäten und wissenschaftliche Organisationen). Das Forschungsportal erfasst im gegensatz zu den meisten anderen Suchmaschinen auch dynamische Webseiten, das sind solche, die erst bei Aufruf aus Datenbanken generiert werden.  
-* Ein Wiki, auch WikiWiki und WikiWeb genannt, ist eine im World Wide Web verfügbare Seitensammlung, die von den Benutzern nicht nur gelesen, sondern auch online geändert werden kann. Wikis ähneln damit Content Management Systemen. Der Name stammt von wikiwiki, dem hawaiianischen Wort für „schnell“. Wie bei Hypertexten üblich, sind die einzelnen Seiten und Artikel eines Wikis durch Querverweise (Links) miteinander verbunden. Dazu gibt es in der Regel eine Bearbeitungsfunktion, die ein Eingabefenster öffnet, in dem der Text des Artikels bearbeitet werden kann. Das weltweit größte Wiki ist die Wikipedia, die in mehreren Sprachen von ehrenamtlichen Autoren verfasst und ständig erweitert wird. http://de.wikipedia.org/
-* Kataloge: vorgefertigte und (meist) selektierte Sammlungen von Links zu den verschiedensten Themen. Viele Suchmaschinen bieten zugleich auch einen Katalog oder Index, der hierarchisch von allgemeinen zu spezielleren Themen führt. Zum Einstieg in ein Thema sind solche Kataloge gut geeignet, allerdings sind sie selten spezifisch genug. 
-* Linksammlungen und “Portale”: fach- oder gar themenspezifische Sammlungen von Dokumenten und Hyperlinks, die von Institutionen, Projekten, manchmal auch von Privatpersonen zusammengestellt wurden. Gute Portale enthalten bereits einen Großteil der für ein Thema oder Fachgebiet relevanten Links. Wenn eine Linksammlung allerdings in einer einmaligen Aktion angelegt wurde und nicht dauernd gewartet wird, veraltet sie sehr schnell, d.h. viele Links funktionieren nicht mehr. Ein weiteres Problem ist, dass diese Sammlungen natürlich auch keinen Anspruch auf Vollständigkeit erheben können. Eine zusätzliche Suche ist auf jeden Fall ratsam.
-* Suche in einzelnen Websites bzw. Datenbanken: Von der „offenen“ Suche im gesamten Internet unterscheiden wir die „geschlossene“ in einer bestimmten Website bzw. Datenbank. Das betrifft z. B. Bibliotheken, Versandbuchhandlungen, das Verzeichnis lieferbarer Bücher, Zeitschriften-Indizes usw. Wenn man einmal die Web-Adressen der wichtigsten Fundorte dieser Art gefunden hat, wird man sie immer wieder beim Bibliografieren verwenden. 
-Suchstrategien anwenden
+
+* _Suchmaschinen_: Zugriff auf zahlreiche Webseiten, die automatisch von der Suchmaschine erfasst werden; die Webseiten sind nicht nach Qualität selektiert oder bewertet, d. h. man erhält im Normalfall sehr viele Ergebnisse, die man selbst prüfen muss. Suchmaschinen unterscheiden sich nach der Art und Menge der Webseiten, die sie erfassen. Um eine halbwegs vollständige Übersicht über die Webseiten zu einem Thema zu erhalten, sollte man daher mit mindestens zwei Suchmaschinen arbeiten. Dafür gibt es auch sogenannte
+* _Metasuchmaschinen_, die für eine Suche automatisch mehrere Suchmaschinen heranziehen. 
+* _Spezielle Suchmaschinen_, wie. z.B. das deutsche Forschungsportal, mit einem beschränkten, dafür geprüften Suchraum (hier Universitäten und wissenschaftliche Organisationen). Das Forschungsportal erfasst im gegensatz zu den meisten anderen Suchmaschinen auch dynamische Webseiten, das sind solche, die erst bei Aufruf aus Datenbanken generiert werden.
+* _Wiki_, auch WikiWiki und WikiWeb genannt, ist eine im World Wide Web verfügbare Seitensammlung, die von den Benutzern nicht nur gelesen, sondern auch online geändert werden kann. Wikis ähneln damit Content Management Systemen. Der Name stammt von wikiwiki, dem hawaiianischen Wort für „schnell“. Wie bei Hypertexten üblich, sind die einzelnen Seiten und Artikel eines Wikis durch Querverweise (Links) miteinander verbunden. Dazu gibt es in der Regel eine Bearbeitungsfunktion, die ein Eingabefenster öffnet, in dem der Text des Artikels bearbeitet werden kann. Das weltweit größte Wiki ist die Wikipedia, die in mehreren Sprachen von ehrenamtlichen Autoren verfasst und ständig erweitert wird. http://de.wikipedia.org/
+* _Kataloge_: vorgefertigte und (meist) selektierte Sammlungen von Links zu den verschiedensten Themen. Viele Suchmaschinen bieten zugleich auch einen Katalog oder Index, der hierarchisch von allgemeinen zu spezielleren Themen führt. Zum Einstieg in ein Thema sind solche Kataloge gut geeignet, allerdings sind sie selten spezifisch genug. 
+* _Linksammlungen und “Portale”_: fach- oder gar themenspezifische Sammlungen von Dokumenten und Hyperlinks, die von Institutionen, Projekten, manchmal auch von Privatpersonen zusammengestellt wurden. Gute Portale enthalten bereits einen Großteil der für ein Thema oder Fachgebiet relevanten Links. Wenn eine Linksammlung allerdings in einer einmaligen Aktion angelegt wurde und nicht dauernd gewartet wird, veraltet sie sehr schnell, d.h. viele Links funktionieren nicht mehr. Ein weiteres Problem ist, dass diese Sammlungen natürlich auch keinen Anspruch auf Vollständigkeit erheben können. Eine zusätzliche Suche ist auf jeden Fall ratsam.
+* _Suche in einzelnen Websites bzw. Datenbanken_: Von der „offenen“ Suche im gesamten Internet unterscheiden wir die „geschlossene“ in einer bestimmten Website bzw. Datenbank. Das betrifft z. B. Bibliotheken, Versandbuchhandlungen, das Verzeichnis lieferbarer Bücher, Zeitschriften-Indizes usw. Wenn man einmal die Web-Adressen der wichtigsten Fundorte dieser Art gefunden hat, wird man sie immer wieder beim Bibliografieren verwenden. 
+
+## Suchstrategien anwenden
+
 In diesem Abschnitt geht es um die „Kunst“, mit Suchmaschinen so zu arbeiten, dass man auch wirklich findet, was man sucht. Das ist keineswegs trivial: Im WWW finden sich zu praktisch allen Stichworten (v. a. englischen) viele bis sehr viele Seiten. Es ist unmöglich, alle diese Ergebnisse durchzusehen. Daher wird man von vornherein versuchen, eine Abfrage so genau zu formulieren, dass wenige, dafür aber passende Treffer erzielt werden. 
-Suchmaschinen benutzen
+
+### Suchmaschinen benutzen
+
 Suchmaschinen sind riesige Datenbanken. Sie werden ständig automatisch aktualisiert und erweitert. Eigenständige Programme (Crawler, Robots oder Spider genannt) durchsuchen weltweit die Web-Server. Sie finden auf einer Seite, die sie schon indiziert haben, neue Verknüfungen, die sie dann regelmäßig nach weiteren bzw. aktualisierten Informationen durchsuchen. Alle Wörter bis auf die häufigsten (sog. „Stopwörter“, z. B. und, der, die, das, ...) werden in einer Liste gespeichert, auf der die Suchanfrage durchgeführt wird. Jedes Wort in der Liste ist mit denjenigen Internetseiten verknüpft, auf denen der Suchbegriff auftaucht. 
+
 Die Qualität von Suchmaschinen hängt wesentlich davon ab, wie oft und wie gründlich das WWW durchsucht wird (Abdeckungsgrad). Außerdem spielt die Relevanz der Suchergebnisse eine Rolle, die sich vor allem in der Sortierung („Ranking“) der Suchergebnisse ausdrückt. Die relevanten Treffer sollten sich am Anfang der Ergebnisliste, d. h. unter den ersten 10 bis 20 Treffern finden. Wortorientierte, statistische Verfahren speichern beispielsweise, wie oft ein bestimmter Begriff auf einer bestimmten Seite auftaucht. Je häufiger ein Suchbegriff im Dokument, im Titel oder in den Überschriften auftaucht, desto zentraler scheint das Dokument bezüglich eines Suchbegriffs, und desto weiter oben rangiert es in der Liste der Ergebnisse. 
+
 Dieses Verfahren ist mangelhaft, da es die Vernetzung der Internetseiten untereinander außer Acht lässt. Neuere Analyseverfahren untersuchen z. B., wie viele Links von einer bestimmten Seite auf eine andere Seite führen. Je mehr Links auf eine Seite zeigen, desto „wichtiger“ ist sie. Es wird dabei auch beachtet, mit welchen Wörtern auf eine Seite verwiesen wird. Die Rangordnung wird also nicht mehr über das Thema hergestellt, sondern über die Popularität einer Seite. Der Nachteil solcher Verfahren ist, dass eine wichtige, aber „unpopuläre“ Website kein gutes Ranking erhält. 
 Das erste, was man von Suchmaschinen sieht, ist ein Eingabefenster für die Suchbegriffe und die Schaltfläche, mit der die Suche gestartet wird. Die Suche nach einzelnen Stichworten ist jedoch wenig zielführend. Meistens ergibt sie viele Treffer. Darunter befinden sich auch zahlreiche Webseiten, auf denen das Stichwort nur zufällig oder in ganz anderen Zusammenhängen vorkommt. Selbst das „Ranking“ (s. oben) durch die Suchmaschine ergibt noch Hunderte oder Tausende möglicherweise relevanter Treffer.
 
 Suchmaschinen können aber wesentlich mehr, als bloß nach einem einzelnen Begriff zu suchen. Nicht immer sind alle der in der folgenden Tabelle aufgelisteten Funktionen und Operatoren verfügbar. Vor dem Einsatz einer Suchmaschine sollte man daher in der Online-Hilfe nachsehen, um Art und Verwendung von Suchoperatoren kennenzulernen. Die Boole’schen“ (logischen) Operatoren AND, OR und NOT finden sich, wenn überhaupt, meist erst bei der Eingabemaske für „Fortgeschrittene“ (unter Bezeichnungen wie advanced search, erweiterte Suche, Profi-Suche u. dgl.)
-Aktionstabelle: Mit Suchmaschinen arbeiten
-Sie verwenden ... 
-Das bedeutet
-Beispiel
-Suche nach Zeichenketten (meist in Anführungszeichen eingeschlossen)
-mehrere Begriffe werden als einer behandelt, die komplette Phrase wird wörtlich gesucht
-„virtual world“; „ich hab genug“usw. 
-den Operator OR bzw. Aneinanderreihung von Suchbegriffen*
-Einer der beiden Begriffe oder beide sollen auf der Webseite vorkommen
-virtual world oder virtual OR world = getrennte Suche nach „virtual“ und „world“
-den Operator AND bzw. Aneinanderreihung von Suchbegriffen*
-Beide Suchbegriffe müssen auf der Webseite vorkommen 
-virtual world oder virtual AND world = gemeinsame Suche nach „virtual“ and „world“
-„wild cards“ (Platzhalter), z. B. * oder ?
-an dieser Stelle im Suchbegriff dürfen beliebige Zeichen erscheinen 
-interpassiv* = Suche nach interpassiv/e/er/en, Interpassivität usw. 
-Einschränkung auf bestimmte Sprache
-nur Webseiten in der angegebenen Sprache werden angezeigt
-„interpassiv*“ in beliebiger Sprache = 120 Treffer, in Deutsch = 33 Treffer
-den Operator NEAR (nahe) = Kontextsuche
-zwischen den beiden Suchbegriffen darf nur eine bestimmte Anzahl Worte stehen; ein Suchbegriff muss im Umfeld eines anderen auftreten
-agent NEAR „virtual character“ = agent soll max. 10 Wörter (AltaVista) von „virtual character“ entfernt auftreten
-den Operator NOT vor einem Suchbegriff
-dieser Suchbegriff soll ausgeschlossen werden; günstig, wenn eine häufige Zusammensetzung unerwünscht ist; 
-frame AND NOT picture = Suche nach „frame“, aber nicht in der Zusammensetzung „picture frame“ (Bilderrahmen)
-Klammern in komplexen Suchabfragen
-Bedingungen in Klammern werden zuerst ausgewertet; vorgegebene Priorität der Operatoren (AND vor OR) wird umgangen
-(kalb OR kuh) AND schwarz = Webseiten mit kalb AND schwarz sowie Seiten mit kuh AND schwarz. 
-kalb OR kuh AND schwarz = Seiten mit kuh AND schwarz sowie Seiten mit kalb. 
-den Operator „+“ unmittelbar vor einem Suchbegriff
-Das Wort muss auf der Webseite vorkommen
-berlin +immobilie = Suche nach Seiten zu Berlin, auf denen das Wort „Immobilie“ vorkommt
-den Operator „-“ unmittelbar vor einem Suchbegriff
-Das Wort darf auf der Webseite nicht vorkommen
-berlin -briefmarke = Suche nach Seiten zu Berlin, auf denen das Wort „Briefmarke“ nicht vorkommt
-* Überprüfen Sie, z. B. anhand der Online-Hilfe, welche Voreinstellung für Ihre Suchmaschine gilt
-Die Gefahr bei der Suche im WWW ist heute schon längst nicht mehr, dass Sie nichts finden, sondern dass Sie viel zu viel finden: Sie müssen sich bei den meisten Suchmaschinen schon sehr anstrengen, um sich einen Suchbegriff auszudenken, für den überhaupt keine Treffer erzielt werden. Heute geht es eher darum, möglichst das Wichtige oder Richtige aus den vielen Ergebnissen herauszufiltern. Deshalb ist die Bedeutung der Metasuchmaschinen zurückgegangen. Sie liefern auf jeden Fall eine höhere Trefferquote als eine einzelne Suchmaschine, doch eine Sortierung der Treffer ist nicht möglich (da diese ja auf den Kriterien der einzelnen Suchmaschinen beruht). Umfangreiche Ergebnislisten von Metasuchmaschinen sind daher unübersichtlich oder sogar unbrauchbar. Sinnvoll ist ihre Verwendung dagegen bei der Suche nach sehr seltenen Suchbegriffen. 
-Suchergebnisse prüfen
+
+Table: **(\#tab:suchmaschinen) Mit Suchmaschinen arbeiten**
+
+| Sie verwenden …                     | Das bedeutet…                   | Beispiel                               |
+|-------------------------------------|---------------------------------|----------------------------------------|
+|Suche nach Zeichenketten (meist in Anführungszeichen eingeschlossen) \vspace{5mm} | mehrere Begriffe werden als einer behandelt, die komplette Phrase wird wörtlich gesucht\vspace{5mm} | „virtual world“; „ich hab genug“ usw. \vspace{5mm} | 
+| den Operator OR bzw. Aneinanderreihung von Suchbegriffen ^1[Überprüfen Sie, z. B. anhand der Online-Hilfe, welche Voreinstellung für Ihre Suchmaschine gilt]\vspace{5mm} | Einer der beiden Begriffe oder beide sollen auf der Webseite vorkommen \vspace{5mm} | virtual world oder virtual OR world = getrennte Suche nach „virtual“ und „world“ \vspace{5mm} | 
+| den Operator AND bzw. Aneinanderreihung von Suchbegriffen ^1[Überprüfen Sie, z. B. anhand der Online-Hilfe, welche Voreinstellung für Ihre Suchmaschine gilt] \vspace{5mm} | Beide Suchbegriffe müssen auf der Webseite vorkommen \vspace{5mm} | virtual world oder virtual AND world = gemeinsame Suche nach „virtual“ and „world“ \vspace{5mm} | 
+| „wild cards“ (Platzhalter), z. B. \* oder ? \vspace{5mm} | an dieser Stelle im Suchbegriff dürfen beliebige Zeichen erscheinen \vspace{5mm} | interpassiv* = Suche nach interpassiv/e/er/en, Interpassivität usw. \vspace{5mm} | 
+| Einschränkung auf bestimmte Sprache \vspace{5mm} | nur Webseiten in der angegebenen Sprache werden angezeigt \vspace{5mm} | „interpassiv*“ in beliebiger Sprache = 120 Treffer, in Deutsch = 33 Treffer \vspace{5mm} | 
+| den Operator NEAR (nahe) = Kontextsuche \vspace{5mm} | zwischen den beiden Suchbegriffen darf nur eine bestimmte Anzahl Worte stehen; ein Suchbegriff muss im Umfeld eines anderen auftreten \vspace{5mm} | agent NEAR „virtual character“ = agent soll max. 10 Wörter (AltaVista) von „virtual character“ entfernt auftreten \vspace{5mm} | 
+| den Operator NOT vor einem Suchbegriff \vspace{5mm} | dieser Suchbegriff soll ausgeschlossen werden; günstig, wenn eine häufige Zusammensetzung unerwünscht ist \vspace{5mm} | frame AND NOT picture = Suche nach „frame“, aber nicht in der Zusammensetzung „picture frame“ (Bilderrahmen) \vspace{5mm} | 
+| Klammern in komplexen Suchabfragen \vspace{5mm} | Bedingungen in Klammern werden zuerst ausgewertet; vorgegebene Priorität der Operatoren (AND vor OR) wird umgangen \vspace{5mm} | (kalb OR kuh) AND schwarz = Webseiten mit kalb AND schwarz sowie Seiten mit kuh AND schwarz. kalb OR kuh AND schwarz = Seiten mit kuh AND schwarz sowie Seiten mit kalb. \vspace{5mm} | 
+| den Operator „+“ unmittelbar vor einem Suchbegriff \vspace{5mm} | Das Wort _muss_ auf der Webseite vorkommen \vspace{5mm} | berlin +immobilie = Suche nach Seiten zu Berlin, auf denen das Wort „Immobilie“ vorkommt \vspace{5mm} | 
+| den Operator „-“ unmittelbar vor einem Suchbegriff \vspace{5mm} | Das Wort _darf_ auf der Webseite _nicht_ vorkommen \vspace{5mm} | berlin -briefmarke = Suche nach Seiten zu Berlin, auf denen das Wort „Briefmarke“ nicht vorkommt \vspace{5mm} | 
+
+
+Die Gefahr bei der Suche im WWW ist heute schon längst nicht mehr, dass Sie nichts finden, sondern dass Sie viel zu viel finden: Sie müssen sich bei den meisten Suchmaschinen schon sehr anstrengen, um sich einen Suchbegriff auszudenken, für den überhaupt keine Treffer erzielt werden. Heute geht es eher darum, möglichst das Wichtige oder Richtige aus den vielen Ergebnissen herauszufiltern. Deshalb ist die Bedeutung der Metasuchmaschinen zurückgegangen. Sie liefern auf jeden Fall eine höhere Trefferquote als eine einzelne Suchmaschine, doch eine Sortierung der Treffer ist nicht möglich (da diese ja auf den Kriterien der einzelnen Suchmaschinen beruht). Umfangreiche Ergebnislisten von Metasuchmaschinen sind daher unübersichtlich oder sogar unbrauchbar. Sinnvoll ist ihre Verwendung dagegen bei der Suche nach sehr seltenen Suchbegriffen.
+
+### Suchergebnisse prüfen
+
 Die Trefferliste ist geordnet nach dem Prinzip „best first“, d. h. die Ergebnisse, die nach dem Verfahren der Suchmaschine den Suchkriterien am meisten entsprechen, erscheinen als erste. Ein kurzer Blick auf diese ersten Fundstellen kann Ihnen daher schon sagen, ob Sie mit Ihrer Suchabfrage richtig liegen. Wenn hier schon Treffer auftauchen, die mit Ihrer Abfrage anscheinend nichts zu tun haben, so ist eine andere Suchstrategie angebracht. Sie müssen herausfinden, wie Sie die unerwünschten Fundstellen ausschließen können. Das kann geschehen durch
+
 * einen anderen Suchbegriff (Synonym, unter- oder übergeordneter Begriff, Phrase ...)
 * eine komplexe Suchabfrage, mit (Boole’schen) Operatoren verknüpft, siehe Aktionstabelle oben. 
+
 Das „best first“-Prinzip kann Ihnen aber auch eine mühsame weitere Einschränkung des Suchraumes ersparen. Wenn Sie – bei einer nicht allzu großen Menge von Ergebnissen (bis maximal 100) – die ersten zehn Treffer aufrufen, können Sie feststellen, ob Sie mit Ihrer Suche „ins Schwarze“ getroffen haben. Das wären z. B. Seiten, die als Startseiten und Linksammlungen zum Thema konzipiert sind, und von denen aus Sie gleich themenspezifisch weitere Websites erschließen können. Wenn sich darüber hinaus in so einer Linksammlung die selben Adressen finden, die auch in der Trefferliste erscheinen, so können Sie schon ziemlich sicher sein, dass Sie das Gebiet bereits einigermaßen erschlossen haben. 
+
 Trotzdem sollten Sie auch die weiter unten gereihten Treffer überfliegen oder stichprobenartig prüfen. Wenn die letzten noch (beinahe) ebenso relevant sind wie die ersten und die Gesamtzahl der Treffer zu hoch ist, um alle einzeln aufzurufen, sollten Sie doch noch engere und speziellere Suchbegriffe probieren
-Ergebnisse sichern und bewerten
+
+## Ergebnisse sichern und bewerten
+
 Nehmen wir an, Sie haben mit der Suche ein rundes Dutzend relevanter und vielversprechender Treffer erzielt. Sie müssen nun
 * sicherstellen, dass Sie sie identifizieren und wiederfinden können, und
 * jede Fundstelle sichten und auf Qualität und Relevanz für Ihr Thema untersuchen
-Web-Adressen abspeichern
-Internet-Browser stellen Funktionen („Lesezeichen“ oder „Favoriten“ in den meistverwendeten Browsern) zur Verfügung, mit denen Sie selbst Sammlungen von Links anlegen können. Diese können dann direkt aus dem Browser heraus aufgerufen werden. 
+
+### Web-Adressen abspeichern
+
+Internet-Browser stellen Funktionen („Lesezeichen“ oder „Favoriten“ in den meistverwendeten Browsern) zur Verfügung, mit denen Sie selbst Sammlungen von Links anlegen können. Diese können dann direkt aus dem Browser heraus aufgerufen werden.
+
 Um ein solches Lesezeichen anzulegen, muss die entsprechende Seite nicht einmal geöffnet werden. Es ist auch möglich, einen Hyperlink auf einer Webseite auf diese Weise abzuspeichern. Diese Vorgangsweise genügt für die Sicherung der Ergebnisse im ersten Durchgang. Nach der Sichtung und Prüfung müssen diese Lesezeichen (oder Favoriten) jedoch weiter bearbeitet werden. 
+
 Web-Adressen sind schnell gespeichert – die Technik ist nicht das Problem, sondern, wie so oft, die Organisation. Endlose Listen von Lesezeichen/Favoriten werden schnell unübersichtlich und damit wertlos. Je nach dem verwendeten Browser können und sollten Sie 
 * den Lesezeichen/Favoriten aussagekräftige Namen geben,
 * sie mit Anmerkungen kommentieren,
 * sie in themenspezifischen Ordnern zusammenfassen und
 * regelmäßig prüfen, ob die Links noch korrekt sind. 
+
 Die Verwaltung von gespeicherten Web-Adressen ist bei den gängigen Browsern nur unbefriedigend gelöst. Schwierig wird sie vor allem, wenn man die eigenen Lesezeichen von verschiedenen Rechnern oder mit unterschiedlichen Browsern verwenden will. Es gibt Dienstprogramme, die die Verwaltung erleichtern. Neben dem Abspeichern und Kommentieren erlauben sie das Prüfen der Links und das Konvertieren für andere Browser. Manche Provider bieten die Verwaltung der Lesezeichen im WWW an. Dann ist es möglich, über den Web-Browser von einem beliebigen Rechner aus auf die Lesezeichen zuzugreifen. 
-Webseiten auf Relevanz prüfen
+
+### Webseiten auf Relevanz prüfen
+
 Nun werden diese „roh“ gesammelten Hyperlinks der Reihe nach aufgerufen und geprüft, und zwar auf ihre Relevanz und ihre Qualität. Für diese Prüfung empfiehlt es sich, systematisch und nach Plan vorzugehen, da man sonst in Gefahr ist, in zielloses Surfen und Blättern zu geraten, immer noch mehr Hyperlinks zu folgen und immer neue Fundstellen zu öffnen, ohne ein Bild davon zu haben, was man bereits gefunden hat. Es kann ja durchaus sinnvoll und notwendig sein, den Verweisen auf einer mit der Suchmaschine gefundenen Seite nachzugehen, aber es ist ratsam, das in einem späteren Durchgang zu machen.
 
-Aktionstabelle: Aufbau von URLs
-Die Web-Adresse beginnt mit…
-Das heißt…
-Es handelt sich um…
-http://
-HyperText Transfer Protocol
-HTML-Seiten (häufigster Fall im WWW)
-ftp://
-File Transfer Protocol
-Dateien/Programme zum Herunterladen
-File://
-Datei
-Lokale HTML-Dateien (auf Ihrem Rechner)
-Die Web-Adresse endet mit ... 
+Table: **(\#tab:urls) Beginn von URLs**
 
-Es handelt sich dabei um ... 
-.de, .ch, .at usw. 
-Länderkürzel
-genormte Länderkürzel; werden national vergeben, sind aber frei zugänglich 
-.edu
-education
-eine US Bildungseinrichtung (z.B. Universität)
-.mil
-military
-eine militärische Einrichtung in den USA
-.com
-commercial
-kommerzielle Unternehmen, jedoch frei zugänglich
-.net
-net (Netz)
-an und für sich für Internet-relevante Adressen, jedoch frei zugänglich
-.org
-organization
-eine Organisation; vorzugsweise non-profit, aber frei zugänglich
-.eu
-European
-früher nur EU-Institutionen, jetzt freigegeben f. europ. Firmen u.ä.
-.info
-Information
-Info-Websites, besonders für Informationsanbieter gedacht, frei verfügbar
-.biz
-business
-eine kommerzielle Website, alternativ zu .com
-.name
-persönl. Name
-eine persönliche Website, idealerweise mit einem persönlichen Namen davor
+| Die Web-Adresse beginnt mit…        | Das heißt…                      | Es handelt sich um…                    |
+|-------------------------------------|---------------------------------|----------------------------------------|
+| http:// \vspace{5mm} | HyperText Transfer Protocol \vspace{5mm} | HTML-Seiten (häufigster Fall im WWW) \vspace{5mm} | 
+| ftp:// \vspace{5mm} | File Transfer Protocol \vspace{5mm} | Dateien/Programme zum Herunterladen \vspace{5mm} | 
+| File:// \vspace{5mm} | Datei \vspace{5mm} | Lokale HTML-Dateien (auf Ihrem Rechner) \vspace{5mm} | 
 
-Abb.: Der zyklische Suchprozess
+Table: **(\#tab:urls2) Ende von URLs**
+
+| Die Web-Adresse endet mit…|  Das heißt…   | Es handelt sich um…                                                |                     
+|---------------------------|---------------|--------------------------------------------------------------------|
+| .de, .ch, .at usw.  \vspace{5mm} | Länderkürzel \vspace{5mm} | genormte Länderkürzel; werden national vergeben, sind aber frei zugänglich \vspace{5mm} |  
+| .edu \vspace{5mm} | education \vspace{5mm} | eine US Bildungseinrichtung (z.B. Universität) \vspace{5mm} | 
+| .mil \vspace{5mm} | military \vspace{5mm} | eine militärische Einrichtung in den USA \vspace{5mm} | 
+| .com \vspace{5mm} | commercial \vspace{5mm} | kommerzielle Unternehmen, jedoch frei zugänglich \vspace{5mm} | 
+| .net\vspace{5mm} | net (Netz) \vspace{5mm} | signalisiert eine Internet-relevante Adressen, frei zugänglich \vspace{5mm} | 
+| .org \vspace{5mm} | organization \vspace{5mm} | eine Organisation; vorzugsweise non-profit, aber frei zugänglich \vspace{5mm} | 
+| .eu \vspace{5mm} | European \vspace{5mm} | früher nur EU-Institutionen, jetzt freigegeben f. europ. Firmen u.ä. \vspace{5mm} | 
+| .info \vspace{5mm} | Information \vspace{5mm} | Info-Websites, besonders für Informationsanbieter gedacht, frei verfügbar \vspace{5mm} | 
+| .biz \vspace{5mm} | business \vspace{5mm} | eine kommerzielle Website, alternativ zu .com \vspace{5mm} | 
+| .name \vspace{5mm} | persönl. Name \vspace{5mm} | eine persönliche Website, idealerweise mit einem persönlichen Namen davor \vspace{5mm} | 
+
+
+
+```{r fig.align='center', echo=FALSE, fig.cap='Der zyklische Suchprozess'}
+knitr::include_graphics('images/recherchieren-internet-zyklischer-suchprozess-min.png', dpi = NA)
+```
 
 Betrachten Sie die Suche im WWW als zyklischen Prozess: nach der Suche und Sicherung einer überschaubaren Anzahl von Ergebnissen folgt eine Phase der Sichtung und Bewertung. Erst wenn diese abgeschlossen ist, können Sie den weiteren „Materialbedarf“ feststellen und gezielt erneut suchen oder die bereits erzielten Ergebnisse auf weitere Hinweise und Hyperlinks prüfen. 
-Die Fragen, die Sie bei der Relevanzprüfung an eine Website stellen, sind ganz ähnlich den Fragen bei der Relevanzprüfung von Büchern und Artikeln (siehe Kapitel „Recherchieren“). Um einen raschen Überblick zu gewinnen, stehen Ihnen nun aber nicht die üblichen Hilfsmittel wie Klappentext, Inhaltsverzeichnis oder Vorwort zur Verfügung. In einem Hypertext gibt es andere Informationen und Hinweise:
-* Adresse: eine URL verrät meistens einiges über ihre Herkunft. Vor allem die „Top-Level-Domain“, also der letzte Teil des Domänennamens (= jener Teil der Adresse, der meist mit „www“ beginnt) ist genormt und gibt einen Hinweis auf Ursprung und Zielsetzung  der Website (s. Aktionstabelle). Außerdem sind z. B. Universitäten meistens an ihren Domain-Namen erkennbar, in Deutschland beginnen sie sogar einheitlich mit „uni-...“. 
-* Startseite: Die von der Suchmaschine gefundene Seite muss nicht die Startseite (home page) der Website sein. Suchen Sie die übergeordneten Seiten (über die in der Website (nicht im Browser) verfügbaren Schaltfläche „Home“ oder „Start“, über ein Menü, oder durch schrittweises Weglöschen der letzten Angaben bei der Web-Adresse). Da Websites sehr stark hierarchisch gegliedert sein können, ist die über die Schaltfläche „Home“ erreichbare Startseite/Homepage oftmals zu weit oben und zu allgemein für Ihre Zwecke, z. B. kann dieser Link direkt zur Eingangsseite des Instituts oder gar der Universität führen. Wichtig für die Relevanzprüfung ist die Startseite zum Thema, zur Person, zum Text. 
-* Index oder site map: Auf der passenden Startseite finden Sie meistens eine Art Inhaltsverzeichnis oder eine grafisch aufbereitete Übersicht über die Website (site map). Hier können Sie sich ein erstes Bild davon machen, was alles geboten wird. Allerdings ist diese Übersicht leider oft weniger aussagekräftig und zuverlässig als das Inhaltsverzeichnis eines Buches. Verweise können ins Leere gehen, und versprochene Inhalte fehlen oder sind dürftiger als angekündigt: da hinter einer Website kein prüfender Verlag steht, gibt es keine Garantie dafür, dass eine Website auch enthält, was ihr Inhaltsverzeichnis verspricht (siehe „Webseiten auf Qualität prüfen“).
-* Von der Startseite nach „unten“: Rufen Sie daher (zumindest stichprobenartig) die einzelnen Punkte des Inhaltsverzeichnisses auf, um einen Überblick über Breite und Tiefe der Website zu erhalten. Sie können dabei auch einzelne Seiten „Probelesen“, wie Sie das beim Durchblättern eines Buches tun würden. 
-* Von der Startseite nach „oben“: Finden Sie heraus, in welchem Kontext die gefundene Website steht. Sie gelangen so z. B. über die Liste der Publikationen der Autorin zu Angaben über die Person und weiter zur Institution oder Firma, in der die Autorin tätig ist. Sie können dadurch die Inhalte besser ein- und zuordnen. 
-* Seitenzweige: Möglicherweise finden Sie dadurch andere Publikationen und/oder Themen, die für Sie ebenfalls oder noch mehr von Interesse sind. Begnügen Sie sich in dieser Phase jedoch damit, diese Seiten für eine spätere Sichtung vorzumerken, also nur den Link abzuspeichern – s. oben, „Zyklische Vorgangsweise“. 
+
+Die Fragen, die Sie bei der Relevanzprüfung an eine Website stellen, sind ganz ähnlich den Fragen bei der Relevanzprüfung von Büchern und Artikeln (siehe Kapitel XXX „Recherchieren“). Um einen raschen Überblick zu gewinnen, stehen Ihnen nun aber nicht die üblichen Hilfsmittel wie Klappentext, Inhaltsverzeichnis oder Vorwort zur Verfügung. In einem Hypertext gibt es andere Informationen und Hinweise:
+
+* _Adresse_: eine URL verrät meistens einiges über ihre Herkunft. Vor allem die „Top-Level-Domain“, also der letzte Teil des Domänennamens (= jener Teil der Adresse, der meist mit „www“ beginnt) ist genormt und gibt einen Hinweis auf Ursprung und Zielsetzung  der Website (s. Aktionstabelle). Außerdem sind z. B. Universitäten meistens an ihren Domain-Namen erkennbar, in Deutschland beginnen sie sogar einheitlich mit „uni-...“. 
+* _Startseite_: Die von der Suchmaschine gefundene Seite muss nicht die Startseite (home page) der Website sein. Suchen Sie die übergeordneten Seiten (über die in der Website (nicht im Browser) verfügbaren Schaltfläche „Home“ oder „Start“, über ein Menü, oder durch schrittweises Weglöschen der letzten Angaben bei der Web-Adresse). Da Websites sehr stark hierarchisch gegliedert sein können, ist die über die Schaltfläche „Home“ erreichbare Startseite/Homepage oftmals zu weit oben und zu allgemein für Ihre Zwecke, z. B. kann dieser Link direkt zur Eingangsseite des Instituts oder gar der Universität führen. Wichtig für die Relevanzprüfung ist die Startseite zum Thema, zur Person, zum Text. 
+* _Index oder site map_: Auf der passenden Startseite finden Sie meistens eine Art Inhaltsverzeichnis oder eine grafisch aufbereitete Übersicht über die Website (site map). Hier können Sie sich ein erstes Bild davon machen, was alles geboten wird. Allerdings ist diese Übersicht leider oft weniger aussagekräftig und zuverlässig als das Inhaltsverzeichnis eines Buches. Verweise können ins Leere gehen, und versprochene Inhalte fehlen oder sind dürftiger als angekündigt: da hinter einer Website kein prüfender Verlag steht, gibt es keine Garantie dafür, dass eine Website auch enthält, was ihr Inhaltsverzeichnis verspricht (siehe XXX „Webseiten auf Qualität prüfen“).
+* _Breite untersuchen_: Rufen Sie daher (zumindest stichprobenartig) die einzelnen Punkte des Inhaltsverzeichnisses auf, um einen Überblick über Breite und Tiefe der Website zu erhalten. Sie können dabei auch einzelne Seiten „Probelesen“, wie Sie das beim Durchblättern eines Buches tun würden. 
+* _Tiefe untersuchen_: Finden Sie heraus, in welchem Kontext die gefundene Website steht. Sie gelangen so z. B. über die Liste der Publikationen der Autorin zu Angaben über die Person und weiter zur Institution oder Firma, in der die Autorin tätig ist. Sie können dadurch die Inhalte besser ein- und zuordnen. 
+* _Seitenzweige_: Möglicherweise finden Sie dadurch andere Publikationen und/oder Themen, die für Sie ebenfalls oder noch mehr von Interesse sind. Begnügen Sie sich in dieser Phase jedoch damit, diese Seiten für eine spätere Sichtung vorzumerken, also nur den Link abzuspeichern – s. oben, „Zyklische Vorgangsweise“. 
 Aufgrund dieses Suchlaufs in verschiedene Richtungen können Sie entscheiden:
-* Die Website ist nicht relevant für Ihre Arbeit. In diesem Fall sollten Sie den gespeicherten Hyperlink löschen, um nicht später nochmals auf diese für Sie unbrauchbare Website „hereinzufallen“ und damit Zeit zu verschwenden. 
-* Die Website ist relevant. Wenn Ihr Browser es zulässt, sollten Sie zur gespeicherten Adresse einen kurzen Kommentar hinzufügen, der Inhalt und Bedeutung (für Ihre Arbeit) kurz zusammenfasst. Das ist als Erinnerungsstütze notwendig, denn nach der Sichtung von möglicherweise Dutzenden von Webseiten werden Sie garantiert nicht mehr Struktur und Inhalt jeder einzelnen Seite im Gedächtnis behalten haben. 
+* _Die Website ist nicht relevant_ für Ihre Arbeit. In diesem Fall sollten Sie den gespeicherten Hyperlink löschen, um nicht später nochmals auf diese für Sie unbrauchbare Website „hereinzufallen“ und damit Zeit zu verschwenden. 
+* _Die Website ist relevant_. Wenn Ihr Browser es zulässt, sollten Sie zur gespeicherten Adresse einen kurzen Kommentar hinzufügen, der Inhalt und Bedeutung (für Ihre Arbeit) kurz zusammenfasst. Das ist als Erinnerungsstütze notwendig, denn nach der Sichtung von möglicherweise Dutzenden von Webseiten werden Sie garantiert nicht mehr Struktur und Inhalt jeder einzelnen Seite im Gedächtnis behalten haben. 
 Webseiten auf Qualität prüfen
 Die oben beschriebene Methode der Sichtung einer Website gibt bereits gewisse Aufschlüsse über die Qualität Ihres Fundstücks: institutionelle Einbettung und Trägerschaft, „gepflegte“ Webseiten, Umfang usw. Darüber hinaus beachten Sie auch noch:
-* Aktualität: Webseiten sollten (meist am Ende) einen Vermerk tragen, wann sie zuletzt aktualisiert wurden. Ein weit zurückliegendes Datum kann bedeuten, dass die von der Seite weiterführenden Hyperlinks zu einem wesentlichen Teil veraltet sind. Dadurch kann die Website unbrauchbar sein für Ihre Zwecke – muss aber nicht. Wenn es sich z. B. um einen Text (Skriptum, Buch ...) handelt, der eher in sich geschlossen ist, so kann er seine Gültigkeit durchaus über mehrere Jahre bewahren. Ob der Inhalt hingegen schon überholt und deshalb für Sie unbrauchbar ist, ist eine andere Frage, die Sie wie bei einem Buch selbst zu beurteilen haben. 
-* Autorin: Selbstdarstellung der Autorin sowie das Werkverzeichnis geben (falls vorhanden) Aufschluss über bisherige Tätigkeiten und Veröffentlichungen. Das liefert Hinweise wie: Hat die Autorin in angesehenen (peer-reviewed) Zeitschriften bzw. Verlagen zu diesem Thema veröffentlicht? Wie lange und wie intensiv ist die Autorin auf diesem Gebiet bereits tätig? Mit wem arbeitet die Autorin zusammen?
-* Institution: Es versteht sich fast von selbst, dass die private Homepage eines Studenten mit mehr Vorsicht zu betrachten ist als Webseiten, die auf dem „offiziellen“ Server einer Forschungseinrichtung zu finden sind. (Die Einschränkung auf „offiziell“ ist notwendig, da oft Einzelpersonen auf einem Institutsserver ihre eigenen, mehr oder weniger privaten Webseiten präsentieren. Die Institution sollte zwar die Qualität und „political correctness“ aller Inhalte prüfen, die unter ihrem Namen im Web veröffentlicht werden, ist aber manchmal damit überfordert). Beim Server einer Forschungseinrichtung kann angenommen werden, dass die Inhalte bereits intern auf ihre Qualität geprüft wurden, denn inzwischen haben die meisten Institutionen begriffen, dass ihre Website dem Image ebenso schaden wie nutzen kann. 
-* Wissenschaftlichkeit: Bei der Betrachtung der Inhalte selbst ist zu prüfen, ob sie den formalen und inhaltlichen Ansprüchen an wissenschaftliche Arbeiten entsprechen. Zwar sind nicht alle Texte auf einem Webserver auch wissenschaftliche Texte und müssen es auch nicht sein. Eine informative, vielleicht sogar unterhaltsame Kurzdarstellung eines Instituts oder eines Forschungsprojekts erfüllt eher die Rolle einer (Werbe)Broschüre oder eines Ratgebers. Argumentatives Schreiben und Quellennachweise wären dem Zweck dieser Texte hinderlich. Was jedoch auch hier nicht fehlen darf, ist der Hinweis auf jene Stellen und Veröffentlichungen, in denen sich die Forschung und Argumentation, die zu den plakativen Aussagen oder praktischen Anleitungen geführt hat, nachvollziehen lässt. Sofern es sich bei den Webseiten um Online-Versionen von wissenschaftlichen Artikeln oder Bücher handelt, versteht es sich von selbst, dass die formalen (z. B. Quellennachweise) und inhaltlichen (z. B. Sachlichkeit, Logik, Nachvollziehbarkeit) Kriterien genauso erfüllt werden müssen wie in gedruckten Werken. 
+* _Aktualität_: Webseiten sollten (meist am Ende) einen Vermerk tragen, wann sie zuletzt aktualisiert wurden. Ein weit zurückliegendes Datum kann bedeuten, dass die von der Seite weiterführenden Hyperlinks zu einem wesentlichen Teil veraltet sind. Dadurch kann die Website unbrauchbar sein für Ihre Zwecke – muss aber nicht. Wenn es sich z. B. um einen Text (Skriptum, Buch ...) handelt, der eher in sich geschlossen ist, so kann er seine Gültigkeit durchaus über mehrere Jahre bewahren. Ob der Inhalt hingegen schon überholt und deshalb für Sie unbrauchbar ist, ist eine andere Frage, die Sie wie bei einem Buch selbst zu beurteilen haben. 
+* _Autorin_: Selbstdarstellung der Autorin sowie das Werkverzeichnis geben (falls vorhanden) Aufschluss über bisherige Tätigkeiten und Veröffentlichungen. Das liefert Hinweise wie: Hat die Autorin in angesehenen (peer-reviewed) Zeitschriften bzw. Verlagen zu diesem Thema veröffentlicht? Wie lange und wie intensiv ist die Autorin auf diesem Gebiet bereits tätig? Mit wem arbeitet die Autorin zusammen?
+* _Institution_: Es versteht sich fast von selbst, dass die private Homepage eines Studenten mit mehr Vorsicht zu betrachten ist als Webseiten, die auf dem „offiziellen“ Server einer Forschungseinrichtung zu finden sind. (Die Einschränkung auf „offiziell“ ist notwendig, da oft Einzelpersonen auf einem Institutsserver ihre eigenen, mehr oder weniger privaten Webseiten präsentieren. Die Institution sollte zwar die Qualität und „political correctness“ aller Inhalte prüfen, die unter ihrem Namen im Web veröffentlicht werden, ist aber manchmal damit überfordert). Beim Server einer Forschungseinrichtung kann angenommen werden, dass die Inhalte bereits intern auf ihre Qualität geprüft wurden, denn inzwischen haben die meisten Institutionen begriffen, dass ihre Website dem Image ebenso schaden wie nutzen kann. 
+* _Wissenschaftlichkeit_: Bei der Betrachtung der Inhalte selbst ist zu prüfen, ob sie den formalen und inhaltlichen Ansprüchen an wissenschaftliche Arbeiten entsprechen. Zwar sind nicht alle Texte auf einem Webserver auch wissenschaftliche Texte und müssen es auch nicht sein. Eine informative, vielleicht sogar unterhaltsame Kurzdarstellung eines Instituts oder eines Forschungsprojekts erfüllt eher die Rolle einer (Werbe)Broschüre oder eines Ratgebers. Argumentatives Schreiben und Quellennachweise wären dem Zweck dieser Texte hinderlich. Was jedoch auch hier nicht fehlen darf, ist der Hinweis auf jene Stellen und Veröffentlichungen, in denen sich die Forschung und Argumentation, die zu den plakativen Aussagen oder praktischen Anleitungen geführt hat, nachvollziehen lässt. Sofern es sich bei den Webseiten um Online-Versionen von wissenschaftlichen Artikeln oder Bücher handelt, versteht es sich von selbst, dass die formalen (z. B. Quellennachweise) und inhaltlichen (z. B. Sachlichkeit, Logik, Nachvollziehbarkeit) Kriterien genauso erfüllt werden müssen wie in gedruckten Werken.
+
 Auch hier sollten Sie streng sein bei der Auswahl und alle Web-Adressen, die den Qualitätskriterien nicht genügen, aus Ihrem Verzeichnis wieder entfernen. 
-Material beschaffen
-Herunterladen und Drucken
+
+## Material beschaffen
+
+### Herunterladen und Drucken
 Müssen Sie sich Materialien aus dem Internet erst noch „beschaffen“, wenn Sie sowieso über Ihre gespeicherten Adressen darauf Zugriff haben? Die Antwort auf diese Frage hängt von Ihren Arbeits- und Lesegewohnheiten ab:
+
 * Wenn Sie lieber Gedrucktes als Bildschirme lesen, 
 * wenn Sie oft in den Materialien blättern und schmökern, 
 * wenn Sie auch dort arbeiten wollen, wo Sie keinen PC oder Internet-Zugang haben,
+
 dann werden Sie wahrscheinlich nicht darum herumkommen, die gefundenen Webseiten auszudrucken und abzulegen. 
 Häufig werden Artikel und längere Texte im WWW nicht als Webseiten (in HTML) und zur Darstellung am Bildschirm aufbereitet, sondern als Dokumente zum Herunterladen zur Verfügung gestellt. Das am häufigsten dafür verwendete Dateiformat ist PDF (portable document format). 
+
 PDF-Dateien können unabhängig vom Anwendungsprogramm, mit dem der Text erstellt und formatiert wurde, am Bildschirm so dargestellt werden, wie sie auch auf dem Papier erscheinen würden. Der Leser benötigt dazu nur ein kostenloses Programm, den „Acrobat Reader“. PDF-Dateien können am PC des Lesers nur dargestellt und (meistens) gedruckt, nicht aber als Text bearbeitet oder kopiert werden. Das bringt für die AutorInnen den Vorteil eines – wenn auch geringen – Schutzes vor Plagiaten. 
+
 Materialien aus dem Internet werden genau wie gedruckte Quellen in der Literaturdatenbank oder -kartei erfasst. Dabei werden alle Angaben gemacht, die später auch für das Zitieren von Quellen aus dem WWW notwendig sind (siehe Kapitel „Zitieren“). Notieren Sie auf jeden Fall die Web-Adresse (URL) sowie das Datum, an dem Sie das Material gesehen bzw. heruntergeladen haben: diese werden bei Quellen aus dem Web mitzitiert.
-Kauf im Internet
+
+### Kauf im Internet
 Der Buchhandel hat als eine der ersten Sparten den Weg zum E-Commerce genommen. Sie können praktisch alle deutschen und fremdsprachigen Bücher über das Internet beziehen. Bezahlt wird dabei vorwiegend mit Kreditkarte. Beim Bücherkauf im Internet ist zu beachten:
-* Datensicherheit: Kaufen Sie per Nachnahme oder mit der Kreditkarte. Kreditkarten-Daten sollten unbedingt in verschlüsselter Form übertragen werden. Der Web-Browser weist Sie durch eine Nachricht und/oder ein Symbol darauf hin, wann Sie eine „sichere“ Webseite aufrufen bzw. wieder verlassen. Bei Ihren Kundendaten und in e-Mails (Rechnung, Bestellbestätigung sollte höchstens ein Teil Ihrer Kreditkartennummer erscheinen, nie die ganze.
-* Verfügbarkeit und Lieferfristen: Worauf bezieht sich die angegebne Lieferzeit? Es kann sich um die Zeit bis zur Auslieferung oder aber um die (ungefähre) Zeit bis zur Zustellung handeln. Im ersten Fall müssen Sie den Postweg noch dazurechnen. 
-* Zustellung: mit der Post oder mit einem Paketdienst? Wenn Sie zu den üblichen Arbeitszeiten selten an der Lieferadresse zu finden sind, kann das Zusammentreffen mit dem Paketdienst mühsam werden. 
-* Warenkorb und Abbruch-Möglichkeit: Meistens werden die gewählten Artikel in einem „Warenkorb“ gesammelt. Erst nachdem Sie die Suche beendet haben, gehen Sie zur „Kasse“, d. h. der Kaufvorgang beginnt. Sie müssen dabei korrekt über Preis, Versandkosten und Bedingungen informiert werden, noch bevor Sie den Kaufvorgang endgültig abschließen. Bis zum letzten „Okay“ müssen Sie die Möglichkeit bekommen, Ihre Bestellung zu ändern oder rückgängig zu machen. 
-* Bestellbestätigung und Versandinformation: Sie werden per E-Mail über Ihre Bestellung und den Bearbeitungsstand Ihrer Lieferung informiert. 
-* Korrekter Zahlungsverkehr: Wenn Sie mit Kreditkarte zahlen, prüfen Sie unbedingt, ob die Abbuchung von Ihrem Kreditkartenkonto mit dem Rechnungsbetrag übereinstimmt, bzw. ob die Beträge für nicht lieferbare oder zurückgegebene Artikel umgehend wieder gutgeschrieben werden. 
-* Verwendung Ihrer Adresse: Oft findet sich am Ende von Bestellformularen klein und leicht zu übersehen eine – schon angekreuzte! – Option, mit der Sie der Verwendung Ihrer Adresse für Aussendungen, Informationen usw. zustimmen. Wenn Sie sich vor einer E-Mail-Flut von Werbeaussendungen schützen wollen, lesen Sie das Bestellformular bis zum Ende durch und löschen Sie diese Markierung.
-* Rückgaberecht: Sie müssen die Möglichkeit haben, die Ware innerhalb der gesetzlich vorgegebenen Fristen ohne Angabe von Gründen zurücksenden zu können und vollen Ersatz dafür zu bekommen. 
+
+* _Datensicherheit_: Kaufen Sie per Nachnahme oder mit der Kreditkarte. Kreditkarten-Daten sollten unbedingt in verschlüsselter Form übertragen werden. Der Web-Browser weist Sie durch eine Nachricht und/oder ein Symbol darauf hin, wann Sie eine „sichere“ Webseite aufrufen bzw. wieder verlassen. Bei Ihren Kundendaten und in e-Mails (Rechnung, Bestellbestätigung sollte höchstens ein Teil Ihrer Kreditkartennummer erscheinen, nie die ganze.
+* _Verfügbarkeit und Lieferfristen_: Worauf bezieht sich die angegebne Lieferzeit? Es kann sich um die Zeit bis zur Auslieferung oder aber um die (ungefähre) Zeit bis zur Zustellung handeln. Im ersten Fall müssen Sie den Postweg noch dazurechnen. 
+* _Zustellung_: mit der Post oder mit einem Paketdienst? Wenn Sie zu den üblichen Arbeitszeiten selten an der Lieferadresse zu finden sind, kann das Zusammentreffen mit dem Paketdienst mühsam werden. 
+* _Warenkorb und Abbruch-Möglichkeit_: Meistens werden die gewählten Artikel in einem „Warenkorb“ gesammelt. Erst nachdem Sie die Suche beendet haben, gehen Sie zur „Kasse“, d. h. der Kaufvorgang beginnt. Sie müssen dabei korrekt über Preis, Versandkosten und Bedingungen informiert werden, noch bevor Sie den Kaufvorgang endgültig abschließen. Bis zum letzten „Okay“ müssen Sie die Möglichkeit bekommen, Ihre Bestellung zu ändern oder rückgängig zu machen. 
+* _Bestellbestätigung und Versandinformation_: Sie werden per E-Mail über Ihre Bestellung und den Bearbeitungsstand Ihrer Lieferung informiert. 
+* _Korrekter Zahlungsverkehr_: Wenn Sie mit Kreditkarte zahlen, prüfen Sie unbedingt, ob die Abbuchung von Ihrem Kreditkartenkonto mit dem Rechnungsbetrag übereinstimmt, bzw. ob die Beträge für nicht lieferbare oder zurückgegebene Artikel umgehend wieder gutgeschrieben werden. 
+* _Verwendung Ihrer Adresse_: Oft findet sich am Ende von Bestellformularen klein und leicht zu übersehen eine – schon angekreuzte! – Option, mit der Sie der Verwendung Ihrer Adresse für Aussendungen, Informationen usw. zustimmen. Wenn Sie sich vor einer E-Mail-Flut von Werbeaussendungen schützen wollen, lesen Sie das Bestellformular bis zum Ende durch und löschen Sie diese Markierung.
+* _Rückgaberecht_: Sie müssen die Möglichkeit haben, die Ware innerhalb der gesetzlich vorgegebenen Fristen ohne Angabe von Gründen zurücksenden zu können und vollen Ersatz dafür zu bekommen. 
+
 Auch Börsen für antiquarische und/oder vergriffene Bücher sind im Internet zu finden, wo entweder Buchhändler oder Privatpersonen als Anbieter auftreten. Das Internet ist dafür besonders vorteilhaft – denn wer kann weltweit von Antiquariat zu Antiquariat pilgern, um ein seltenes Buch zu finden? 
-Internet-Auktionshäuser haben sich in den letzten Jahren zu einem gigantischen Marktplatz für gebrauchte, aber auch neue Produkte aller Art entwickelt. Auch Bücher werden hier versteigert. Bevor Sie ein Buch neu und teuer kaufen, können Sie also auch nachsehen, ob Sie es ersteigern können. Beim Versteigern können Sie „Ihren“ Höchstpreis eingeben, bis zu dem Sie automatisch mitsteigern. Beachten Sie dabei, dass zum Preis noch die Versandkosten des Verkäufers dazukommen. Außerdem müssen Sie die Zeit beachten: nach Auktionsende kommt der Kontakt mit dem Verkäufer, Ihre Zahlung, und dann erst der (hoffentlich prompte) Versand. Wenn Sie ein Buch sehr dringend benötigen, ist dieser Weg also möglicherweise nicht geeignet.  
+
+Internet-Auktionshäuser haben sich in den letzten Jahren zu einem gigantischen Marktplatz für gebrauchte, aber auch neue Produkte aller Art entwickelt. Auch Bücher werden hier versteigert. Bevor Sie ein Buch neu und teuer kaufen, können Sie also auch nachsehen, ob Sie es ersteigern können. Beim Versteigern können Sie „Ihren“ Höchstpreis eingeben, bis zu dem Sie automatisch mitsteigern. Beachten Sie dabei, dass zum Preis noch die Versandkosten des Verkäufers dazukommen. Außerdem müssen Sie die Zeit beachten: nach Auktionsende kommt der Kontakt mit dem Verkäufer, Ihre Zahlung, und dann erst der (hoffentlich prompte) Versand. Wenn Sie ein Buch sehr dringend benötigen, ist dieser Weg also möglicherweise nicht geeignet.
+
 Eine neue Entwicklung auf dem Sektor des elektronischen Buchhandels sind „books on demand“ oder „e-books“: Dabei werden Bücher nicht mehr in vorher festgelegten Auflagen gedruckt, sondern nur mehr auf Bestellung. Das Buch bleibt digital gespeichert und kann daher nicht vergriffen sein, Risiko und Kosten bleiben allerdings ausschließlich bei den Autorinnen. Der Vertrieb erfolgt über einen eigenen Versand, aber auch über den (Internet-)Buchhandel.
+
 Beim elektronischen Kauf von einzelnen Artikeln müssen Sie ebenfalls auf die Sicherheit achten. Viele Verlage und sonstigen Anbieter im Internet bedienen sich für den Zahlungsverkehr wieder anderer Services (sozusagen elektronischer Inkasso-Büros), bei denen Sie sich einmalig registrieren, z.B. mit Ihrer Kreditkarte, und die den Zahlungsverkehr erledigen. 
-Aufgabe: 
-1) Suchen Sie ein oder das Schlüsselwort zu Ihrem (eingegrenzten) Thema in der Wikipedia. Falls es zu Ihrem Suchbegriff keinen Eintrag gibt, probieren Sie ähnliche, v.a. übergeordnete Begriffe und gehen Sie den passenden Hyperlinks nach. 
-2) Erweitern Sie die Literatursuche aus dem Kapitel „Recherchieren“ um die Recherche im Internet. Listen Sie mindestens 5 Websites (mit URL und Datum des Besuchs) auf, die für Ihr Thema relevant sind: Portale, Institutionen, Personen ...  Kommentieren Sie die Websites kurz (Wer betreibt sie? Was findet man dort? Welche Bedeutung haben sie für Ihr Thema?)
+
+## Aufgabe: Recherchieren im Internet
+
+Table: **(\#tab:aufgabe3-test) Übungsaufgabe**
+
++----------------------------------------------------------------------------------------------------------------------------------+
+| 1. Suchen Sie ein oder das Schlüsselwort zu Ihrem (eingegrenzten) Thema in der Wikipedia.                                        |
+| Falls es zu Ihrem Suchbegriff keinen Eintrag gibt, probieren Sie ähnliche, v.a. übergeordnete Begriffe                           |
+| und gehen Sie den passenden Hyperlinks nach. \vspace{-6mm}                                                                       |
++----------------------------------------------------------------------------------------------------------------------------------+
+| 2. Erweitern Sie die Literatursuche aus dem Kapitel „Recherchieren“ um die Recherche im Internet.                                | 
+| Listen Sie mindestens 5 Websites (mit URL und Datum des Besuchs) auf, die für Ihr Thema relevant sind:                           |
+| Portale, Institutionen, Personen … Kommentieren Sie die Websites kurz (Wer betreibt sie? Was findet man dort?                    |    
+| Welche Bedeutung haben sie für Ihr Thema?)                                                                                       |
++----------------------------------------------------------------------------------------------------------------------------------+
+
+
 

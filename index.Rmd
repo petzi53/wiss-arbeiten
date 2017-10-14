@@ -1,16 +1,15 @@
 --- 
-title: "Wissenschaftliches Arbeiten im digitalen Zeitalter"
+title: "Studieren und Forschen mit dem Internet"
 author: "Peter Baumgartner, Sabine Payr"
 date: "`r Sys.Date()`"
 cover-image: images/cover-stufonet-min.png
-description: Das Buch beschreibt neue (digitalisierte) Arbeitsprozesse, die für reproduzierbaren
-  Forschung notwendig sind und wendet die "Open"-Philosophie an (Open Science, Open
-  Research, Open Data, Open Content, Open Source, Open Access etc.)
+description: Das Buch ist eine gekürzte Ausgabe der gleichlautenden Publikation aud em Jahre 2001. Es beschreibt Arbeitsprozesse une Werkzeuge des wissenschaftlichen Arbeitens. Dabei wird besonders auf die (damals) neuen Möglichkeiten des Internets eingegangen. 
 documentclass: book
 favicon: images/favicon.ico
 github-repo: petzi53/wiss-arbeiten
+url: 'http\://bookdown.org/pbaumgartner/wiss-arbeiten'
 site: bookdown::bookdown_site
-subtitle: Methoden und Werkzeuge für reproduzierbare Forschung
+subtitle: Methoden und Werkzeuge des wissenschaftlichen Arbeitens
 apple-touch-icon: images/touch-icon.png
 apple-touch-icon-size: 120
 bibliography: [book.bib, packages.bib]

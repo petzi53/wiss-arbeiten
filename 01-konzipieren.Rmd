@@ -88,17 +88,17 @@ Table: **(\#tab:rahmenbedingungen) Rahmenbedingungen klären**
 
 +----------------------------------------------------------------------+
 | * Wieviel Zeit steht mir für die Arbeit zur Verfügung?               |           
-| (Abgabetermin, Bearbeitungsfrist, eigene Planung)                    |                
+| (Abgabetermin, Bearbeitungsfrist, eigene Planung) \vspace{-6mm}                    |                
 +----------------------------------------------------------------------+
 | * Wieviel Zeit werde ich für die einzelnen Phasen benötigen,         |
-| bzw. wieviel darf ich mir erlauben?                                  |         
+| bzw. wieviel darf ich mir erlauben?  \vspace{-6mm}                                   |         
 +----------------------------------------------------------------------+
 | * Wieviel Geld steht mir zur Verfügung, z. B. für Anschaffung von    | 
-| Literatur, Kopien, Reisen, Software, Internet-Zugang usw.?           |
+| Literatur, Kopien, Reisen, Software, Internet-Zugang usw.?  \vspace{-6mm}           |
 +----------------------------------------------------------------------+
 | * Welche Infrastruktur steht zur Verfügung, mit welchen              |
 | Beschränkungen? (z. B. PC-Benutzerräume – Ausstattung, Auslastung?   |
-| Bibliotheken – Öffnungszeiten, Urlaubssperren, Entleihfristen?)      |
+| Bibliotheken – Öffnungszeiten, Urlaubssperren, Entleihfristen?)  \vspace{-6mm}       |
 +----------------------------------------------------------------------+
 | * Wie ist die Betreuung organisiert? (regelmäßige Treffen oder       |
 | Sprechstunden, Terminvereinbarung, Abwesenheit ...)                  |
@@ -174,21 +174,21 @@ Mit der globalen Vernetzung hat sich heute eine völlig neue Dimension für Stud
 Table: **(\#tab:enquiry) Social Inquiry**
 
 +----------------------------------------------------------------------------------------------------------------------------------+
-| * Wen kann ich aus meinem Bekanntenkreis zur Thematik fragen? (Betreuerin, Kollegin, fachfremde Personen,...)                    |           
+| * Wen kann ich aus meinem Bekanntenkreis zur Thematik fragen? (Betreuerin, Kollegin, fachfremde Personen,...)  \vspace{-6mm}                    |           
 +----------------------------------------------------------------------------------------------------------------------------------+
-| * Wen könnte ich außerhalb meines Bekanntenkreises fragen, anschreiben, interviewen?                                             |
+| * Wen könnte ich außerhalb meines Bekanntenkreises fragen, anschreiben, interviewen?  \vspace{-6mm}                                             |
 +----------------------------------------------------------------------------------------------------------------------------------+
-| * Welche Personen haben sich zu meiner Problematik bereits profiliert?                                                           | 
+| * Welche Personen haben sich zu meiner Problematik bereits profiliert?   \vspace{-6mm}                                                          | 
 +----------------------------------------------------------------------------------------------------------------------------------+
-| * Wer vertritt (im wissenschaftlichen Diskurs, in einer aktuellen Kontroverse) welche Position?                                  |
+| * Wer vertritt (im wissenschaftlichen Diskurs, in einer aktuellen Kontroverse) welche Position?  \vspace{-6mm}                                  |
 +----------------------------------------------------------------------------------------------------------------------------------+
-| * Gibt es Meinungsführer/innen?                                                                                                  |
+| * Gibt es Meinungsführer/innen?   \vspace{-6mm}                                                                                                 |
 +----------------------------------------------------------------------------------------------------------------------------------+
-| * Welche Arbeits- und Forschungsgruppen arbeiten an meinem Thema?                                                                |
+| * Welche Arbeits- und Forschungsgruppen arbeiten an meinem Thema?  \vspace{-6mm}                                                                |
 +----------------------------------------------------------------------------------------------------------------------------------+
-| * Welche Institution (Institut, Labor, Forschungseinrichtung) könnte ich besuchen (evt. virtuell über die Homepage im Internet)? |
+| * Welche Institution (Institut, Labor, Forschungseinrichtung) könnte ich besuchen (evt. virtuell über die Homepage im Internet)?  \vspace{-6mm}  |
 +----------------------------------------------------------------------------------------------------------------------------------+
-| * Wie könnte ich kompetente Personen motivieren, für mich ihre kostbare Zeit zu opfern?                                          |
+| * Wie könnte ich kompetente Personen motivieren, für mich ihre kostbare Zeit zu opfern?  \vspace{-6mm}                                          |
 +----------------------------------------------------------------------------------------------------------------------------------+
 | * Gibt es dazu eine gute (passende) Gelegenheit (Konferenz, Vortrag an meiner Hochschule etc.)?                                  |
 +----------------------------------------------------------------------------------------------------------------------------------+
@@ -206,21 +206,21 @@ Nach dieser breit angelegten Erschließung des Themas, bei der alle gefundenen H
 Table: **(\#tab:sichten) Sichtung des Materials**
 
 +----------------------------------------------------------------------------------------------------------------------------------+
-| * Wie viele Literaturhinweise habe ich bei der ersten Suche gefunden?                                                            |           
+| * Wie viele Literaturhinweise habe ich bei der ersten Suche gefunden? \vspace{-6mm}                                                           |           
 +----------------------------------------------------------------------------------------------------------------------------------+
-| * Ist die Literatur für mich in der verfügbaren Zeitspanne zugänglich?                                                           |
+| * Ist die Literatur für mich in der verfügbaren Zeitspanne zugänglich? \vspace{-6mm}                                                           |
 +----------------------------------------------------------------------------------------------------------------------------------+
-| * Wird das Thema in der neuesten Literatur behandelt, gibt es eine aktuelle Diskussion dazu?                                     | 
+| * Wird das Thema in der neuesten Literatur behandelt, gibt es eine aktuelle Diskussion dazu? \vspace{-6mm}                                     | 
 +----------------------------------------------------------------------------------------------------------------------------------+
-| * Was sind die wichtigsten Standpunkte, Theorien, Beteiligten in dieser Diskussion?                                              |
+| * Was sind die wichtigsten Standpunkte, Theorien, Beteiligten in dieser Diskussion? \vspace{-6mm}                                              |
 +----------------------------------------------------------------------------------------------------------------------------------+
-| * Welche Aspekte werden unbefriedigend behandelt, zu wenig beachtet, fehlen überhaupt?                                           |
+| * Welche Aspekte werden unbefriedigend behandelt, zu wenig beachtet, fehlen überhaupt? \vspace{-6mm}                                           |
 +----------------------------------------------------------------------------------------------------------------------------------+
-| * Was fordert Kritik oder Neugier heraus?                                                                                        |
+| * Was fordert Kritik oder Neugier heraus? \vspace{-6mm}                                                                                        |
 +----------------------------------------------------------------------------------------------------------------------------------+
-| * Welche Grundlagen und Voraussetzungen habe ich (bzw. fehlen mir), um das Thema zu bearbeiten?                                  |
+| * Welche Grundlagen und Voraussetzungen habe ich (bzw. fehlen mir), um das Thema zu bearbeiten? \vspace{-6mm}                                  |
 +----------------------------------------------------------------------------------------------------------------------------------+
-| * Welche Frage würde ich gern lösen? Welche kann ich lösen?                                                                      |
+| * Welche Frage würde ich gern lösen? Welche kann ich lösen? \vspace{-6mm}                                                                      |
 +----------------------------------------------------------------------------------------------------------------------------------+
 | * Welche Sichtweise, Voraussetzungen, Erfahrungen, Zugänge etc. habe ich, die mich dazu besonders befähigen, diese Frage(n)      | 
 | zu behandeln?                                                                                                                    |
@@ -327,29 +327,29 @@ Table: **(\#tab:expose) Bestandteile eines Exposés**
 
 +----------------------------------------------------------------------------------------------------------------------------------+
 | * Was ist die Ausgangslage, der Stand der Forschung? Welche Erkenntnisse liegen bereits vor?                                     | 
-| (Beschreibung des „state of the art“)                                                                                            |           
+| (Beschreibung des „state of the art“)  \vspace{-6mm}                                                                                            |
 +----------------------------------------------------------------------------------------------------------------------------------+
-| * Was ist mein Erkenntnisinteresse, meine Motivation für diese Arbeit?                                                           |
+| * Was ist mein Erkenntnisinteresse, meine Motivation für diese Arbeit?  \vspace{-6mm}                                                           |
 +----------------------------------------------------------------------------------------------------------------------------------+
-| * Welches (theoretische, praktische, empirische, soziale, politische,...) Problem ist der Ausgangspunkt meiner Arbeit?           | 
+| * Welches (theoretische, praktische, empirische, soziale, politische,...) Problem ist der Ausgangspunkt meiner Arbeit?  \vspace{-6mm}           | 
 +----------------------------------------------------------------------------------------------------------------------------------+
-| * Zu welchem Ziel (Ergebnis) soll meine Arbeit führen?                                                                           |
+| * Zu welchem Ziel (Ergebnis) soll meine Arbeit führen?  \vspace{-6mm}                                                                           |
 +----------------------------------------------------------------------------------------------------------------------------------+
-| * Welche Fragen will ich in meiner Arbeit behandeln (Thema)?                                                                     |
+| * Welche Fragen will ich in meiner Arbeit behandeln (Thema)?  \vspace{-6mm}                                                                     |
 +----------------------------------------------------------------------------------------------------------------------------------+
-| * Welche Fragen bzw. Aspekte der Fragen werde ich in meiner Arbeit NICHT behandeln? (Eingrenzung des Themas)                     |
+| * Welche Fragen bzw. Aspekte der Fragen werde ich in meiner Arbeit _nicht_ behandeln? (Eingrenzung des Themas) \vspace{-6mm}                      |
 +----------------------------------------------------------------------------------------------------------------------------------+
-| * Welche Quellen will ich dazu verwenden? (nur im Überblick, noch keine detaillierte Bibliografie – die gibt es ja noch nicht!)  |
+| * Welche Quellen will ich dazu verwenden? (nur im Überblick, noch keine detaillierte Bibliografie – die gibt es ja noch nicht!)  \vspace{-6mm}  |
 +----------------------------------------------------------------------------------------------------------------------------------+
-| * Welche Quellen werde ich NICHT verwenden? (Eingrenzung des Materials)                                                          |
+| * Welche Quellen werde ich _nicht_ verwenden? (Eingrenzung des Materials) \vspace{-6mm}                                                           |
 +----------------------------------------------------------------------------------------------------------------------------------+
-| * Welche Methode will ich anwenden?                                                                                              |
+| * Welche Methode will ich anwenden?    \vspace{-6mm}                                                                                            |
 +----------------------------------------------------------------------------------------------------------------------------------+
-| * Welche Hilfe bzw. Hilfsmittel (Beratung, Infrastruktur, Software, Reisemittel,...) benötige ich für meine Arbeit?              |
+| * Welche Hilfe bzw. Hilfsmittel (Beratung, Infrastruktur, Software, Reisemittel,…) benötige ich für meine Arbeit?  \vspace{-6mm}              |
 +----------------------------------------------------------------------------------------------------------------------------------+
-|* Wie könnte eine vorläufige Gliederung meiner Arbeit aussehen?                                                                   |
+|* Wie könnte eine vorläufige Gliederung meiner Arbeit aussehen?  \vspace{-6mm}                                                                   |
 +----------------------------------------------------------------------------------------------------------------------------------+
-| * Welche Arbeitsschritte, Phasen, Zwischenergebnisse plane ich?                                                                  |
+| * Welche Arbeitsschritte, Phasen, Zwischenergebnisse plane ich?  \vspace{-6mm}                                                                  |
 +----------------------------------------------------------------------------------------------------------------------------------+
 | * Wie könnte ein grober Zeitplan aussehen? Bis wann will ich welche Etappen der Arbeit abgeschlossen haben?                      |
 +----------------------------------------------------------------------------------------------------------------------------------+
@@ -368,25 +368,25 @@ Table: **(\#tab:betreuung) Betreuungsgespräch zum Exposé**
 
 +----------------------------------------------------------------------------------------------------------------------------------+
 | * _Vor_ dem Gespräch: Wie könnte ich mein Konzept in einem mündlichen Gespräch kurz darstellen?                                  | 
-|  (sinnvoll als Einleitung, auch wenn Sie annehmen können, dass Ihre Gesprächspartnerin den Inhalt des Exposés kennt)             |           
+|  (sinnvoll als Einleitung, auch wenn Sie annehmen können, dass Ihre Gesprächspartnerin den Inhalt des Exposés kennt)\vspace{-6mm}|           
 +----------------------------------------------------------------------------------------------------------------------------------+
 |* Welche Schwachpunkte, offenen Fragen, Unklarheiten möchte ich ansprechen? (Sie sind nicht in einer Prüfungssituation:           |
-|  Weisen Sie selbst auf Probleme in Ihrem Konzept hin, zu denen Sie Tipps und Ratschläge brauchen)                                |
+|  Weisen Sie selbst auf Probleme in Ihrem Konzept hin, zu denen Sie Tipps und Ratschläge brauchen)\vspace{-6mm}                   |
 +----------------------------------------------------------------------------------------------------------------------------------+
-| * Was will ich im Gespräch erreichen? („grünes Licht“, Literaturhinweise, Kontakte, einen weiteren Termin usw.)                  | 
+| * Was will ich im Gespräch erreichen? („grünes Licht“, Literaturhinweise, Kontakte, einen weiteren Termin usw.)\vspace{-6mm}     | 
 +----------------------------------------------------------------------------------------------------------------------------------+
 | * _Während_ des Gesprächs: Welche Hinweise, Anmerkungen und/oder Kritiken zu meinem Konzept haben sich                           | 
-| im Laufe des Gesprächs ergeben?                                                                                                  |
+| im Laufe des Gesprächs ergeben?\vspace{-6mm}                                                                                     |
 +----------------------------------------------------------------------------------------------------------------------------------+
-| * Welche dieser Hinweise, Anmerkungen, Kritiken sind leicht in mein Konzept einzubauen?                                          |
+| * Welche dieser Hinweise, Anmerkungen, Kritiken sind leicht in mein Konzept einzubauen?\vspace{-6mm}                             |
 +----------------------------------------------------------------------------------------------------------------------------------+
-| * Welche Hinweise, Anmerkungen, Kritiken laufen auf eine komplette Neubearbeitung hinaus?                                        |
+| * Welche Hinweise, Anmerkungen, Kritiken laufen auf eine komplette Neubearbeitung hinaus?\vspace{-6mm}                           |
 +----------------------------------------------------------------------------------------------------------------------------------+
 | * Wie lässt sich das gemeinsam erreichte Verständnis zusammenfassen? (Versuchen Sie bereits am Ende des Gesprächs                |
-| eine Zusammenfassung zu geben, die das gemeinsam erreichte Verständnis noch einmal absichert.)                                   |
+| eine Zusammenfassung zu geben, die das gemeinsam erreichte Verständnis noch einmal absichert.)\vspace{-6mm}                      |
 +----------------------------------------------------------------------------------------------------------------------------------+
 | * Was sind meine nächsten Arbeitsschritte? (Vereinbaren Sie wenn möglich gleich einen weiteren Gesprächstermin                   |  
-| zu einem konkreten Inhalt, z. B. umgearbeitetes Konzept, Literaturliste)                                                         |
+| zu einem konkreten Inhalt, z. B. umgearbeitetes Konzept, Literaturliste)\vspace{-6mm}                                            |
 +----------------------------------------------------------------------------------------------------------------------------------+
 | * Soll eine schriftliche Zusammenfassung der Ergebnisse des Gesprächs an die Betreuerin geschickt werden?                        |
 +----------------------------------------------------------------------------------------------------------------------------------+
@@ -398,16 +398,19 @@ Fassen Sie auf jeden Fall für sich selbst die Ergebnisse schriftlich zusammen. 
 
 Entscheidend für Ihre weitere Vorgangsweise ist die grundlegende und mit der Betreuerin gemeinsam erreichte Beurteilung des Betreuungsgespräches: Gab es eine „Stop“ oder „Go“-Vereinbarung? Müssen Sie Ihr Konzept nochmals überarbeiten, oder können Sie – evt. mit kleinen Änderungen – mit der eigentlichen Arbeit beginnen?
 
-Table: **(\#tab:aufgabe) Übungsaufgabe**
+## Aufgabe: Konzipieren
+
+Table: **(\#tab:aufgabe1-test) Übungsaufgabe**
 
 +----------------------------------------------------------------------------------------------------------------------------------+
 | 1. Suchen Sie ein Thema freier Wahl für eine wissenschaftliche Arbeit.. Finden Sie einen (vorläufigen) Titel für die Arbeit.     |
+| \vspace{-6mm}                                                                                                                    |
 +----------------------------------------------------------------------------------------------------------------------------------+
-| 2. Erschließen Sie das Thema mit einer Methode Ihrer Wahl (freies Schreiben, Assoziieren, Mindmapping ...)                       |
+| 2. Erschließen Sie das Thema mit einer Methode Ihrer Wahl (freies Schreiben, Assoziieren, Mindmapping ...)\vspace{-6mm}          |
 +----------------------------------------------------------------------------------------------------------------------------------+
 | 3. Erläutern Sie kurz (auf der Grundlage Ihrer ersten Notizen bzw. Mindmap, Liste … ) in wenigen Sätzen,                         |  
 | und noch ohne gezielte Recherchen durchgeführt zu haben Ihre persönliche Motivation, Ihr Forschungsinteresse,                    |
-| Ihre Fragestellung(en), warum Sie dieses Thema beschäftigt.                                                                      |
+| Ihre Fragestellung(en), warum Sie dieses Thema beschäftigt.\vspace{-6mm}                                                         |
 +----------------------------------------------------------------------------------------------------------------------------------+
 | 4. Nun grenzen Sie das Thema auf drei verschiedene Arten ein (s. Aktionstabelle „Thema eingrenzen“)                              |    
 | und geben dies durch Untertitel wieder. Geben Sie zu jedem eingegrenzten Thema Ihre Fragestellung an.                            |

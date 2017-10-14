@@ -1,15 +1,23 @@
 # Zitieren
 
-Abb.: Zitieren - Überblick
+```{r fig.align='center', echo=FALSE, fig.cap='Zitieren (Überblick)'}
+knitr::include_graphics('images/zitieren-min.png', dpi = NA)
+```
+
 
 
 Mit Ihrer wissenschaftlichen Arbeit liefern Sie einen Beitrag zum wissenschaftlichen Diskurs. Sie setzen sich beim Lesen und Schreiben mit den Gedanken und Werken anderer Autoren auseinander und bauen Ihre Argumentation auf fremden Überlegungen auf. Eigene und fremde Gedanken sollen sich zu einem neuen Werk verbinden, ohne sich zu vermischen. Beim Schreiben stellen Sie diese fremden Positionen dar, bewerten und diskutieren Sie und antworten darauf.
+
 Die Regeln für das richtige Zitieren sollen sicherstellen, dass eigene und fremde Gedanken sauber voneinander getrennt werden, denn es gibt beim wissenschaftlichen Arbeiten keine größere „Sünde“ als das Plagiat (Abschreiben). Darüber hinaus muss Ihre Rezeption fremder Werke überprüfbar und nachvollziehbar sein, so dass jede Leserin, wenn sie will, selbst die Quellen konsultieren kann, die Sie benutzt haben. 
 Wenn man sich den Zweck der Zitierregeln und vor allem die Bedürfnisse der Leserinnen vor Augen hält, wird man selbst in Zweifelsfällen eine klare Linie finden: was muss der Leser wissen und wie teile ich es ihm am besten mit? 
+
 In diesem Kapitel geht es um zwei Hauptthemen:
+
 * Wie gibt man Aussagen anderer Autoren wieder? 
 * Wie belegt man die Herkunft dieser Aussagen?
+
 Dabei gehen wir besonders auf folgende häufige Fragen und Probleme ein: 
+
 * Warum wird in wissenschaftlichen Arbeiten von Studierenden soviel wörtlich zitiert? Was ist das Problem damit und wie lässt es sich lösen?
 * Wann soll ich wörtlich zitieren, wann ist die Wiedergabe mit eigenen Worten besser?
 * Welche Methoden gibt es, um wörtlich zu zitieren, und wann verwende ich welche? Welche Probleme können dabei auftreten, und wie sind sie zu lösen?
@@ -17,179 +25,145 @@ Dabei gehen wir besonders auf folgende häufige Fragen und Probleme ein:
 * Wozu und wann brauche ich Fußnoten?
 * Wie gestalte ich das Literaturverzeichnis (Bibliografie), und welche Probleme können dabei auftreten?
 * Wie kann ich mir diese Arbeit mit dem Computer erleichtern?
-Zitieren – wörtlich oder sinngemäß?
+
+## Zitieren – wörtlich oder sinngemäß?
+
 Viele Seminar- und Diplomarbeiten sehen aus wie Zitatensammlungen: ein wörtliches Zitat folgt dem anderen, die eigenen Worte des Verfassers beschränken sich auf ein paar verbindende Sätze, die im Extremfall auch nur wiederholen, was die zitierten Autoren sagen. Oft finden sich auch mehrere Zitate mit ein und derselben Kernaussage, nur eben in etwas anderer Formulierung. 
+
 Zwar genügt eine solche Arbeit meist den formalen Spielregeln – es wird brav, genau, mit Quellenangaben und Literaturverzeichnis zitiert – aber der Sinn und Zweck der Übung, nämlich die Verarbeitung und Auseinandersetzung mit diesen Autoren und ihren Argumenten, der Diskurs, ist dabei zu kurz gekommen. 
+
 Darüber hinaus ist so eine Arbeit im Extremfall auch kaum lesbar: Der dauernde Wechsel in Stil und Begrifflichkeit, den das wörtliche Zitieren mit sich bringt, macht es schwer, eine möglicherweise vom Verfasser dabei verfolgte Linie zu erkennen, wenn er sich selbst so sehr zurückhält. Der Verfasser ist weder Teilnehmer an der Diskussion noch ihr Moderator, sondern agiert eher wie ein unbeteiligter Beobachter, der alle anderen zu Wort kommen lässt, aber selbst zum Inhalt der Diskussion nichts beiträgt. 
+
 Die Ursachen für diesen Rückzug auf den „Beobachterposten“ im wissenschaftlichen Diskurs liegen meist schon in der Arbeit, die vor dem eigentlichen Abfassen des Textes geleistet worden ist. Sie sind daher beim Schreiben selbst nur mehr zum Teil behebbar. 
-Aktionstabelle: Wörtliche Zitate reduzieren
-Sie zitieren zu oft wörtlich ...
-Sie können das vermeiden, indem Sie ...
-wenn Sie glauben, nur so zeigen zu können, was und wieviel Sie gelesen haben. 
-das Gelesene mit eigenen Worten wiedergeben (= paraphrasieren). Dadurch zeigen Sie zusätzlich, dass Sie das Gelesene auch verstanden haben. 
-wenn Sie beim Lesen und Notieren nur kurze, aus dem Kontext gerissene Passagen abgeschrieben haben, aus denen sich der Argumentationsgang nicht mehr rekonstruieren lässt.
-analytisch lesen (siehe „Analytisches Lesen“, S. †99) und beim Lesen und Notieren (Exzerpieren) bereits ans Schreiben und Argumentieren denken. 
-wenn Sie beim Lesen und Exzerpieren viel Material gesammelt haben und es nicht über sich bringen, es wegzulassen – auch wenn es sich inhaltlich wiederholt. 
-das treffendste Zitat wörtlich wiedergeben und auf andere Autoren, die Ähnliches gesagt haben, nur kurz verweisen. 
-wenn Sie nicht sicher sind, ob Sie den Inhalt mit eigenen Worten richtig und treffend wiedergeben können. 
-bereits beim Lesen (z. B. durch Rekapitulieren in eigenen Worten) kontrollieren, ob Sie den Inhalt wirklich verstanden haben. Lexika, Einführungsbücher etc. helfen dabei, Sicherheit im Umgang mit den Begriffen und Fachausdrücken zu gewinnen; Paraphrasieren üben.  
+
+Table: **(\#tab:paraphrasieren) Wörtliche Zitate reduzieren**
+
+| Sie zitieren zu oft wörtlich …| Sie können das vermeiden, indem Sie …                                                    |
+|-------------------------------|------------------------------------------------------------------------------------------|
+| wenn Sie glauben, nur so zeigen zu können, was und wieviel Sie gelesen haben. | das Gelesene mit eigenen Worten wiedergeben (= paraphrasieren). Dadurch zeigen Sie zusätzlich, dass Sie das Gelesene auch verstanden haben. \vspace{-6mm}    |
+| wenn Sie beim Lesen und Notieren nur kurze, aus dem Kontext gerissene Passagen abgeschrieben haben, aus denen sich der Argumentationsgang nicht mehr rekonstruieren lässt.| analytisch lesen (siehe „Analytisches Lesen“, S. †99 XXX) und beim Lesen und Notieren (Exzerpieren) bereits ans Schreiben und Argumentieren denken. \vspace{-6mm}    |
+| wenn Sie beim Lesen und Exzerpieren viel Material gesammelt haben und es nicht über sich bringen, es wegzulassen – auch wenn es sich inhaltlich wiederholt. | das treffendste Zitat wörtlich wiedergeben und auf andere Autoren, die Ähnliches gesagt haben, nur kurz verweisen. \vspace{-6mm}    |
+| wenn Sie nicht sicher sind, ob Sie den Inhalt mit eigenen Worten richtig und treffend wiedergeben können. | bereits beim Lesen (z. B. durch Rekapitulieren in eigenen Worten) kontrollieren, ob Sie den Inhalt wirklich verstanden haben. Lexika, Einführungsbücher etc. helfen dabei, Sicherheit im Umgang mit den Begriffen und Fachausdrücken zu gewinnen; Paraphrasieren üben.  
 
 Wenn Sie aber finden, dass Sie etwas mit eigenen Worten einfach nicht besser sagen können – dann ist ein wörtliches Zitat angebracht! Es gibt auch noch weitere Fälle, in denen ein wörtliches Zitat sinnvoll und notwendig ist: 
+
 * Passagen, wo die exakte Wortwahl und Formulierung des Autors wichtig sind, treffende Aussagen, die durch sinngemäße Wiedergabe an Wirkung verlieren würden, Schlüsselsätze oder -passagen, die für einen Argumentationsgang, ein ganzes Werk oder einen Autor bezeichnend sind. 
 * Texte, die Gegenstand Ihrer Arbeit sind, und die Sie ausführlich analysieren, interpretieren usw. Sind sie länger als eine Seite, sollten sie im Anhang der Arbeit beigefügt werden – trotzdem kann es sinnvoll sein, einzelne (Ab)Sätze auch im Text zu zitieren, um dem Leser dauerndes Vor- und Zurückblättern zu ersparen. 
 * Texte, die für den Leser schwer oder gar nicht zugänglich sind. Zwar ist es ein Prinzip des wissenschaftlichen Arbeitens, dass es für den Leser nachvollziehbar und überprüfbar sein soll. Der Wert mancher Arbeiten liegt aber gerade darin, solche Quellen (z. B. längst vergriffene oder in Vergessenheit geratene Bücher) zu erschließen. 
 * Wörtlich zitieren Sie auch mündliche Aussagen, Tonbandaufnahmen von einem Vortrag etc. – solche nicht zugänglichen und nicht überprüfbaren Quellen sollten aber nur verwendet werden, wenn es keine andere (schriftliche, veröffentlichte) Quelle gibt.
-Prüfliste: Richtig zitieren
-* ist die Arbeit eine Ansammlung von wörtlichen Zitaten?
-* Ist das wörtliche Zitieren dort, wo es verwendet wird, für die Leserin notwenig und nützlich?
-* Suche ich schon beim Lesen und Notieren nach eigenen Formulierungen? 
-* Habe ich das Gelesene wirklich verstanden und kann es mit eigenen Worten wiedergeben?
-* Sind die wörtlichen Zitate in den Text integriert, d. h. eingeleitet, kommentiert und ausgewertet?
-* Ist bei allen Zitaten (nicht nur den wörtlichen) klar ersichtlich, dass es Zitate sind und woher sie stammen?
-Zitieren – wo und wie?
+
+Table: **(\#tab:zitieren) Richtige zitieren**
+
++----------------------------------------------------------------------------------------------------------------------------------+
+| * Ist die Arbeit eine Ansammlung von wörtlichen Zitaten? \vspace{-6mm}    | +----------------------------------------------------------------------------------------------------------------------------------+                      
+| * Ist das wörtliche Zitieren dort, wo es verwendet wird, für die Leserin notwenig und nützlich?   \vspace{-6mm}    |
++----------------------------------------------------------------------------------------------------------------------------------+
+| * Suche ich schon beim Lesen und Notieren nach eigenen Formulierungen? \vspace{-6mm}    |
++----------------------------------------------------------------------------------------------------------------------------------+
+| * Habe ich das Gelesene wirklich verstanden und kann es mit eigenen Worten wiedergeben? \vspace{-6mm}    |
++----------------------------------------------------------------------------------------------------------------------------------+
+| * Sind die wörtlichen Zitate in den Text integriert, d. h. eingeleitet, kommentiert und ausgewertet? \vspace{-6mm}    |
++----------------------------------------------------------------------------------------------------------------------------------+
+| * Ist bei allen Zitaten (nicht nur den wörtlichen) klar ersichtlich, dass es Zitate sind und woher sie stammen?   |
++----------------------------------------------------------------------------------------------------------------------------------+
+
+## Zitieren – wo und wie?
+
 In diesem Abschnitt geht es um den Einbau von wörtlichen Zitaten in den Text: Wo stehen die Satzzeichen? Wohin gehört die Quellenangabe (Kurzbeleg)? Das lässt sich am besten darstellen, wenn wir die Zitate nach ihrer Länge in drei Gruppen einteilen:
-Aktionstabelle: Wörtlich zitieren
-Sie verwenden ... 
-nach dem Muster ...
-Hinweise:
-1. kurze Zitate (einzelne Begriffe, Wendungen und Satzteile)
-Text „Zitat“ Text. (Quelle)
-Text „Zitat“ (Quelle) Text. 
-Text „Zitat“. (Quelle)
-wichtig ist der ungebrochene Lesefluss; Grammatik muss zusammenpassen; Satzzeichen außerhalb der Anführungszeichen!
-2. mittlere Zitate (ganze Sätze von maximal 1 – 2 Zeilen Länge)
-Text. „Zitat.“ (Quelle) Text. 
-Text: „Zitat.“ (Quelle)
-Einleitung: „Zitat.“ (Quelle)
 
-Satzzeichen innerhalb der Anführungszeichen! Einleitungen ( wie „... schreibt:“ „... sagt:“) vermeiden bzw. variieren
-3. lange Zitate (Absätze und lange Sätze)
-Text
-         Zitat. (Quelle)
-Text
-Blockzitat; Abstand oben und unten, kleinere Schrift (2 Pkt.), keine Anführungszeichen, beidseitige Einrückung
+Table: **(\#tab:zitieren2) Wörtlich zitieren**
 
-Mit der Quellenangabe (Kurzbeleg) beschäftigen wir uns später in diesem Kapitel, hier wollen wir häufige Zitier-Probleme zusammenfassen. 
-Aktionstabelle: Sonderfälle des wörtlichen Zitierens
-Wenn ...
-dann können Sie ...
-wie?
-das Zitat zu lang und nicht als Ganzes relevant ist
-das Zitat kürzen, ohne den Sinn zu entstellen (Ellipse)
-Auslassungszeichen: „ ... ” (Leerzeichen, 3 Punkte, Leerzeichen)
-das Zitat einer Erläuterung bedarf (z. B. ein Pronomen enthält)
-das Zitat ergänzen, aber nur sinngemäß (Interpolation)
-eckige Klammern u. Autoreninitialen: „ Sie [die Sophisten, SP] behaupteten ... ”
-das Zitat in Englisch ist
-das Zitat in Englisch belassen (Englisch kann inzwischen in den meisten Fächern vorausgesetzt werden)
-am besten als ganzer Satz oder Absatz; Einbau in einen deutschen Satz nur , wenn Grammatik nahtlos zusammenpasst (Zahl, Genus, Wortstellung ...); nicht mehrmals im Satz zwischen Deutsch und Fremdsprache wechseln. 
-das Zitat in einer anderen Fremdsprache ist
-„facheigene“ Sprachen im Original stehenlassen (zB Französisch in Romanistik), „fachfremde“ übersetzen. 
-a) eigene Übersetzung als sinngemäßes Zitat, Original evt. in Fußnote
-b) Zitat im Original, Übersetzung in Fußnote
-das Zitat aus einem einzelnen Wort besteht, das in der Endung nicht „passt“
-a) die Endung weglassen und nur den Stamm zitieren
-b) nötige Endung hinzufügen
-a) keine Auslassungszeichen notwendig
-b) Endung interpolieren (in eckigen Klammern)
-im Original etwas hervorgehoben ist
-Hervorhebung übernehmen, evt. Anmerkung, um klarzumachen, dass es nicht Ihre Hervorhebung ist
+| Sie verwenden …| nach dem Muster …                                    | Hinweise                                         |
+|----------------|------------------------------------------------------|--------------------------------------------------|
+| 1. _kurze Zitate_ (einzelne Begriffe, Wendungen und Satzteile) | Text „Zitat“ Text. (Quelle) ; Text „Zitat“ (Quelle) Text.; Text „Zitat“. (Quelle) | wichtig ist der ungebrochene Lesefluss; Grammatik muss zusammenpassen; Satzzeichen außerhalb der Anführungszeichen \vspace{-6mm}    |
+| 2. _mittlere Zitate_ (ganze Sätze von maximal 1 – 2 Zeilen Länge) | Text. „Zitat.“ (Quelle) Text.; Text: „Zitat.“ (Quelle) ; Einleitung: „Zitat.“ (Quelle) | Satzzeichen innerhalb der Anführungszeichen! Einleitungen ( wie „... schreibt:“ „... sagt:“) vermeiden bzw. variieren \vspace{-6mm}    |
+| 3. lange Zitate (Absätze und lange Sätze) | Text Zitat. (Quelle) Text | Blockzitat; Abstand oben und unten, kleinere Schrift (2 Pkt.), keine Anführungszeichen, beidseitige Einrückung |
 
-eigene Art der Hervorhebung darf verwendet werden (z. B. kursiv für fett); Anmerkung [Hervorhebung im Original], va. wenn auch eigene Hervorhebungen vorkommen (s. unten)
-Sie im Zitat etwas hervorheben wollen
-Hervorhebung und Anmerkung mit Autoreninitialen am Ende des Zitats
-kursiv; Anmerkung [Hervorhebung von mir] oder [Hervorhebung SP]
-im Zitat etwas falsch, veraltet oder unüblich geschrieben ist
-die Schreibweise übernehmen, Hinweis unmittelbar anfügen
-Hinweis [sic] oder [!] anfügen; „sic“ ist keine Abkürzung und bedeutet „so steht es im Original“ 
+Mit der Quellenangabe (Kurzbeleg) beschäftigen wir uns später in diesem Kapitel, hier wollen wir häufige Zitier-Probleme zusammenfassen.  
+
+Table: **(\#tab:zitieren3) Sonderfälle des wörtlichen Zitierens**
+
+| Wenn …         | können Sie …                                         | wie?                                             |
+|----------------|------------------------------------------------------|--------------------------------------------------|
+|das Zitat zu lang und nicht als Ganzes relevant ist | das Zitat kürzen, ohne den Sinn zu entstellen (Ellipse) | Auslassungszeichen: „ … ” (Leerzeichen, 3 Punkte, Leerzeichen) \vspace{-6mm}    |
+| das Zitat einer Erläuterung bedarf (z. B. ein Pronomen enthält) | das Zitat ergänzen, aber nur sinngemäß (Interpolation) | eckige Klammern u. Autoreninitialen: „ Sie [die Sophisten, pb] behaupteten … ” \vspace{-6mm}    |
+| das Zitat in Englisch ist |das Zitat in Englisch belassen (Englisch kann inzwischen in den meisten Fächern vorausgesetzt werden) | am besten als ganzer Satz oder Absatz; Einbau in einen deutschen Satz nur wenn Grammatik nahtlos zusammenpasst (Zahl, Genus, Wortstellung ...); nicht mehrmals im Satz zwischen Deutsch und Fremdsprache wechseln. \vspace{-6mm}    |
+| das Zitat in einer anderen Fremdsprache ist | „facheigene“ Sprachen im Original stehenlassen (zB Französisch in Romanistik), „fachfremde“ übersetzen. | a) eigene Übersetzung als sinngemäßes Zitat, Original evt. in Fußnote; b) Zitat im Original, Übersetzung in Fußnote \vspace{-6mm}    |
+| das Zitat aus einem einzelnen Wort besteht, das in der Endung nicht „passt“ | a) die Endung weglassen und nur den Stamm zitieren; b) nötige Endung hinzufügen | a) keine Auslassungszeichen notwendig; b) Endung interpolieren (in eckigen Klammern) \vspace{-6mm}    |
+| im Original etwas hervorgehoben ist | Hervorhebung übernehmen, evt. Anmerkung, um klarzumachen, dass es nicht Ihre Hervorhebung ist | eigene Art der Hervorhebung darf verwendet werden (z. B. kursiv für fett); Anmerkung [Hervorhebung im Original], va. wenn auch eigene Hervorhebungen vorkommen (s. unten) \vspace{-6mm}    |
+| Sie im Zitat etwas hervorheben wollen | Hervorhebung und Anmerkung mit Autoreninitialen am Ende des Zitats | kursiv; Anmerkung [Hervorhebung von mir] oder [Hervorhebung pb] \vspace{-6mm}    |
+| im Zitat etwas falsch, veraltet oder unüblich geschrieben ist | die Schreibweise übernehmen, Hinweis unmittelbar anfügen |Hinweis [sic] oder [!] anfügen; „sic“ ist keine Abkürzung und bedeutet „so steht es im Original“  |
 
 Die sinngemäße Wiedergabe (Paraphrase) einer Passage aus einem fremden Werk ist in jedem dieser Fälle ebenfalls eine Möglichkeit, Schwierigkeiten zu umgehen. Paraphrasen fügen sich, da Sie sie selbst formulieren, besser in Ihren eigenen Text ein und helfen das Problem der „Zitatensammlung“ vermeiden. Es darf dabei aber keinesfalls vergessen werden, dass auch Paraphrasen Zitate sind und belegt werden müssen.
-Quellenangabe (Kurzbeleg)
+
+## Quellenangabe (Kurzbeleg)
+
 Bei jedem Zitat – gleich ob wörtlich oder sinngemäß – muss angegeben werden, woher es stammt.
 Dazu gibt es verschiedene Methoden, wie etwa Fußnoten, Endnoten oder Kurzbelege im Text. Wir beschreiben hier die inzwischen fast allgemein übliche Harvard-Notation“ mit Kurzbelegen, die wir empfehlen, wenn man sich die Methode der Quellenangabe frei aussuchen kann. Wenn aber z. B. der Fachbereich oder der Verlag ein anderes System vorschreiben, muss man sich natürlich daran halten. Als Grundform der Harvard-Notation kann gewählt werden: 
-Abb.: Grundmuster des Kurzbelegs
+
+
+A```{r fig.align='center', echo=FALSE, fig.cap='Grundmuster des Kurzbelegs'}
+knitr::include_graphics('images/zitieren-grundform-min.png', dpi = NA)
+```
+
 
 Grundsätze bei der Verwendung von Kurzbelegen sind:
+
 * Konsistenz: Gleich, welche dieser Formen Sie wählen (wobei sich der Doppelpunkt durchzusetzen scheint), Sie müssen sie in der gesamten Arbeit beibehalten.
 * Eindeutigkeit: Der Kurzbeleg muss so abgefasst sein, dass das zitierte Werk in der Literaturliste eindeutig identifiziert werden kann. 
 * Literaturverzeichnis: Zu diesen Kurzbelegen gehört notwendig ein Literaturverzeichnis, in dem die volle Quellenangabe anhand des Kurzbelegs zweifelsfrei und mühelos gefunden werden kann. 
 * Kürze: Der Kurzbeleg soll tatsächlich so kurz wie möglich sein, alle unnötigen Wiederholungen sind zu vermeiden. Daher gibt es zur Grundform noch weiter abgekürzte Varianten. 
+
 Die wichtigsten Fragen und Zweifelsfälle dazu sind in der folgenden Tabelle zusammengefasst:
-Aktionstabelle: Kurzbelege verwenden
-Frage
-Antwort
-Beispiel(e)
-Wo steht der Kurzbeleg?
-so nah am Zitat wie möglich, ohne den Lesefluss zu stören, und so nah wie nötig, um eindeutig zuordenbar zu sein. 
-Es werden dafür auch die Begriffe „ABC“ (Müller 1998) und „XYZ“ (Meier 1999) verwendet. 
-• Es wird dafür auch der Begriff „ABC“ verwendet. (Schmidt 1997)
-Was tun, wenn zwei gleichnamige Autoren vorkommen? 
-Initialen anfügen, selbst wenn die Werke durch die Jahreszahl unterscheidbar wären
- (Müller J. 1991:127) und (Müller H. 1987:36)
-Wie sieht der Kurzbeleg für ein Werk mehrerer Autoren aus? 
-2 Namen müssen, 3 Namen können angeführt werden; ab 3 Namen:  1. Name (wenn eindeutig) und „et al.“ anfügen
-(Müüler und Mayer 2003)
-(Müller, Mayr & Schmidt 1993:124) bzw. 
- (Müller et al. 1993:124)
-Wie unterscheidet man Werke eines Autors mit demselben Erscheinungsjahr?
-Buchstaben a, b, c an das Jahr anhängen, u. zw. in der Reihenfolge der Erwähnung im Text
-(Maier 1992a:231-4) ... einige Seiten später ... (Maier 1992b:27)
-Kann man auch auf ein Werk insgesamt, ohne Seitenangaben verweisen?
-Ja, wenn man sich auf ein gesamtes Werk bezieht. Der Kurzbeleg bleibt dann ohne Seitenzahl, evt. „Vgl.“, „cf.“ oder kurze Anmerkung voranstellen. Elektronische Quellen haben oft keine Seitenzahlen. 
-(cf. Müller 1991) .... (Vgl. dazu auch Maier 1994) ... (ausführlicher dazu Schmidt 1990)
-Wie hängt man mehrere Kurzbelege aneinander?
-in einer gemeinsamen Klammer
-(Vgl. Müller 1991, Mayr 1993 und Schmidt 1995)
-Wie erwähnt man mehrere Werke eines Autors in einem Kurzbeleg? 
-Nach dem Prinzip „Keine Verdopplungen“ – nur Jahreszahlen
-(Vgl. Schmidt 1991a und b, sowie 1993)
-Wie gibt man einen Seitenbereich statt einer einzigen Seitenzahl an? 
-mit Binde-Strich und auf das Notwendigste gekürzt; auch „f.“ (folgende Seite) und „ff.“ (ferner folgende Seiten) sind erlaubt, aber ungenauer
-(Müller 1992:351–3)
-(Mayr 1994:359–61)
-(Schmidt 1987:124f.)
-Was tun, wenn der Kurzbeleg unsinnig wirkt, wie z. B. bei bekannten alten, aber neu aufgelegten Werken wie (Grimmelshausen 1993) oder (Rousseau 1965)?
-Im Kurzbeleg kann das tatsächliche Erscheinungsjahr stehen, das Literaturverzeichnis muss allerdings auch genau die verwendete Ausgabe enthalten
-(Grimmelshausen 1668)
-(Rousseau 1753)
-(zu den Angaben im Literaturverzeichnis siehe unten)
-Muss der Kurzbeleg jedes mal so gemacht werden, auch wenn immer wieder aus demselben Werk zitiert wird?
-Alles, was sich wiederholen würde, kann wegbleiben, solange für den Leser die Quelle klar ist. Es genügt die Seitenangabe, oder sogar ein „ebd.“, wenn auch die Seite unverändert bleibt.
-1. Zitat (Müller 1991:351) ... 2. Zitat (S. 353) ... 3. Zitat (ebd.). ABER ... ein paar Seiten später: 4. Zitat (Müller 1991:123)
-Muss der Kurzbeleg komplett angegeben werden, wenn Teile davon schon im Text erwähnt sind?
-Es genügen immer jene Angaben, die zur vollständigen Identifizierung noch fehlen. 
-• Müller betont, dass „Zitat“ (1991:351). 
-• Mayr vertrat schon 1956 die Auffassung, dass „Zitat“ (S. 124). 
-Wie werden Werke zitiert, die nur unter ihrem Titel bekannt sind?
-nach dem Ordnungswort, unter dem sie auch im Literaturverzeichnis erscheinen. Konversationslexika u. dgl. brauchen nicht zitiert zu werden!
-(Fischer Weltalmanach 1988:117)
-Ist es möglich, eine Abkürzung des Titels statt des Kurzbelegs zu verwenden, wenn ein Werk oft zitiert wird? 
-Wenn Werke eingehend analysiert werden (= Gegenstand der Arbeit sind), kann ein Stichwort oder eine standardisierte Abkürzung verwendet werden; die Jahreszahl bleibt weg. 
-• (TKH:214–18) statt (Habermas 1981:214–18); 
-• (cf. GB) statt (cf. Chomsky 1981)
-Darf man solche Abkürzungen selbst erfinden, und wie führt man sie ein?
-Nur wenn es nicht bereits eine fachintern übliche gibt, und nur für Werke, die in der Arbeit eine zentrale Rolle spielen. Beim ersten Zitat normaler Kurzbeleg u. Hinweis auf Abkürzung; evt. Abkürzungsverzeichnis
-• 1. Zitat (Habermas 1981:103, im folgenden TKH) ... 2. Zitat (TKH:105). {TKH = Theorie des kommunikativen Handelns)
-• In den „Lectures on Government and Binding“ (Chomsky 1981, im folgenden mit GB abgekürzt) ....
-Exkurs: Fußnoten 
+
+Table: **(\#tab:zitieren3) Kurzbelege verwenden**
+
+| Frage …                | Antwort                                            | Beispie(e)                                       |
+|------------------------|----------------------------------------------------|--------------------------------------------------|
+| Wo steht der Kurzbeleg? | so nah am Zitat wie möglich, ohne den Lesefluss zu stören, und so nah wie nötig, um eindeutig zuordenbar zu sein. | Es werden dafür auch die Begriffe „ABC“ (Müller 1998) und „XYZ“ (Meier 1999) verwendet. ; Es wird dafür auch der Begriff „ABC“ verwendet. (Schmidt 1997)  \vspace{-6mm}    |
+| Was tun, wenn zwei gleichnamige Autoren vorkommen? | Initialen anfügen, selbst wenn die Werke durch die Jahreszahl unterscheidbar wären | (Müller J. 1991:127) und (Müller H. 1987:36)  \vspace{-6mm}    |
+| Wie sieht der Kurzbeleg für ein Werk mehrerer Autoren aus? | Zwei Namen müssen, drei Namen können angeführt werden; ab 3 Namen:  1. Name (wenn eindeutig) und „et al.“ anfügen | (Müüler und Mayer 2003)
+(Müller, Mayr & Schmidt 1993:124) bzw. (Müller et al. 1993:124)  \vspace{-6mm}    |
+| Wie unterscheidet man Werke eines Autors mit demselben Erscheinungsjahr? | Buchstaben a, b, c an das Jahr anhängen, u. zw. in der Reihenfolge der Erwähnung im Text | (Maier 1992a:231-4) … einige Seiten später … (Maier 1992b:27)  \vspace{-6mm}    |
+| Kann man auch auf ein Werk insgesamt, ohne Seitenangaben verweisen? | Ja, wenn man sich auf ein gesamtes Werk bezieht. Der Kurzbeleg bleibt dann ohne Seitenzahl, evt. „Vgl.“, „cf.“ oder kurze Anmerkung voranstellen. Elektronische Quellen haben oft keine Seitenzahlen.  |(cf. Müller 1991) … (Vgl. dazu auch Maier 1994) … (ausführlicher dazu Schmidt 1990)  \vspace{-6mm}    |
+| Wie hängt man mehrere Kurzbelege aneinander? | in einer gemeinsamen Klammer | (Vgl. Müller 1991, Mayr 1993 und Schmidt 1995)  \vspace{-6mm}    |
+| Wie erwähnt man mehrere Werke eines Autors in einem Kurzbeleg? | Nach dem Prinzip „Keine Verdopplungen“ – nur Jahreszahlen | (Vgl. Schmidt 1991a und b, sowie 1993)  \vspace{-6mm}    |
+| Wie gibt man einen Seitenbereich statt einer einzigen Seitenzahl an? | mit Binde-Strich und auf das Notwendigste gekürzt; auch „f.“ (folgende Seite) und „ff.“ (ferner folgende Seiten) sind erlaubt, aber ungenauer | (Müller 1992:351–3); (Mayr 1994:359–61); (Schmidt 1987:124f.)  \vspace{-6mm}    |
+| Was tun, wenn der Kurzbeleg unsinnig wirkt, wie z. B. bei bekannten alten, aber neu aufgelegten Werken wie (Grimmelshausen 1993) oder (Rousseau 1965)? | Im Kurzbeleg kann das tatsächliche Erscheinungsjahr stehen, das Literaturverzeichnis muss allerdings auch genau die verwendete Ausgabe enthalten | (Grimmelshausen 1668) ; (Rousseau 1753) ; (zu den Angaben im Literaturverzeichnis siehe unten)  \vspace{-6mm} |
+| Muss der Kurzbeleg jedes mal so gemacht werden, auch wenn immer wieder aus demselben Werk zitiert wird? | Alles, was sich wiederholen würde, kann wegbleiben, solange für den Leser die Quelle klar ist. Es genügt die Seitenangabe, oder sogar ein „ebd.“, wenn auch die Seite unverändert bleibt. | 1. Zitat (Müller 1991:351) … 2. Zitat (S. 353) … 3. Zitat (ebd.). _aber_ ein paar Seiten später: 4. Zitat (Müller 1991:123)  \vspace{-6mm}    |
+| Muss der Kurzbeleg komplett angegeben werden, wenn Teile davon schon im Text erwähnt sind? | Es genügen immer jene Angaben, die zur vollständigen Identifizierung noch fehlen. | Müller betont, dass „Zitat“ (1991:351). ; Mayr vertrat schon 1956 die Auffassung, dass „Zitat“ (S. 124).  \vspace{-6mm}    | 
+| Wie werden Werke zitiert, die nur unter ihrem Titel bekannt sind? | nach dem Ordnungswort, unter dem sie auch im Literaturverzeichnis erscheinen. Konversationslexika u. dgl. brauchen nicht zitiert zu werden! | (Fischer Weltalmanach 1988:117)  \vspace{-6mm}    |
+| Ist es möglich, eine Abkürzung des Titels statt des Kurzbelegs zu verwenden, wenn ein Werk oft zitiert wird? | Wenn Werke eingehend analysiert werden (= Gegenstand der Arbeit sind), kann ein Stichwort oder eine standardisierte Abkürzung verwendet werden; die Jahreszahl bleibt weg. | (TKH:214–18) statt (Habermas 1981:214–18); (cf. GB) statt (cf. Chomsky 1981)  \vspace{-6mm}    |
+| Darf man solche Abkürzungen selbst erfinden, und wie führt man sie ein? | Nur wenn es nicht bereits eine fachintern übliche gibt, und nur für Werke, die in der Arbeit eine zentrale Rolle spielen. Beim ersten Zitat normaler Kurzbeleg u. Hinweis auf Abkürzung; evt. Abkürzungsverzeichnis | 1. Zitat (Habermas 1981:103, im folgenden TKH) … 2. Zitat (TKH:105). (TKH = Theorie des kommunikativen Handelns) ; In den „Lectures on Government and Binding“ (Chomsky 1981, im folgenden mit GB abgekürzt) …
+
+## Exkurs: Fußnoten 
+
 Mit der hier beschriebenen Methode des Kurzbelegs fallen alle Fußnoten mit Literaturhinweisen weg. Der Leser muss nicht zwischen Text und dem Fuß der Seite (oder gar – bei Endnoten – dem Ende des Buchs) hin- und herspringen, nur um dort ein kryptisches „ebd.“ oder „a.a.O.“ zu finden, das ihn zwingt, die erste auf dieses Werk bezogene Fußnote durch Herumblättern zu suchen.
+
 Sind Fußnoten damit völlig überflüssig geworden? Durchaus nicht. Im Gegenteil – die Fußnote kann ihren eigentlichen Zweck nun besser erfüllen. Der besteht darin, Anmerkungen, Zusätze, kleine Exkurse und Erläuterungen aufzunehmen, die im (Haupt-)Argumentationsgang nichts verloren haben oder ihn unnötig aufblähen würden. Da die Quellenangaben sämtlich im Text untergebracht sind, kann sich der Leser jetzt, wenn er auf ein Fußnotenzeichen trifft, auf jeden Fall eine inhaltliche Bemerkung erwarten.
 
 
-
-
-
-Abb.: Entscheidungsbaum: Fußnoten
+```{r fig.align='center', echo=FALSE, fig.cap='Entscheidungsbaum: Fußnoten'}
+knitr::include_graphics('images/zitieren-fussnote-min.png', dpi = NA)
+```
 
 Einen Anwendungsfall für Fußnoten haben wir bereits erwähnt: die Übersetzung eines fremdsprachigen Zitats (bzw. das fremdsprachige Original). Ebenso gehören „Überlegungen am Rande“ in Fußnoten. Manche Wissenschafter haben die Erfahrung gemacht, dass gerade solche Fußnoten, in denen sie Gedanken oder Fragen formulieren, die noch nicht abgeschlossen und noch nicht „reif“ für eine ausgearbeitete Argumentation sind, den Kern ihres nächsten Buches darstellen, weil ihnen dieser gedankliche „Ausreißer“ keine Ruhe lässt. 
+
 Fußnoten sind also nicht überflüssig geworden, aber man sollte trotzdem so sparsam wie möglich damit umgehen. Wenn Sie beim Schreiben andauernd den Drang haben, eine Fußnote einzufügen oder etwas aus dem Haupttext in eine Fußnote zu verbannen, dann kann das ein Hinweis darauf sein, dass die Argumentation noch nicht „steht“, dass die klare Linie fehlt, oder dass Sie vielleicht eine ganz andere Arbeit schreiben möchten als die, an der Sie gerade sitzen (müssen).
-Das Literaturverzeichnis
+
+## Das Literaturverzeichnis
+
 Das Literaturverzeichnis enthält alle Quellen, die in der Arbeit verwendet wurden, mit allen Angaben, die notwendig sind, um sie zu identifizieren und aufzufinden. 
 Zu jedem Kurzbeleg muss es daher einen Eintrag im Literaturverzeichnis geben. Dieser Eintrag muss dem Kurzbeleg eindeutig zugeordnet und außerdem schnell und mühelos gefunden werden können (durch alphabetische Sortierung des Literaturverzeichnisses). Es genügt daher nicht, bei der Endkorrektur nur stichprobenartig zu prüfen, ob sich eine Quellenangabe auch im Literaturverzeichnis wiederfindet. Gerade bei längeren Arbeiten, von denen Teile vielleicht schon früher verfasst worden sind und nun integriert wurden, stößt man immer wieder auf Quellen, von denen man schon wieder vergessen hat, dass sie verwendet wurden. Bewährt hat es sich z. B., in einem Korrekturausdruck der Arbeit alle Kurzbelege mit Markierstift anzustreichen. Dann kann man sie beim Durchblättern der Arbeit mit dem Literaturverzeichnis vergleichen und so Stück für Stück kontrollieren bzw. nötigenfalls nachtragen. 
+
 Andererseits darf das Literaturverzeichnis nur genau jene Quellen enthalten, die verwendet wurden, und nicht mehr! Studierende glauben manchmal, dass die Bibliografie eine bestimmte Länge haben muss, damit die Arbeit positiv bewertet wird, und erliegen der Versuchung, das Literaturverzeichnis ein wenig zu „strecken“. Dann erscheinen z. B. Werke im Literaturverzeichnis, die eigentlich nur aus der Sekundärliteratur zitiert wurden. Ein Zitat aus zweiter Hand ist an und für sich zulässig, vor allem wenn das Primärwerk nicht verfügbar ist. Eine Autorin, die eine wichtige Rolle in der Argumentation spielt, sollten Sie allerdings schon im Original lesen. Schon beim Kurzbeleg eines solchen Zitats muss die eigentlich verwendete Quelle mit „zitiert nach ...“ angegeben werden. Im Literaturverzeichnis darf nur das tatsächlich verwendete Werk erscheinen. 
+
 Es können nur dann alle notwendigen Angaben gemacht werden, wenn diese auch verfügbar sind. Das bedeutet, dass entliehene Werke sofort mit allen bibliografischen Daten erfasst werden müssen. Fehlen Angaben, so muss man entweder das Buch nochmals ausleihen, oder man muss jeden Verweis auf diese Quelle streichen!
+
 Es gibt zahlreiche verschiedene Formen, wie eine Literaturangabe geschrieben werden kann. Sie variieren noch dazu je nach der Art der Quelle, die zitiert wird. Diese Vielfalt von Regeln werden besser überschaubar, wenn man sich die Literaturangabe wie einen Baukasten vorstellt, aus dem je nach Bedarf Blöcke zusammengesetzt werden. Die Grafik zeigt die häufigsten Quellen und ihre Elemente. Zusätze (wie „In:“ oder „Hg.“) und Stil (wie Unterstreichung oder Kursivschrift) hängen dann vom jeweiligen (fachüblichen oder vom Verlag geforderten) Zitierstil ab und werden hier nicht berücksichtigt. 
-Elemente der Literaturangabe
+
+### Elemente der Literaturangabe
+
 Wir werden zunächst die einzelnen „Bausteine“ der Literaturangabe erläutern. 
 Autor
 * Nachname und Vorname (oder Initialen); wenn möglich und im Format erforderlich, Initialen zu ganzem Vornamen ergänzen (in eckigen Klammern, z. B. Müller, H[einrich]. 
@@ -199,7 +173,11 @@ Autor
 * nur den Namen, keine Titel und akademischen Grade angeben. Ein „o.Univ.Prof. Mag.rer.soc.oec. Dr. phil. Fritz Müller“ wird als Autor schlicht zu „Müller, Fritz“. 
 * Pseudonyme werden beibehalten, wenn sie bekannter sind als die „bürgerlichen“ Namen. Diese können in eckigen Klammern angefügt werden, z. B. Novalis [Hardenberg, Friederich Leopold Freiherr von]. 
 
-Abb.: Grundmuster der Literaturangabe
+
+```{r fig.align='center', echo=FALSE, fig.cap='Grundmuster der Literaturangabe'}
+knitr::include_graphics('images/zitieren-buch-min.png', dpi = NA)
+```
+
 
 * Adelsprädikate, mehrteilige Namen: Was fester Bestandteil des Namens ist, wird dem Nachnamen vorangestellt, das andere kann dem Vornamen folgen, z. B. „Van Dijk, Teun“ aber „Grimmelshausen, Hans Jakob Christoph von“. 
 Jahr
@@ -238,93 +216,133 @@ Jahrgang, Heft
 * Die Ausgaben einer Zeitschrift werden entweder für jeden Jahrgang neu nummeriert, also z. B. Nr. 3 (1996) = drittes Heft im Jahr 1996 oder
 * durchnummeriert, besonders bei Fachzeitschriften. 
 * Man übernimmt wieder die Angaben so, wie sie auf der Zeitschrift angegeben sind.
+
 Die folgenden Beispiele sind den Bibliografien wissenschaftlicher Bücher entnommen und zeigen einige der erläuterten Fälle in der praktischen Anwendung:
-Saussure, Ferdinand de. 1967 (1916). Grundfragen der allgemeinen Sprachwissenschaft. Berlin: Walter de Gruyter & Co. 
-Fuchs, Werner/Klima, Rolf/Lautmann, Rüdiger/Rammstedt, Otthein/Wienold, Hans (Hg.). 1978. Lexikon zur Soziologie. 2., verbesserte und erweiterte Auflage. Opladen: Westdeutscher Verlag.
-Hentke, Reinhard (1987): Handlungsorientierung oder kritische Bildung? – Kritik des „handlungs- und situationsorientierten“ Ansatzes der Wirtschaftsdidaktik. Wirtschaft und Erziehung 39, Nr. 11, S. 354–362. (Wiederabdruck u. zit. n. Bundesverband der Lehrer an Wirtschaftsschulen 1991, S. 7–21).
-Lammer, Christina. 1992. Die Demaskierung des freien Körpers. Diplomarbeit zur Erlangung des Magistragrades an der grund- und integrativwissenschaftlichen Fakultät der Universität Wien. 
-Andere Quellen
+
+>Saussure, Ferdinand de. 1967 (1916). Grundfragen der allgemeinen Sprachwissenschaft. Berlin: Walter de Gruyter & Co. 
+
+>Fuchs, Werner/Klima, Rolf/Lautmann, Rüdiger/Rammstedt, Otthein/Wienold, Hans (Hg.). 1978. Lexikon zur Soziologie. 2., verbesserte und erweiterte Auflage. Opladen: Westdeutscher Verlag.
+
+> Hentke, Reinhard (1987): Handlungsorientierung oder kritische Bildung? – Kritik des „handlungs- und situationsorientierten“ Ansatzes der Wirtschaftsdidaktik. Wirtschaft und Erziehung 39, Nr. 11, S. 354–362. (Wiederabdruck u. zit. n. Bundesverband der Lehrer an Wirtschaftsschulen 1991, S. 7–21).
+
+> Lammer, Christina. 1992. Die Demaskierung des freien Körpers. Diplomarbeit zur Erlangung des Magistragrades an der grund- und integrativwissenschaftlichen Fakultät der Universität Wien. 
+
+### Andere Quellen
+
 Bis hier haben wir uns mit den üblichen und am häufigsten verwendeten gedruckten Quellen beschäftigt. Es kann in einer Arbeit aber notwendig werden, andere Medien, wie Software, Filme, Websites, persönliche Mitteilungen oder Rundfunksendungen zu zitieren. Hier sind Hinweise zum Zitieren solcher Quellen: 
+
 Filme werden wie Bücher zitiert, mit dem Regisseur als Autor. Nach dem Titel wird die Art des Werks angegeben, z. B. „Spielfilm“. Statt dem Verlag wird der Verleih bzw. Produzent genannt, z. B. „Paramount“. Das Produktionsjahr wird ebenfalls angeführt, aber statt eines Ortes nur das Land, in dem der Film produziert wurde. Es ist unerheblich, ob Sie den Film im Kino, Fernsehen oder von der Videokassette gesehen haben – diese Angabe ist nicht notwendig. Es kann aber ein hilfreicher Hinweis für einen Leser sein, der dieses Werk finden will, und Sie können es ihm zuliebe ohne weiteres angeben. 
-Wenders, Wim. Buena Vista Social Club. Musikfilm. BRD, 1999. 
+
+> Wenders, Wim. Buena Vista Social Club. Musikfilm. BRD, 1999. 
+
 Fernseh- od. Rundfunksendungen werden mit Regisseur und Titel sowie der Art, z. B. „Dokumentation“, zitiert. Angabe des Senders und von Datum und Zeit der Ausstrahlung vervollständigen den Beleg: 
-Wagner, Martin. 1997. Chirurgen am Computer. Neue Wege der Telemedizin. Dokumentation. ORF 2: 29. 8. 97, 20.15 – 21.45“. 
+
+> Wagner, Martin. 1997. Chirurgen am Computer. Neue Wege der Telemedizin. Dokumentation. ORF 2: 29. 8. 97, 20.15 – 21.45“. 
+
 Einzelne Teile von Sendungen, z. B. ein Beitrag in einer Dokumentationsserie, werden wie unselbständige Werke (Artikel) behandelt: Regisseur, Titel des Beitrags, Serientitel, Sender und Zeitpunkt. 
+
 Nicht bei jeder Software sind die Autoren bekannt. In diesem Fall wird der Name des Programms als Ordnungswort gewählt (entsprechend dem Sachtitel von Büchern). Nach Duden würde man einfach die Erläuterung „Computer-Software“ an den Titel anhängen, wir halten das aber für zu ungenau – der Typ der Software, wie „Computerspiel“ oder „Autorensystem“, ist aufschlussreicher. Die Quellenangabe soll außerdem enthalten:
-* Version: Die Angabe der Version (und der Sprache) ist bei Software wichtig. Sie wird so angeführt wie sie bei der Software verwendet wird, also z. B. „Vers. 5.1D“. 
-* Hersteller bzw. Verlag (im Zweifelsfall: der Inhaber des Copyrights) werden, wenn möglich mit Ort, wie der Verlag beim Buch angegeben. 
-* Das Jahr ist jenes des Copyrights:	
-Microsoft Word. Vers. 5.1D. Redmond (WA): Microsoft Corparation, 1993. 
+* _Version_: Die Angabe der Version (und der Sprache) ist bei Software wichtig. Sie wird so angeführt wie sie bei der Software verwendet wird, also z. B. „Vers. 5.1D“. 
+* _Hersteller bzw. Verlag_ (im Zweifelsfall: der Inhaber des Copyrights) werden, wenn möglich mit Ort, wie der Verlag beim Buch angegeben. 
+* Das _Jahr_ ist jenes des Copyrights:	
 
-* Speichermedium: Die Angabe des Speichermediums, z. B. „CD-ROM“ ist nicht mit dem Softwaretyp zu verwechseln und ersetzt ihn nicht. Diese Angabe ist nicht unbedingt notwendig, da die Software dieselbe bleibt, gleich auf welchem Medium sie gespeichert wurde. Sie können diese Angabe aber – wie bei der Videokassette – den Lesern als Hilfestellung hinzufügen.
+> Microsoft Word. Vers. 5.1D. Redmond (WA): Microsoft Corparation, 1993. 
+
+* _Speichermedium_: Die Angabe des Speichermediums, z. B. „CD-ROM“ ist nicht mit dem Softwaretyp zu verwechseln und ersetzt ihn nicht. Diese Angabe ist nicht unbedingt notwendig, da die Software dieselbe bleibt, gleich auf welchem Medium sie gespeichert wurde. Sie können diese Angabe aber – wie bei der Videokassette – den Lesern als Hilfestellung hinzufügen.
 Wenn Sie Software zitieren, die Sie aus dem Internet heruntergeladen haben, gilt Ähnliches: ist es eine auch anders, z. B. über den Handel, erhältliche Software, so muss der ftp-Server nicht angegeben werden – aber er kann (als Speichermedium). Gibt es diese Software aber (Ihres Wissens) sonst nirgends außer im Internet, dann geben Sie statt Ort und/oder Produzent die Server-Adresse und den Pfad in der üblichen URL-Notation an, z. B. 
-BigPicture 4.2. Shareware. ftp://tuwien.ac.at/tucows/util/mac/
 
-Zitieren von Internet-Quellen
+> BigPicture 4.2. Shareware. ftp://tuwien.ac.at/tucows/util/mac/
+
+### Zitieren von Internet-Quellen
+
 Ebenso werden Websites durch ihre URL zitiert. Die Besonderheit daran ist, dass durch die URL jede einzelne Seite für sich, wie ein selbständiges Werk, zitiert werden kann. Trotzdem will der Leser vielleicht gern wissen, in welchem Kontext bzw. zu welchem Server die zitierte Seite gehört: dann gehen Sie wie beim Zitieren von unselbständigen Werken vor, aber es genügt als „Bezugsquelle“ die URL der Seite, da sie die übergeordneten Quellen ja enthält. 
+
 Nach dem Style Guide der APA (American Psychological Association, ein in verschiedenen Wissenschaften weit verbreiteter Standard für die Erstellung wissenschaftlicher Publikationen) wird der Literaturverzeichniseintrag einer Webseite in der Grundform dargestellt als:
-Autor bzw. Herausgeber. (Datum der letzten Änderung oder des Copyright). Titel der Seite. Herausgebende Institution. Gsefunden am [Datum des letzten Zugriffs] im World Wide Web: URL
-Barribeau, S. (29.01.2000). Internet Citation Guides: Citing Electronic Sources in Research Papers and Bibliographies. University of Wisconsin-Madison, Memorial Library. Gefunden am 20. April 2000 im World Wide Web: http://www.library.wisc.edu /libraries/Memorial/ citing.htm
+
+> Autor bzw. Herausgeber. (Datum der letzten Änderung oder des Copyright). Titel der Seite. Herausgebende Institution. Gsefunden am [Datum des letzten Zugriffs] im World Wide Web: URL
+
+> Barribeau, S. (29.01.2000). Internet Citation Guides: Citing Electronic Sources in Research Papers and Bibliographies. University of Wisconsin-Madison, Memorial Library. Gefunden am 20. April 2000 im World Wide Web: http://www.library.wisc.edu /libraries/Memorial/ citing.htm
+
 Dazu noch einige Erläuterungen zu einzelnen Elementen: 
-* Titel: Der Titel wird so angegeben, wie er im Browser-Fenster erscheint (und nicht etwa die HTML-Kurzbezeichnung, wie man sie in den Bookmarks wiederfindet). Da untergeordnete Seiten nicht immer einen Titel haben, sollte man zum Zitieren in der Hierarchie bis zum Titel (bzw. zur Homepage) hinaufgehen. 
-* Autor: Namentliche Verfasser von Web-Seiten sind oft nicht leicht zu finden. Meistens sind es Institutionen, die dafür verantwortlich zeichnen. Der „Webmaster“, der als Kontaktperson bei den meisten Servern angegeben ist, darf nicht automatisch als Verfasser angenommen werden. So würde man z. B. angeben: 
-National Science Foundation: Annual Report 1995. http://www.nsf.gov/rep95/index.html. 
-* Aktualisierungsdatum: Ein Problem mit Zitaten aus dem WWW ist, dass sie rasch veralten können. Das weiß jeder, der versucht, einen der zahlreichen „Internet Guides“ oder „Internet Yellow Pages“ bloß ein Jahr nach ihrem Erscheinen zu verwenden: gut die Hälfte der Adressen stimmen schon nicht mehr. Man kann beim Zitieren aus dem Internet nicht sicherstellen, dass ein Leser, der die von Ihnen angegebene URL in ein bis zwei Jahren aufsuchen möchte, nichts mehr oder sogar etwas ganz anderes findet. Die einzige Absicherung ist, das Datum des letzten Zugriffs anzugeben. Bei regelmäßig gewarteten und aktualisierten Servern kann dieses Datum mit dem auf der Webseite angegebenen Aktualisierungsdatum („Last updated“ o. ä.) verglichen werden. Somit kann die Leserin zumindest ersehen, dass sie sich auf eine frühere Version der Seite beziehen, wenn sie auch nicht wissen kann, auf welche. 
+
+* _Titel_: Der Titel wird so angegeben, wie er im Browser-Fenster erscheint (und nicht etwa die HTML-Kurzbezeichnung, wie man sie in den Bookmarks wiederfindet). Da untergeordnete Seiten nicht immer einen Titel haben, sollte man zum Zitieren in der Hierarchie bis zum Titel (bzw. zur Homepage) hinaufgehen. 
+* _Autor_: Namentliche Verfasser von Web-Seiten sind oft nicht leicht zu finden. Meistens sind es Institutionen, die dafür verantwortlich zeichnen. Der „Webmaster“, der als Kontaktperson bei den meisten Servern angegeben ist, darf nicht automatisch als Verfasser angenommen werden. So würde man z. B. angeben: 
+> National Science Foundation: Annual Report 1995. http://www.nsf.gov/rep95/index.html. 
+* _Aktualisierungsdatum_: Ein Problem mit Zitaten aus dem WWW ist, dass sie rasch veralten können. Das weiß jeder, der versucht, einen der zahlreichen „Internet Guides“ oder „Internet Yellow Pages“ bloß ein Jahr nach ihrem Erscheinen zu verwenden: gut die Hälfte der Adressen stimmen schon nicht mehr. Man kann beim Zitieren aus dem Internet nicht sicherstellen, dass ein Leser, der die von Ihnen angegebene URL in ein bis zwei Jahren aufsuchen möchte, nichts mehr oder sogar etwas ganz anderes findet. Die einzige Absicherung ist, das Datum des letzten Zugriffs anzugeben. Bei regelmäßig gewarteten und aktualisierten Servern kann dieses Datum mit dem auf der Webseite angegebenen Aktualisierungsdatum („Last updated“ o. ä.) verglichen werden. Somit kann die Leserin zumindest ersehen, dass sie sich auf eine frühere Version der Seite beziehen, wenn sie auch nicht wissen kann, auf welche. 
+
 Damit ist gleich ein großes Problem der Verwendung des WWW als Quelle angesprochen: die für wissenschaftlichen Umgang mit Quellen an oberster Stelle stehende Forderung der Nachvollziehbarkeit ist hier nur mehr bedingt gegeben. 
+
 Persönliche Mitteilungen werden mit dem Urheber, der Art und dem Datum zitiert, also z. B. 
-Wiedemann, Heribert: E-mail an die Verf. 18.7.1997. oder
-Wiedemann, Heribert: mündl. Mitteilung, 18.7.1997. 
+
+> Wiedemann, Heribert: E-mail an die Verf. 18.7.1997. oder
+> Wiedemann, Heribert: mündl. Mitteilung, 18.7.1997. 
+
 Persönliche Mitteilungen dürfen aber nur ausnahmsweise als Quelle in wissenschaftlichen Arbeiten verwendet werden, also wenn dazu wirklich (noch) keine Niederschrift existiert, die Aussage aber so wichtig ist, dass sie nicht darauf verzichten wollen. Es versteht sich von selbst, dass nur Mitteilungen von anerkannten Experten zu ihrem Fach als Quelle herangezogen werden dürfen. Außerdem muss das Einverständnis der Urheberin der Aussage eingeholt werden. 
+
 Beiträge aus Newsgroups und Mailing-Listen werden durch Angabe des Verfassers und, wenn vorhanden, auch eines Titels (Subject oder Betreff) zitiert. Weiters wird angeführt, wie die Newsgroup oder die Mailing-Liste heißt. Die Quelle wird als „Online- Posting“, „Mailing-List-Beitrag“, „Newsgroup-Artikel“ o.ä. bezeichnet: 
-Williams, Terry: Re: Deaf or deaf? Newsgroup-Beitrag. misc.culture.deaf, 12.6.1996.
+
+> Williams, Terry: Re: Deaf or deaf? Newsgroup-Beitrag. misc.culture.deaf, 12.6.1996.
+
 Nur wenn das Diskussionsforum nicht weltweit über das Internet zugänglich ist, muss (vor dem Namen der Gruppe) auch das Netzwerk angegeben werden: 
-MagnetCity, Tamagotchi-Forum, 1.9.97. 
+
+> MagnetCity, Tamagotchi-Forum, 1.9.97. 
+
 Für Online-Diskussionsbeiträge gelten die selben Einschränkungen wie für persönliche Mitteilungen. Die Nachvollziehbarkeit ist besonders bei Newsgroups, die kein Archiv haben, nicht gegeben. Handelt es sich bei solchen Beiträgen um wichtige Quellen für Ihre Arbeit, so empfiehlt es sich, den Originaltext im Anhang der Arbeit vollständig abzudrucken.
-Format der Literaturangabe
+
+## Format der Literaturangabe
+
 Diese „Bausteine“ werden jeweils nach einem bestimmten System zu Literaturangaben zusammengefügt. Es gibt verschiedene solcher Systeme, und für eine Abschlussarbeit muss man sich an die Richtlinien und Gebräuche des eigenen Fachs und Instituts halten. Gibt es dafür keine expliziten und speziellen Richtlinien, so kann man mit einem konsequent durchgehaltenen und im Fach üblichen Standardformat („style sheet“) nicht falsch liegen. 
+
 Für deutsche Arbeiten ist hier der Duden (Wie verfasst man wissenschaftliche Arbeiten?) jeweils in der aktuellen Auflage eine gute Richtlinie. Die hier gemachten Vorschläge halten sich weitgehend an das „MLA Style Sheet“ (MLA = Modern Language Association). Für englische Arbeiten ist das sehr genaue „Manual for Writers ...“ von Turabian zu empfehlen, das der praktisch zum Standard gewordenen 14. Auflage des Chicago Manual of Style folgt.
-Software für die Literaturverwaltung
+
+### Software für die Literaturverwaltung
+
 Bei der Verwendung eines Literaturverwaltungsprogramms, das mit Ihrer Textverarbeitung zusammenarbeiten kann, ersparen Sie sich viel Aufwand und möglichen Ärger bei der Erstellung der Bibliografie:
+
 * Alle Werke der Leseliste werden sofort, wenn Sie sie bei der Hand haben, und mit allen bibliografischen Angaben in die Literaturdatenbank eingetragen. Bei Sammelbänden wird das Gesamtwerk ebenso erfasst wie jeder einzelne Beitrag, den Sie verwenden werden. 
 * Beim Schreiben werden Kurzbelege oder Codes in einer vordefinierten speziellen Schreibweise im Text angegeben. Die Vorgaben der Literatursoftware müssen dabei unbedingt eingehalten werden. Der Nachteil ist, dass der Umgang mit Kurzbelegen etwas weniger flexibel ist als bei „manueller“ Bibliografie-Erstellung (so kann z. B. manche Software einen Kurzbeleg nicht erkennen, wenn Text zwischen Autor und Jahreszahl steht). Gute Programme können hingegen mit mehreren Kurzbelegen eines oder mehrerer Autoren – einschließlich der Vergabe von Buchstaben – durchaus umgehen. 
 * Die Literatursoftware ermöglicht es, aus den selben Daten Bibliografien in ganz unterschiedlichen, genormten Formaten zu generieren. Es kann aus vordefinierten (genormten) Vorlagen (style sheets) gewählt oder eine eigene Vorlage – z. B. nach den Angaben des Verlages oder des Instituts – definiert werden. 
 * Nach dem Überarbeiten des Textes wird die Bibliografie erstellt. Die Literatursoftware durchsucht den Text nach Kurzbelegen (oder ersetzt die Codes durch Kurzbelege) und schreibt die entsprechende Quellenangabe in ein alphabetisch geordnetes Literaturverzeichnis. 
-Prüfliste: Literaturverzeichnis anlegen
-* Welche Formvorschriften gelten für das Literaturverzeichnis (Fachbereich, Verlag usw.), bzw. welche Form habe ich gewählt?
-* Gibt es für jeden Kurzbeleg einen Eintrag im Literaturverzeichnis? (Vollständigkeit)
-* Ist jeder Kurzbeleg eindeutig einem Eintrag zuordenbar? (Eindeutigkeit; Kurzbelege wenn nötig mit Initialen und „a“, „b“ beim Jahr differenzieren)
-* Gibt es für jeden Eintrag im Literaturverzeichnis einen Kurzbeleg? (Aufrichtigkeit; nur verwendete Literatur aufnehmen)
-* Sind die Angaben bei jedem Eintrag im Literaturverzeichnis vollständig?
-* Entsprechen Reihenfolge, Abkürzungen, Konventionen jedes Eintrags den Formvorschriften? (bzw. wurde das selbstgewählte Format konsistent beibehalten?)
 
-Aufgabe: 
-Ihnen stehen folgende Autorenrichtlinien für das Zitieren zur Verfügung:
-Autor, A., Autor, B. und Autor, C. Jahr. Buchtitel. Auflage. Ort: Verlag. 
-Autor, A. Jahr. Titel des Artikels. Untertitel. Zeitschrift Jahrgang:Heft. Seite-Seite. URL (letztes Zugriffsdatum DD-MM-JJ). 
-Autor, A. Jahr. Titel des Kapitels. In: Herausgeber, A. (Hg.). Titel des Sammelbandes. Auflage. Ort: Verlag. Seite-Seite. 
-Bringen Sie nun folgende Referenzen in die richtige Form: 
-Anton Müller, Sozialverhalten der Meerschweinchen: eine Langzeitstudie, S. 111-154 in Animalische Gesellschaften, hg. von Berthold Hase, Steirischer Landesverlag, Graz, 2004. 
-Kraut, Marlies, Kohl, Otto, Rübe, Rudi: Nährstoffbedarf adoleszenter Meerschweinchen. Zoologie heute, 41. Jahrgang, Nr. 3/2003, Seite 103-124. Verfügbar unter http://www.uni-briz.de/zool/publik2003/krautkohl2003.pdf, zuletzt besucht am 31. Mai 2005. 
-Brot, Bernd (2006). Zu kurze Arme. Chili-Verlag, Erfurt. 
+Table: **(\#tab:literaturverzeichnis) Literaturverzeichnis anlegen**
 
-Literatur
++----------------------------------------------------------------------------------------------------------------------------------+
+| * Welche Formvorschriften gelten für das Literaturverzeichnis (Fachbereich, Verlag usw.), bzw. welche Form habe ich gewählt? \vspace{-6mm}    | +----------------------------------------------------------------------------------------------------------------------------------+                      
+| * Gibt es für jeden Kurzbeleg einen Eintrag im Literaturverzeichnis? (Vollständigkeit)   \vspace{-6mm}    |
++----------------------------------------------------------------------------------------------------------------------------------+
+| * Ist jeder Kurzbeleg eindeutig einem Eintrag zuordenbar? (Eindeutigkeit; Kurzbelege wenn nötig mit Initialen und „a“, „b“ beim Jahr differenzieren) \vspace{-6mm}    |
++----------------------------------------------------------------------------------------------------------------------------------+
+| * Gibt es für jeden Eintrag im Literaturverzeichnis einen Kurzbeleg? (Aufrichtigkeit; nur verwendete Literatur aufnehmen) \vspace{-6mm}    |
++----------------------------------------------------------------------------------------------------------------------------------+
+| * Sind die Angaben bei jedem Eintrag im Literaturverzeichnis vollständig? \vspace{-6mm}    |
++----------------------------------------------------------------------------------------------------------------------------------+
+| * Entsprechen Reihenfolge, Abkürzungen, Konventionen jedes Eintrags den Formvorschriften? (bzw. wurde das selbstgewählte Format konsistent beibehalten?)   |
++----------------------------------------------------------------------------------------------------------------------------------+
 
-Adler, Mortimer J. and van Doren, Charles. How to Read a Book. New York: MJF Books, 1972. 
-Antosch, Oliver: Internet für Fortgeschrittene. München: Beck-DTV, 2000
-Babiak, Ulrich. Effektive Suche im Internet. Suchstrategien, Methoden, Quellen. 3. Aufl. Köln: O’Reilly, 1999
-Boehncke, Heiner. Vom Refereat bis zur Exemensarbeit. Schreiben im Studium. Niederh.: Falken, 2000
-Brink, Alfred. Anfertigung wissenschaftlicher Arbeiten. Oldenbourg, 2005
-Emlein, Günther und Kasper, Wolfgang A. Flächenlesen. Die Vielfalt der Schnell-lesetechniken optimal nutzen. Kirchzarten: VAK Verlag, 2000
-Engel, Stefan und Slapnicar, Klaus. Die Diplomarbeit. Stuttgart: Schäffer, 2000
-Esselborn-Krumbiegel, Helga. Von der Idee zum Text. eine anleitung zum wissenschaftlichen arbeiten. UTB, 2004 
-Hertlein, Margit. Mind Mapping. Die kreative Arbeitstechnik. Spielerisch lernen und organisieren. Reinbek: Rowohlt TB, 1997
-Jecht, Sausel, Strahler. Telekooperatives Arbeiten im Internet mit BSCW. Lernmaterialien. Darmstadt: Winklers, 2000
-Kienpointner, Manfred. Vernünftig argumentieren. Regeln und Techniken der Diskussion. Reinbek: Rowohlt, 1996
-Kirckhoff, Mogens. Mind Mapping: die Synthese von sprachlichem und bildhaftem Denken. 3. Aufl. Berlin: Synchron, 1990
-Meehan, Eugene J. Praxis des wissenschaftlichen Denkens. Ein Arbeitsbuch für Studierende. Reinbek: Rowohlt, 1995
-Niederhauser, Jürg. Duden. Die schriftliche Arbeit. Mannheim: Bibliograf. Institut, 2006.
-Ott, Ernst. Optimales Lesen. Schneller lesen – mehr behalten. ein 25-Tage-Programm. 25. Aufl. Reinbek: Rowohlt, 2000
-Poenicke, Klaus. Wie verfasst man wissenschaftliche Arbeiten? 2. Aufl. Mannheim: Duden, 1988
-Rodrigues, Dawn: The Research Paper and the World Wide Web. London: Prentice-Hall, 1997.
-Stolpmann, Markus. Internet & WWW für Studenten. WWW, FTP, E-Mail und andere Dienste. Köln: O’Reilly, 1997
+## Aufgabe: Zitieren
+
+Table: **(\#tab:aufgabe7-test) Zitieren**
+
++----------------------------------------------------------------------------------------------------------------------------------+
+| 1. Ihnen stehen folgende Autorenrichtlinien für das Zitieren zur Verfügung: |
+|                                                                                                                                  |
+| Autor, A., Autor, B. und Autor, C. Jahr. Buchtitel. Auflage. Ort: Verlag. |
+| Autor, A. Jahr. Titel des Artikels. Untertitel. Zeitschrift Jahrgang:Heft. Seite-Seite. URL (letztes Zugriffsdatum DD-MM-JJ). 
+| Autor, A. Jahr. Titel des Kapitels. In: Herausgeber, A. (Hg.). Titel des Sammelbandes. Auflage. Ort: Verlag. Seite-Seite. \vspace{-6mm} |
++----------------------------------------------------------------------------------------------------------------------------------+
+| * Bringen Sie nun folgende Referenzen in die richtige Form:     |
+|                                                                                                                                  |
+| Anton Müller, Sozialverhalten der Meerschweinchen: eine Langzeitstudie, S. 111-154 in Animalische Gesellschaften, hg. von Berthold Hase, Steirischer Landesverlag, Graz, 2004. |
+| Kraut, Marlies, Kohl, Otto, Rübe, Rudi: Nährstoffbedarf adoleszenter Meerschweinchen. Zoologie heute, 41. Jahrgang, Nr. 3/2003, Seite 103-124. Verfügbar unter http://www.uni-briz.de/zool/publik2003/krautkohl2003.pdf, zuletzt besucht am 31. Mai 2005. |
+| Brot, Bernd (2006). Zu kurze Arme. Chili-Verlag, Erfurt. |
++----------------------------------------------------------------------------------------------------------------------------------+
+
+
+
+
+
+
+
+
+
 

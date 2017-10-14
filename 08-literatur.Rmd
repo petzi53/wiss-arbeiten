@@ -1,1 +1,38 @@
 `r if (knitr:::is_html_output()) '# Literatur {-}'`
+Literatur
+
+Adler, Mortimer J. and van Doren, Charles. How to Read a Book. New York: MJF Books, 1972. 
+
+Antosch, Oliver: Internet für Fortgeschrittene. München: Beck-DTV, 2000
+
+Babiak, Ulrich. Effektive Suche im Internet. Suchstrategien, Methoden, Quellen. 3. Aufl. Köln: O’Reilly, 1999
+
+Boehncke, Heiner. Vom Refereat bis zur Exemensarbeit. Schreiben im Studium. Niederh.: Falken, 2000
+
+Brink, Alfred. Anfertigung wissenschaftlicher Arbeiten. Oldenbourg, 2005
+
+Emlein, Günther und Kasper, Wolfgang A. Flächenlesen. Die Vielfalt der Schnell-lesetechniken optimal nutzen. Kirchzarten: VAK Verlag, 2000
+
+Engel, Stefan und Slapnicar, Klaus. Die Diplomarbeit. Stuttgart: Schäffer, 2000
+
+Esselborn-Krumbiegel, Helga. Von der Idee zum Text. eine anleitung zum wissenschaftlichen arbeiten. UTB, 2004 
+
+Hertlein, Margit. Mind Mapping. Die kreative Arbeitstechnik. Spielerisch lernen und organisieren. Reinbek: Rowohlt TB, 1997
+
+Jecht, Sausel, Strahler. Telekooperatives Arbeiten im Internet mit BSCW. Lernmaterialien. Darmstadt: Winklers, 2000
+
+Kienpointner, Manfred. Vernünftig argumentieren. Regeln und Techniken der Diskussion. Reinbek: Rowohlt, 1996
+
+Kirckhoff, Mogens. Mind Mapping: die Synthese von sprachlichem und bildhaftem Denken. 3. Aufl. Berlin: Synchron, 1990
+
+Meehan, Eugene J. Praxis des wissenschaftlichen Denkens. Ein Arbeitsbuch für Studierende. Reinbek: Rowohlt, 1995
+
+Niederhauser, Jürg. Duden. Die schriftliche Arbeit. Mannheim: Bibliograf. Institut, 2006.
+
+Ott, Ernst. Optimales Lesen. Schneller lesen – mehr behalten. ein 25-Tage-Programm. 25. Aufl. Reinbek: Rowohlt, 2000
+
+Poenicke, Klaus. Wie verfasst man wissenschaftliche Arbeiten? 2. Aufl. Mannheim: Duden, 1988
+
+Rodrigues, Dawn: The Research Paper and the World Wide Web. London: Prentice-Hall, 1997.
+
+Stolpmann, Markus. Internet & WWW für Studenten. WWW, FTP, E-Mail und andere Dienste. Köln: O’Reilly, 1997

@@ -5,28 +5,6 @@
 knitr::include_graphics('images/recherchieren-min.png', dpi = NA)
 ```
 
-Obige Grafik [@xie2015] ist weiter entwickelt worden
-
-
-```{block2, type='rmdnote'}
-Bereits beim Konzipieren der Arbeit haben Sie Material gesucht (siehe Kapitel „Konzipieren einer Arbeit“). Das war aber erst eine vorläufige Umschau, die Ihnen geholfen hat, ein Thema zu finden und sich einen Überblick über die zu bearbeitende Literatur dazu zu verschaffen. Jetzt geht es darum, systematisch die Quellen für die wissenschaftliche Arbeit zusammenzustellen.
-```
-
-```{block type='rmdnote'}
-R is free software and comes with ABSOLUTELY NO WARRANTY.
-You are welcome to redistribute it under the terms of the
-GNU General Public License versions 2 or 3.
-For more information about these matters see
-http://www.gnu.org/licenses/.
-```
-
-
-<div class="rmdcaution">
-R is free software and comes with ABSOLUTELY NO WARRANTY. You are welcome to redistribute it under the terms of the GNU General Public License versions 2 or 3. For more information about these matters see <a href="http://www.gnu.org/licenses/" class="uri">http://www.gnu.org/licenses/</a>.
-</div>
-
-
-
 Bereits beim Konzipieren der Arbeit haben Sie Material gesucht (siehe Kapitel „Konzipieren einer Arbeit“). Das war aber erst eine vorläufige Umschau, die Ihnen geholfen hat, ein Thema zu finden und sich einen Überblick über die zu bearbeitende Literatur dazu zu verschaffen. Jetzt geht es darum, systematisch die Quellen für die wissenschaftliche Arbeit zusammenzustellen. Das erste Ergebnis dieser Phase ist eine Leseliste, die alle Aspekte, die Sie in der Arbeit behandeln wollen, umfasst. Zusammen mit der Erstellung der Leseliste erheben und entscheiden Sie auch, wie Sie an die aufgelisteten Quellen herankommen: aus dem Internet herunterladen, kaufen oder entleihen. Am Ende der Recherche haben Sie die wesentlichen Materialien für Ihre Arbeit beisammen und verfügbar, und Sie können mit dem Lesen beginnen. Es kann sich später herausstellen, dass noch Literatur zur einen oder anderen Frage fehlt und zusätzlich gesucht, beschafft und gelesen werden muss. Das bringt aber jedes mal wieder die Gefahr mit sich, dass man sich in erneuter Literatursuche verzettelt, meint, immer noch mehr lesen zu müssen, und nie damit fertig wird.
 
 Grundsätzlich gilt: Sie können nie alles zu Ihrem Thema kennen und lesen! Es gibt heute einfach zu viele Wissenschafterinnen, die alle ständig schreiben und publizieren, und durch die neuen Möglichkeiten des Internets, weltweit zu recherchieren, haben Sie potenziell Zugang zu allen Quellen, Personen und Institutionen, die etwas mit dem Thema zu tun haben. Es ist daher praktisch unmöglich geworden, sich einen wirklich vollständigen Überblick über die Literatur zu einem Thema zu verschaffen. Damit haben heute alle wissenschaftlich Arbeitenden – sofern sie nicht in einem ganz speziellen, engen und daher (noch) überschaubaren Gebiet zu Hause sind – ein neues Problem: Wann ist es genug? Habe ich die wichtigen Quellen zum Thema gefunden? Was kann ich weglassen? Es muss daher dem Recherchieren eine vernünftige Grenze gesetzt werden, die sowohl dem Arbeitsvorhaben in Zeit und Aufwand angemessen ist als auch auf nachvollziehbaren Auswahlkriterien beruht. 
@@ -38,6 +16,12 @@ In diesem und dem nächsten Kapitel werden zwei „Hauptstraßen“ des Recherch
 Der erste Teil dieses Abschnitts beschreibt auch die Materialsuche, die Sie beim Konzipieren einer Arbeit ausführen, um einen Überblick und eine vorläufige Literaturliste zu erhalten (siehe Kapitel „Konzipieren einer Arbeit“). Die Phase der Materialsammlung, -sichtung und -auswahl ist im folgenden Diagramm dargestellt.
 
 ### Überblick
+
+
+```{r fig.align='center', echo=FALSE, fig.cap='Prozesschritte beim Recherchieren'}
+knitr::include_graphics('images/recherchieren-ablauf-min.png', dpi = NA)
+```
+
 
 Ausgangspunkt ist die Idee oder das Rohkonzept, das aus der Erschließung des Themas hervorgegangen ist. 
 
@@ -65,34 +49,18 @@ Das Konzept einer umfangreicheren Arbeit ist meist so komplex, dass es nicht gen
 
 Bevor wir die Strategien der Literatursuche beschreiben, möchten wir anhand einer Tabelle die Arten von Literatur, die Sie brauchen und mit der Sie zu tun haben werden, darstellen. 
 
-Aktionstabelle: Arten von Literatur
-Sie verwenden ... 
-für ...
-Beispiel: 
-Lexika, Nachschlagewerke
-Begriffe, Definitionen, Kurzüberblick über das Thema
-Encyclopedia Britannica
-Wörterbuch der Psychologie usw. 
-Einführung, Lehrbuch, Sachbuch, Kompendium, Reader
-Überblick über das Thema, Auffrischen der Kenntnisse, „Einlesen“
-„Entwicklungspsychologie. Ein Lehrbuch“
-Primärliteratur 
-Gegenstand der Arbeit
-Jean Piaget, Gesammelte Werke
-Zeitungsartikel
-Film, Tonträger usw.
-Sekundärliteratur (wissenschaftliche Werke über die Primärliteratur)
-Analyse, Interpretation, Diskussion der Primärliteratur
-G. Steiner, Piaget und die Folgen
-empirisches Werk
-Unterstützung oder Kritik von Argumenten, Datenbasis und -interpretation
-Videofilme von Kleinkindern; wiss. Arbeit, die diese Videos auswertet
-theoretisches Werk
-Rezeption, Kritik, Vergleich, Diskussion, Theoriebildung
-Buch, das empirische Ergebnisse diskutiert und verallgemeinert
-Praxisbericht (angewandte Theorie ...)
-Beispiel, Fallstudie, Beleg, Interpretation
-Tagebuch eines Erziehers
+Table: **(\#tab:literaturarten) Arten von Literatur**
+
+| Sie verwenden…                     | für…                            | Beispiele                              |
+-------------------------------------|---------------------------------|----------------------------------------|
+| Lexika, Nachschlagewerke\vspace{5mm} | Begriffe, Definitionen, Kurzüberblick über das Thema\vspace{5mm} | Encyclopedia Britannica, Wörterbuch der Psychologie usw. \vspace{5mm} |
+| Einführung, Lehrbuch, Sachbuch, Kompendium, Reader\vspace{5mm} | Überblick über das Thema, Auffrischen der Kenntnisse, „Einlesen“\vspace{5mm} | „Entwicklungspsychologie. Ein Lehrbuch“ \vspace{5mm} |
+| Primärliteratur \vspace{5mm}| Gegenstand der Arbeit\vspace{5mm} | Jean Piaget, Gesammelte Werke; Zeitungsartikel; Film; Tonträger usw. \vspace{5mm} |
+| Sekundärliteratur (wissenschaftliche Werke über die Primärliteratur)\vspace{5mm} | Analyse, Interpretation, Diskussion der Primärliteratur\vspace{5mm} | G. Steiner, Piaget und die Folgen \vspace{5mm} |
+| empirisches Werk\vspace{5mm} | Unterstützung oder Kritik von Argumenten, Datenbasis und -interpretation\vspace{5mm} | Videofilme von Kleinkindern; wiss. Arbeit, die diese Videos auswertet \vspace{5mm} |
+| theoretisches Werk\vspace{5mm} | Rezeption, Kritik, Vergleich, Diskussion, Theoriebildung\vspace{5mm} | Buch, das empirische Ergebnisse diskutiert und verallgemeinert \vspace{5mm} |
+| Praxisbericht (angewandte Theorie ...) \vspace{5mm}| Beispiel, Fallstudie, Beleg, Interpretation \vspace{5mm} | Tagebuch eines Erziehers \vspace{5mm} |
+
 
 ## Beginn der Literatursuche
 
@@ -100,7 +68,11 @@ Wir beschreiben hier auch die Materialsuche, die Sie schon zu Beginn der Arbeit,
 
 Ausgangspunkt ist ein Schlagwort, ein Fachgebiet, ein einzelnes Werk, von dem Sie Autor und Titel kennen. Bei der ersten Schlagwortsuche werden Sie vielleicht schon reichlich „Treffer“ erzielen, vielleicht sogar zu viele. Trotzdem kann Ihre Suche damit noch nicht beendet sein. Die meisten Titel, die Sie finden, werden auch unter anderen Schlagwörtern geführt. Notieren Sie sich diese Schlagwörter und suchen Sie auch nach ihnen. Auch bei der Suche nach Autor/Titel finden Sie Schlagwörter, die Sie zur weiteren Suche verwenden können.
 
-Abb.: Beginn der Literatursuche
+
+```{r fig.align='center', echo=FALSE, fig.cap='Beginn der Literatursuche'}
+knitr::include_graphics('images/recherchieren-literatursuche-beginn-min.png', dpi = NA)
+```
+
 
 
 „Schneeballsystem“ bedeutet: Sie haben ein Buch zu Ihrem Thema, in dem wieder andere Bücher behandelt und mit bibliografischen Angaben zitiert werden. Sie finden diese angegebenen Bücher und behandeln Sie in Ihrer Arbeit. Diese Bücher haben ebenfalls Literaturangaben, und so finden Sie noch mehr Literatur, usw. Abgesehen davon, dass man manchmal gar nicht anders kann, als jeden Hinweis aufzugreifen, hat das System den Vorteil, dass man oft sehr schnell auf die „Schlüsselwerke“ oder „Klassiker“ zu einem Thema stößt: Ein Werk, das von vielen oder allen Wissenschafterinnen, die zu diesem Thema arbeiten, zitiert wird, ist wahrscheinlich eines, das Sie auch nicht übergehen dürfen. Die Gefahr dabei ist, dass Sie in eine „Zitierbruderschaft“ geraten, also in eine Gruppe, Richtung oder Schule von Wissenschaftern, die sich hauptsächlich gegenseitig lesen und/oder zitieren. Die Erweiterung und Systematisierung der Suche bleibt einem also trotzdem nicht erspart.
@@ -111,7 +83,12 @@ Viele Titel, die Sie bei Ihrer ersten Recherche in Bibliothekskatalogen finden, 
 
 Außer bei frühen „Übungsarbeiten“ im Studium (Proseminare u. dgl.), wo Sie erst einmal zeigen sollen, dass Sie überhaupt imstande sind, Bibliotheken und Kataloge zu benutzen und Literatur zu finden, ist dieser erste Durchgang bei der Literatursuche nicht ausreichend. Sie müssen einen zweiten Durchgang, die systematische Suche, anschließen.
 
-Abb.: Systematische Literatursuche
+
+```{r fig.align='center', echo=FALSE, fig.cap='Sytematische Literatursuche'}
+knitr::include_graphics('images/recherchieren-literatursuche-systematisch-min.png', dpi = NA)
+```
+
+
 
 Grundsätzlich gibt es dazu zwei Möglichkeiten: die Online-Suche im Internet (siehe Kapitel „Recherchieren im Internet“) und die „Turnschuh-Methode“, d. h. in Bibliotheken, Buchhandlungen usw. gehen und vor Ort suchen. Selbst in Zeiten, wo man schon beinahe alles über das Internet erledigen kann, sollte man auf die Suche vor Ort nicht ganz verzichten: 
 
@@ -119,46 +96,29 @@ In einer Bibliothek mit Freihandaufstellung (Präsenzbibliothek) oder in den Reg
 
 Früher führten Universitätsbibliotheken drei Kataloge: den alphabetischen (geordnet nach Autor bzw. Ordnungswort), den systematischen (nach Aufstellung, Nummerierung etc. der Bibliothek) und den Schlagwortkatalog (oder Deskriptoren = Begriffe, die den Inhalt des Werks beschreiben). Heute genügt eine einzige Datenbank, die nach mehreren Feldern durchsucht werden kann, u. a. auch nach Stichwörtern (= Wörter, die im Titel oder Text vorkommen). Das folgende Beispiel einer elektronischen Karte aus einem OPAC (Open Public Access Catalogue) zeigt die Hinweise für die weitere Suche bzw. Beschaffung eines Werks. 
 
-Abb.: Elektronische Karteikarte aus einem OPAC
+
+```{r fig.align='center', echo=FALSE, fig.cap='Elektronische Karteikarte aus einem OPAC'}
+knitr::include_graphics('images/recherchieren-OPAC-Karteikarte-min.png', dpi = NA)
+```
+
 
 Das Verzeichnis lieferbarer Bücher (VLB) ist der „Katalog“ des Buchhandels, der regelmäßig aktualisiert wird. Man kann in ihm nach Autoren, Titeln und Schlagwörtern suchen. In Buchhandlungen kann man eine solche Recherche durchführen und sich das Ergebnis ausdrucken lassen. Das VLB ist ein Service für den Buchhandel und im Internet kostenpflichtig. Allerdings gibt es Online-Buchhandlungen, deren Datenbestand auf dem VLB beruht (ob aktuell oder tatsächlich, ist zum Teil allerdings nicht ersichtlich). Das VLB wird seinem Namen nicht hundertprozentig gerecht: weder sind alle lieferbaren Titel erfasst (das hängt vom Verlag ab), noch sind immer alle Titel wirklich lieferbar. 
 
 Die Elektronische Zeitschriftenbibliothek (EZB) ist ein Service zur effektiven Nutzung wissenschaftlicher  Volltextzeitschriften im Internet. Dieser Dienst wird inzwischen  in 343 Bibliotheken bzw. Forschungseinrichtungen im deutschsprachigen Raum angeboten. Die Titel werden kooperativ gesammelt und die Daten gemeinsam in einer zentralen Datenbank gepflegt. Jede beteiligte Institution kann ihre lizenzierten Zeitschriften eigenständig verwalten und eigene Benutzerhinweise integrieren. Abonnierte Volltextzeitschriften können zusammen mit frei zugänglichen E-Journals in einer einheitlichen Oberfläche angeboten werden. Eine „Ampel“ zeigt die Zugriffsrechte auf eine Zeitschrift an der jeweiligen Bibliothek an. Allerdings: weder die EZB noch die ZDB (Zeitschriftendatenbank, weist Bestand in Deutschland nach) ermöglichen es, nach Artikeln in Zeitschriften zu suchen. 
 
 Bibliografien sind gedruckte oder elektronische Literaturverzeichnisse, die ebenfalls regelmäßig aktualisiert werden. Hier werden auch unselbständig erschienene Werke, v. a. Zeitschriftenartikel, erfasst. Der Nachteil ist, dass Bibliografien nie ganz aktuell sind – es vergeht eben eine geraume Zeit zwischen dem Erscheinen eines Artikels und seiner Erfassung bzw. Veröffentlichung in einer Bibliografie. 
+
 Jede Methode hat also ihre Stärken und Schwächen. Sie müssen miteinander kombiniert werden, wenn man wirklich systematisch vorgehen will. Hier sind die Vor- und Nachteile im Überblick: 
 
-Prüfliste: Ergebnisse der Literatursuche
+Table: **(\#tab:literatur-suchen) Ergebnisse der Literatursuche**
 
-Bibliothekskataloge
-Fachbibliografien
-VLB
-UB-Kataloge online
-Inhalt
-Bestand d. Bibliothek
-alle Titel
-alle lieferbaren Titel
-erfasster Bestand einer od. mehrerer Bibliotheken
-Vollständigkeit
-nein – nur Bestand
-ja, bis Stichtag
-nein (vergriffene Titel!)
-nein – nur erfasste Bestände 
-Artikel (unselbständige Werke)
-nein
-ja
-nein
-nein
-Vorteil
-vor Ort verfügbar, entlehnbar
-Vollständigkeit
-sofort bestellbar
-vor Ort od. per Fernleihe entlehnbar
-Problem
-nur selbständige Werke
-Titel z. T. nicht beschaffbar; nicht (ganz) aktuell
-nur selbst. Werke, Aufnahme ist Sache des Verlags
-nur selbst. Werke, ab wann erfasst? vollständige Ausgabe der Treffer? 
+| Ergebnisse, bezogen auf… | Bibliotheks-kataloge | Fachbiblio-grafien | VLB             | UB-Kataloge online   |
+|--------------------------|----------------------|--------------------|-----------------|----------------------|
+| Inhalt\vspace{5mm}|Bestand d. Bibliothek\vspace{5mm}| alle Titel\vspace{5mm}| alle lieferbaren Titel\vspace{5mm} | erfasster Bestand einer od. mehrerer Bibliotheken \vspace{5mm}|
+| Vollständigkeit \vspace{5mm} | nein – nur Bestand \vspace{5mm}| ja, bis Stichtag\vspace{5mm} | nein (vergriffene Titel!) \vspace{5mm} | nein – nur erfasste Bestände \vspace{5mm}|
+| Artikel (unselbständige Werke) \vspace{5mm} | nein \vspace{5mm}| ja \vspace{5mm} | nein \vspace{5mm}| nein \vspace{5mm} |
+| Vorteil \vspace{5mm} | vor Ort verfügbar, entlehnbar \vspace{5mm}| Vollständigkeit \vspace{5mm} | sofort bestellbar \vspace{5mm} | vor Ort od. per Fernleihe entlehnbar \vspace{5mm} |
+| Problem \vspace{5mm} | nur selbständige Werke \vspace{5mm} | Titel z. T. nicht beschaffbar; nicht (ganz) aktuell \vspace{5mm}| nur selbst. Werke, Aufnahme ist Sache des Verlags \vspace{5mm} |nur selbst. Werke, ab wann erfasst? vollständige Ausgabe der Treffer? \vspace{5mm} |
 
 Um eine halbwegs vollständige Literaturliste zu erstellen, kommen Sie also um einen Besuch der Universitätsbibliothek nicht herum. Nur hier haben Sie Zugang zu Bibliografien und Verzeichnissen unselbständig erschienener Schriften (damit sind v. a. Zeitschriftenartikel gemeint). Trotz aller Hilfsmittel sollten Sie sich aber nicht das Ziel stecken, eine wirklich vollständige Literaturliste zu erstellen – außer, das ist selbst schon das Thema Ihrer Arbeit. In diesem Fall tun Sie aber nichts außer Literatur suchen und erfassen. Für jede andere Arbeit, wo Sie die Literatur auch noch auswählen, lesen, rezipieren und diskutieren müssen, wäre das zu viel verlangt. Es gibt inzwischen einfach zu viele Wissenschafterinnen und Studierende, die Arbeiten schreiben müssen, als dass vernünftigerweise gefordert werden könnte, alles auch nur zu finden.
 
@@ -178,7 +138,7 @@ Die „klassische“ Methode für die Zusammenstellung ist der Zettel- oder Kart
 * Verlag, Erscheinungsort
 * bei Zeitschriftenartikeln: Name der Zeitschrift, Jahrgang, Heft, Seiten (von - bis)
 * bei Beiträgen in Sammelbänden: Herausgeber, bibliograf. Angaben des Sammelbandes (s. oben), Seiten (von - bis)
-* URL und Datum des Fundes im Internet (s. Kapitel 3) 
+* URL und Datum des Fundes im Internet (s. Kapitel XXX) 
 
 Zusätzlich können (und sollten) Sie auf der Karteikarte Dinge vermerken, die für die Auswahl und Beschaffung des Werks von Bedeutung sind: der Standort, die Signatur bzw. Systematik, den Preis, ob es gerade entliehen ist, usw.
 
@@ -196,13 +156,21 @@ Ein „elektronischer Zettelkasten“ in Form einer Datenbank oder speziellen Li
 
 Bei der Suche „vor Ort“, wo Sie Literaturangaben handschriftlich aufzeichnen, bleibt Ihnen bei der Verwendung von Software das nachträgliche Erfassen nicht erspart. Diese zusätzliche Arbeit zahlt sich aber bereits für eine einzelne größere Arbeit später aus – und erst recht, wenn Sie in Zukunft weiter in diesem Gebiet arbeiten werden oder z. B. Ihre Arbeit auch in Buchform oder als Artikel publizieren wollen.
 
-Prüfliste: Literatur suchen und erfassen
-* Habe ich bei der Suche alle Arten von Literatur berücksichtigt?
-* Habe ich alle nötigen Kataloge, Verzeichnisse und sonstigen Suchhilfen ausgeschöpft?
-* Habe ich alle Themen und Fragestellungen des Exposés (vorläufig) abgedeckt?
-* Habe ich alle gefundenen Quellen mit vollständigen bibliografischen Angaben und sonstigen Hinweisen erfasst?
-* Ist meine Literaturliste im Rahmen des Möglichen und (für meine Arbeit) Erforderlichen vollständig, ausgewogen und aktuell?
-* Kann ich die Suche beenden?
+Table: **(\#tab:literatur-erfassen) Literatur suchen und erfassen**
+
++----------------------------------------------------------------------------------------------------------------------------------+
+| * Habe ich bei der Suche alle Arten von Literatur berücksichtigt? \vspace{-6mm}                                                               |
++----------------------------------------------------------------------------------------------------------------------------------+
+| * Habe ich alle nötigen Kataloge, Verzeichnisse und sonstigen Suchhilfen ausgeschöpft?  \vspace{-6mm}                                          |
++----------------------------------------------------------------------------------------------------------------------------------+
+| * Habe ich alle Themen und Fragestellungen des Exposés (vorläufig) abgedeckt?  \vspace{-6mm}                                                   |
++----------------------------------------------------------------------------------------------------------------------------------+
+| * Habe ich alle gefundenen Quellen mit vollständigen bibliografischen Angaben und sonstigen Hinweisen erfasst? \vspace{-6mm}                   |
++----------------------------------------------------------------------------------------------------------------------------------+
+| * Ist meine Literaturliste im Rahmen des Möglichen und (für meine Arbeit) Erforderlichen vollständig, ausgewogen und aktuell?  \vspace{-6mm}   |
++----------------------------------------------------------------------------------------------------------------------------------+
+| * Kann ich die Suche beenden?                                                                                                    |
++----------------------------------------------------------------------------------------------------------------------------------+
 
 ## Literatur prüfen und auswählen – Leseliste erstellen
 
@@ -213,7 +181,11 @@ In einer Buchhandlung oder Präsenzbibliothek wird es nicht weiter schwerfallen,
 * gehen Sie mit Ihrer Literaturliste (bzw. jenem Teil davon, der vor Ort in der Bibliothek verfügbar ist) hin und entleihen Sie so viele Titel, wie Sie bewältigen können.
 * tragen Sie diese Bücher nicht nach Hause, sondern prüfen Sie sie gleich im Lesesaal.
 
-Abb.: Literatur prüfen und auswählen
+
+```{r fig.align='center', echo=FALSE, fig.cap='Litertur prüfen und auswählen'}
+knitr::include_graphics('images/recherchieren-literatur-auswaehlen-min.png', dpi = NA)
+```
+
 
 Machen Sie sich bei jenen Werken, die Sie wieder zurückgeben, eine Notiz, warum Sie dieses Buch ausschließen, am besten zusammen mit einer kurzen Inhaltsangabe: möglicherweise wird dieses Buch doch später noch relevant. Manche Titel scheinen das Thema genau zu treffen und sind trotzdem nicht relevant, sodass man in Gefahr ist, immer wieder, z. B. bei einer späteren zusätzlichen Literatursuche, auf sie „hineinzufallen“. Das lässt sich mit dieser Notiz vermeiden, die in der Literaturkartei bzw. der Datenbank beim Titel erfasst wird.
 
@@ -232,20 +204,28 @@ Welche Bücher soll man sich selbst kaufen, welche soll man entlehnen? Es gibt W
 Es gibt noch eine weitere Möglichkeit: die Betreuerin dafür zu interessieren, das Buch über das Institut oder die Universitätsbibliothek zu bestellen. Allerdings muss man hier die oft monatelangen Fristen zwischen der Bestellung eines Buchs und seinem Auftauchen in einer Universitätsbibliothek berücksichtigen – sodass das Buch möglicherweise für die geplante Arbeit zu spät kommt.
 
 
-Abb.: Optionen der Literaturbeschaffung
+```{r fig.align='center', echo=FALSE, fig.cap='Optionen der Literaturbeschaffung'}
+knitr::include_graphics('images/recherchieren-literatur-beschaffen-min.png', dpi = NA)
+```
 
 
 Weitere Kriterien sind: 
 für KAUFEN: Primärtext, Standardwerk, mehrmalige Verwendung, Preis (Taschenbuch)
 für ENTLEIHEN: vergriffen, Querlesen, zusätzliche Literatur, zu teuer 
 für KOPIEREN: Zeitschriftenartikel, einzelne Beiträge in Sammelbänden, Lexikonartikel.
-Graue Papiere, Forschungsberichte etc. können oft kostenlos oder gegen einen geringen Kostenersatz bei den AutorInnen angefordert werden. Oft sind sie auch schon aus dem Internet abrufbar (siehe Kapitel „Recherchieren im Internet“). 
+Graue Papiere, Forschungsberichte etc. können oft kostenlos oder gegen einen geringen Kostenersatz bei den AutorInnen angefordert werden. Oft sind sie auch schon aus dem Internet abrufbar (siehe Kapitel XXX „Recherchieren im Internet“). 
 
 Ein besonderes Problem stellen manchmal Titel dar, die weder in den Bibliotheken vorhanden sind noch über den Buchhandel einfach bestellt werden können. Das sind vor allem fremdsprachige wissenschaftliche Werke in Fachgebieten, wo diese Fremdsprache nicht zum Alltag gehört. Bücherbestellungen im Ausland sind kompliziert und dauern oft lange. Der elektronische Buchversand funktioniert allerdings zusehends international. Englischsprachige Literatur etwa ist problemlos zu beschaffen, allerdings sollten sie gerade bei beschränktem Zeitbudget auf die angegebenen voraussichtlichen Lieferfristen achten. 
 
 ### Unselbständige Werke beschaffen
 
 Im Vergleich zur relativ einfachen Beschaffung eines Buches kann die Beschaffung eines bestimmten Zeitschriftenartikels durchaus zu einer Schnitzeljagd ausarten. Hinweise auf Zeitschriftenartikel, die für Ihre Arbeit wichtig sein könnten, erhalten Sie meist aus den Referenzen in anderen Artikeln oder Büchern. Elektronische Zeitschriftenkataloge geben Ihnen Aufschluss darüber, wo und ob Sie Zugriff auf die Texte haben. Führt Ihre Bibliothek die Zeitschrift elektronisch oder in Papierform, so ist das Problem noch einfach zu lösen. Wenn das nicht der Fall ist, müssen Sie weitersuchen.
+
+
+```{r fig.align='center', echo=FALSE, fig.cap='Zeitschriftenartikel beschaffen'}
+knitr::include_graphics('images/recherchieren-zeitschriften-beschaffen-min.png', dpi = NA)
+```
+
 
 Abb.: Zeitschriftenartikel beschaffen
 
@@ -257,13 +237,21 @@ Die Zeitschriftenverlage selbst bieten entweder einzelne Artikel oder Hefte zum 
 
 Wenn Sie auch damit keinen Erfolg haben, den besagten Artikel aber unbedingt benötigen, können Sie die Herausgeber der Zeitschrift oder die Autoren persönlich kontaktieren. 
 
-Prüfliste: Literatur auswählen und beschaffen
-* Habe ich die Titel der Literaturliste so weit wie möglich auf ihre Relevanz geprüft? 
-* Entspricht die Leseliste meinem Zeitplan und den Erfordernissen des Themas? 
-* Habe ich entschieden, wie ich mir die Titel der obersten Prioritätsstufe beschaffe (kaufen, entleihen, kopieren, anfordern)? 
-* Habe ich Fernleihe und Buchbestellungen im Ausland so früh wie möglich in die Wege geleitet (Wartezeiten)?
-* Steht die (vorläufige) Reihenfolge der Bearbeitung der Leseliste fest?
-* Habe ich mir einen Termin für das Ende der ersten Lesephase gesetzt?
+Table: **(\#tab:literatur-beschaffen) Literatur auswählen und beschaffen**
+
++----------------------------------------------------------------------------------------------------------------------------------+
+| * Habe ich die Titel der Literaturliste so weit wie möglich auf ihre Relevanz geprüft? \vspace{-6mm}                                          | 
++----------------------------------------------------------------------------------------------------------------------------------+
+| * Entspricht die Leseliste meinem Zeitplan und den Erfordernissen des Themas? \vspace{-6mm}                                                   |
++----------------------------------------------------------------------------------------------------------------------------------+
+| * Habe ich entschieden, wie ich mir die Titel der obersten Prioritätsstufe beschaffe (kaufen, entleihen, kopieren, anfordern)?\vspace{-6mm}   | 
++----------------------------------------------------------------------------------------------------------------------------------+
+| * Habe ich Fernleihe und Buchbestellungen im Ausland so früh wie möglich in die Wege geleitet (Wartezeiten)?\vspace{-6mm}                     |
++----------------------------------------------------------------------------------------------------------------------------------+
+| * Steht die (vorläufige) Reihenfolge der Bearbeitung der Leseliste fest?  \vspace{-6mm}                                                       |
++----------------------------------------------------------------------------------------------------------------------------------+
+| * Habe ich mir einen Termin für das Ende der ersten Lesephase gesetzt?                                                           |
++----------------------------------------------------------------------------------------------------------------------------------+
 
 ## Material ordnen {#material-ordnen}
 
@@ -286,7 +274,15 @@ Auch auf dem PC sollten Sie von Anfang an ein geeignetes System von Verzeichniss
 * Dateien, die nicht mehr gebraucht werden (ausgelagerte und bereits verwendete Textstücke, frühe, bereits umgearbeitete Versionen usw.) löschen
 * täglich die Arbeitsergebnisse und geänderten Dateien auf einem externen Datenträger (Diskette, Server o. ä.) sichern.
 
+## Aufgabe: Recherchieren 
 
-Aufgabe: 
-1. Führen Sie eine Literatur-Recherche zu einem der von Ihnen im Kapitel „Konzipieren“ gewählten (eingegrenzten) Themen durch. 
-2. Halten Sie die Ergebnisse (mindestens 2 Bücher und 4 unselbständig erschienene Werke) in einer Leseliste fest. Geben Sie zu jedem Werk an, wo und wie Sie es beschaffen können. 
+Table: **(\#tab:aufgabe2-test) Übungsaufgabe**
+
++----------------------------------------------------------------------------------------------------------------------------------+
+| 1. Führen Sie eine Literatur-Recherche zu einem der von Ihnen im Kapitel „Konzipieren“ gewählten (eingegrenzten) Themen durch.   |
+| \vspace{-6mm}                                                                                                                    |
++----------------------------------------------------------------------------------------------------------------------------------+
+| 2. Halten Sie die Ergebnisse (mindestens 2 Bücher und 4 unselbständig erschienene Werke) in einer Leseliste fest.                | 
+| Geben Sie zu jedem Werk an, wo und wie Sie es beschaffen können.                                                                 |
++----------------------------------------------------------------------------------------------------------------------------------+
+
