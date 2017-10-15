@@ -7,7 +7,7 @@ bookdown::gitbook:
       before: |
         <li><a href="./">Wissenschaftliches Arbeiten</a></li>
       after: |
-        <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+        <li><a href="https://github.com/rstudio/bookdown" target="blank">Publiziert mit bookdown</a></li>
       collapse: subsection
     search: yes
     download: [pdf, epub]

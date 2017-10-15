@@ -5,6 +5,7 @@ knitr::include_graphics('images/zitieren-min.png', dpi = NA)
 ```
 
 
+(ref:foo) Define a text reference **here**.
 
 Mit Ihrer wissenschaftlichen Arbeit liefern Sie einen Beitrag zum wissenschaftlichen Diskurs. Sie setzen sich beim Lesen und Schreiben mit den Gedanken und Werken anderer Autoren auseinander und bauen Ihre Argumentation auf fremden Überlegungen auf. Eigene und fremde Gedanken sollen sich zu einem neuen Werk verbinden, ohne sich zu vermischen. Beim Schreiben stellen Sie diese fremden Positionen dar, bewerten und diskutieren Sie und antworten darauf.
 
@@ -38,10 +39,10 @@ Die Ursachen für diesen Rückzug auf den „Beobachterposten“ im wissenschaft
 
 Table: **(\#tab:paraphrasieren) Wörtliche Zitate reduzieren**
 
-| Sie zitieren zu oft wörtlich …| Sie können das vermeiden, indem Sie …                                                    |
-|-------------------------------|------------------------------------------------------------------------------------------|
+| Sie zitieren zu oft wörtlich …              | Sie können das vermeiden, indem Sie …                       |
+|---------------------------------------------|-------------------------------------------------------------|
 | wenn Sie glauben, nur so zeigen zu können, was und wieviel Sie gelesen haben. | das Gelesene mit eigenen Worten wiedergeben (= paraphrasieren). Dadurch zeigen Sie zusätzlich, dass Sie das Gelesene auch verstanden haben. \vspace{-6mm}    |
-| wenn Sie beim Lesen und Notieren nur kurze, aus dem Kontext gerissene Passagen abgeschrieben haben, aus denen sich der Argumentationsgang nicht mehr rekonstruieren lässt.| analytisch lesen (siehe „Analytisches Lesen“, S. †99 XXX) und beim Lesen und Notieren (Exzerpieren) bereits ans Schreiben und Argumentieren denken. \vspace{-6mm}    |
+| wenn Sie beim Lesen und Notieren nur kurze, aus dem Kontext gerissene Passagen abgeschrieben haben, aus denen sich der Argumentationsgang nicht mehr rekonstruieren lässt.| analytisch lesen (siehe \@ref(analytisches-lesen): [Analytisches Lesen]) und beim Lesen und Notieren (Exzerpieren) bereits ans Schreiben und Argumentieren denken. \vspace{-6mm}    |
 | wenn Sie beim Lesen und Exzerpieren viel Material gesammelt haben und es nicht über sich bringen, es wegzulassen – auch wenn es sich inhaltlich wiederholt. | das treffendste Zitat wörtlich wiedergeben und auf andere Autoren, die Ähnliches gesagt haben, nur kurz verweisen. \vspace{-6mm}    |
 | wenn Sie nicht sicher sind, ob Sie den Inhalt mit eigenen Worten richtig und treffend wiedergeben können. | bereits beim Lesen (z. B. durch Rekapitulieren in eigenen Worten) kontrollieren, ob Sie den Inhalt wirklich verstanden haben. Lexika, Einführungsbücher etc. helfen dabei, Sicherheit im Umgang mit den Begriffen und Fachausdrücken zu gewinnen; Paraphrasieren üben.  
 
@@ -52,10 +53,11 @@ Wenn Sie aber finden, dass Sie etwas mit eigenen Worten einfach nicht besser sag
 * Texte, die für den Leser schwer oder gar nicht zugänglich sind. Zwar ist es ein Prinzip des wissenschaftlichen Arbeitens, dass es für den Leser nachvollziehbar und überprüfbar sein soll. Der Wert mancher Arbeiten liegt aber gerade darin, solche Quellen (z. B. längst vergriffene oder in Vergessenheit geratene Bücher) zu erschließen. 
 * Wörtlich zitieren Sie auch mündliche Aussagen, Tonbandaufnahmen von einem Vortrag etc. – solche nicht zugänglichen und nicht überprüfbaren Quellen sollten aber nur verwendet werden, wenn es keine andere (schriftliche, veröffentlichte) Quelle gibt.
 
-Table: **(\#tab:zitieren) Richtige zitieren**
+Table: **(\#tab:zitieren) Richtig zitieren**
 
 +----------------------------------------------------------------------------------------------------------------------------------+
-| * Ist die Arbeit eine Ansammlung von wörtlichen Zitaten? \vspace{-6mm}    | +----------------------------------------------------------------------------------------------------------------------------------+                      
+| * Ist die Arbeit eine Ansammlung von wörtlichen Zitaten? \vspace{-6mm}                                                           |
++----------------------------------------------------------------------------------------------------------------------------------+                      
 | * Ist das wörtliche Zitieren dort, wo es verwendet wird, für die Leserin notwenig und nützlich?   \vspace{-6mm}    |
 +----------------------------------------------------------------------------------------------------------------------------------+
 | * Suche ich schon beim Lesen und Notieren nach eigenen Formulierungen? \vspace{-6mm}    |
@@ -73,8 +75,8 @@ In diesem Abschnitt geht es um den Einbau von wörtlichen Zitaten in den Text: W
 
 Table: **(\#tab:zitieren2) Wörtlich zitieren**
 
-| Sie verwenden …| nach dem Muster …                                    | Hinweise                                         |
-|----------------|------------------------------------------------------|--------------------------------------------------|
+| Sie verwenden …                        | nach dem Muster …                                    | Hinweise                                         |
+|----------------------------------------|------------------------------------------------------|--------------------------------------------------|
 | 1. _kurze Zitate_ (einzelne Begriffe, Wendungen und Satzteile) | Text „Zitat“ Text. (Quelle) ; Text „Zitat“ (Quelle) Text.; Text „Zitat“. (Quelle) | wichtig ist der ungebrochene Lesefluss; Grammatik muss zusammenpassen; Satzzeichen außerhalb der Anführungszeichen \vspace{-6mm}    |
 | 2. _mittlere Zitate_ (ganze Sätze von maximal 1 – 2 Zeilen Länge) | Text. „Zitat.“ (Quelle) Text.; Text: „Zitat.“ (Quelle) ; Einleitung: „Zitat.“ (Quelle) | Satzzeichen innerhalb der Anführungszeichen! Einleitungen ( wie „... schreibt:“ „... sagt:“) vermeiden bzw. variieren \vspace{-6mm}    |
 | 3. lange Zitate (Absätze und lange Sätze) | Text Zitat. (Quelle) Text | Blockzitat; Abstand oben und unten, kleinere Schrift (2 Pkt.), keine Anführungszeichen, beidseitige Einrückung |
@@ -83,8 +85,8 @@ Mit der Quellenangabe (Kurzbeleg) beschäftigen wir uns später in diesem Kapite
 
 Table: **(\#tab:zitieren3) Sonderfälle des wörtlichen Zitierens**
 
-| Wenn …         | können Sie …                                         | wie?                                             |
-|----------------|------------------------------------------------------|--------------------------------------------------|
+| Wenn …                                 | können Sie …                                         | wie?                                             |
+|----------------------------------------|------------------------------------------------------|--------------------------------------------------|
 |das Zitat zu lang und nicht als Ganzes relevant ist | das Zitat kürzen, ohne den Sinn zu entstellen (Ellipse) | Auslassungszeichen: „ … ” (Leerzeichen, 3 Punkte, Leerzeichen) \vspace{-6mm}    |
 | das Zitat einer Erläuterung bedarf (z. B. ein Pronomen enthält) | das Zitat ergänzen, aber nur sinngemäß (Interpolation) | eckige Klammern u. Autoreninitialen: „ Sie [die Sophisten, pb] behaupteten … ” \vspace{-6mm}    |
 | das Zitat in Englisch ist |das Zitat in Englisch belassen (Englisch kann inzwischen in den meisten Fächern vorausgesetzt werden) | am besten als ganzer Satz oder Absatz; Einbau in einen deutschen Satz nur wenn Grammatik nahtlos zusammenpasst (Zahl, Genus, Wortstellung ...); nicht mehrmals im Satz zwischen Deutsch und Fremdsprache wechseln. \vspace{-6mm}    |
@@ -102,7 +104,7 @@ Bei jedem Zitat – gleich ob wörtlich oder sinngemäß – muss angegeben werd
 Dazu gibt es verschiedene Methoden, wie etwa Fußnoten, Endnoten oder Kurzbelege im Text. Wir beschreiben hier die inzwischen fast allgemein übliche Harvard-Notation“ mit Kurzbelegen, die wir empfehlen, wenn man sich die Methode der Quellenangabe frei aussuchen kann. Wenn aber z. B. der Fachbereich oder der Verlag ein anderes System vorschreiben, muss man sich natürlich daran halten. Als Grundform der Harvard-Notation kann gewählt werden: 
 
 
-A```{r fig.align='center', echo=FALSE, fig.cap='Grundmuster des Kurzbelegs'}
+```{r fig.align='center', echo=FALSE, fig.cap='Grundmuster des Kurzbelegs'}
 knitr::include_graphics('images/zitieren-grundform-min.png', dpi = NA)
 ```
 
@@ -118,18 +120,17 @@ Die wichtigsten Fragen und Zweifelsfälle dazu sind in der folgenden Tabelle zus
 
 Table: **(\#tab:zitieren3) Kurzbelege verwenden**
 
-| Frage …                | Antwort                                            | Beispie(e)                                       |
-|------------------------|----------------------------------------------------|--------------------------------------------------|
+| Frage …                                 | Antwort                                            | Beispie(e)                                       |
+|-----------------------------------------|----------------------------------------------------|--------------------------------------------------|
 | Wo steht der Kurzbeleg? | so nah am Zitat wie möglich, ohne den Lesefluss zu stören, und so nah wie nötig, um eindeutig zuordenbar zu sein. | Es werden dafür auch die Begriffe „ABC“ (Müller 1998) und „XYZ“ (Meier 1999) verwendet. ; Es wird dafür auch der Begriff „ABC“ verwendet. (Schmidt 1997)  \vspace{-6mm}    |
 | Was tun, wenn zwei gleichnamige Autoren vorkommen? | Initialen anfügen, selbst wenn die Werke durch die Jahreszahl unterscheidbar wären | (Müller J. 1991:127) und (Müller H. 1987:36)  \vspace{-6mm}    |
-| Wie sieht der Kurzbeleg für ein Werk mehrerer Autoren aus? | Zwei Namen müssen, drei Namen können angeführt werden; ab 3 Namen:  1. Name (wenn eindeutig) und „et al.“ anfügen | (Müüler und Mayer 2003)
-(Müller, Mayr & Schmidt 1993:124) bzw. (Müller et al. 1993:124)  \vspace{-6mm}    |
+| Wie sieht der Kurzbeleg für ein Werk mehrerer Autoren aus? | Zwei Namen müssen, drei Namen können angeführt werden; ab 3 Namen:  1. Name (wenn eindeutig) und „et al.“ anfügen | (Müller und Mayer 2003); (Müller, Mayr & Schmidt 1993:124) bzw. (Müller et al. 1993:124)  \vspace{-6mm}    |
 | Wie unterscheidet man Werke eines Autors mit demselben Erscheinungsjahr? | Buchstaben a, b, c an das Jahr anhängen, u. zw. in der Reihenfolge der Erwähnung im Text | (Maier 1992a:231-4) … einige Seiten später … (Maier 1992b:27)  \vspace{-6mm}    |
 | Kann man auch auf ein Werk insgesamt, ohne Seitenangaben verweisen? | Ja, wenn man sich auf ein gesamtes Werk bezieht. Der Kurzbeleg bleibt dann ohne Seitenzahl, evt. „Vgl.“, „cf.“ oder kurze Anmerkung voranstellen. Elektronische Quellen haben oft keine Seitenzahlen.  |(cf. Müller 1991) … (Vgl. dazu auch Maier 1994) … (ausführlicher dazu Schmidt 1990)  \vspace{-6mm}    |
 | Wie hängt man mehrere Kurzbelege aneinander? | in einer gemeinsamen Klammer | (Vgl. Müller 1991, Mayr 1993 und Schmidt 1995)  \vspace{-6mm}    |
 | Wie erwähnt man mehrere Werke eines Autors in einem Kurzbeleg? | Nach dem Prinzip „Keine Verdopplungen“ – nur Jahreszahlen | (Vgl. Schmidt 1991a und b, sowie 1993)  \vspace{-6mm}    |
 | Wie gibt man einen Seitenbereich statt einer einzigen Seitenzahl an? | mit Binde-Strich und auf das Notwendigste gekürzt; auch „f.“ (folgende Seite) und „ff.“ (ferner folgende Seiten) sind erlaubt, aber ungenauer | (Müller 1992:351–3); (Mayr 1994:359–61); (Schmidt 1987:124f.)  \vspace{-6mm}    |
-| Was tun, wenn der Kurzbeleg unsinnig wirkt, wie z. B. bei bekannten alten, aber neu aufgelegten Werken wie (Grimmelshausen 1993) oder (Rousseau 1965)? | Im Kurzbeleg kann das tatsächliche Erscheinungsjahr stehen, das Literaturverzeichnis muss allerdings auch genau die verwendete Ausgabe enthalten | (Grimmelshausen 1668) ; (Rousseau 1753) ; (zu den Angaben im Literaturverzeichnis siehe unten)  \vspace{-6mm} |
+| Was tun, wenn der Kurzbeleg unsinnig wirkt, wie z. B. bei bekannten alten, aber neu aufgelegten Werken wie (Grimmelshausen 1993) oder (Rousseau 1965)? | Im Kurzbeleg kann das tatsächliche Erscheinungsjahr stehen, das Literaturverzeichnis muss allerdings auch genau die verwendete Ausgabe enthalten | (Grimmelshausen 1668) ; (Rousseau 1753) ; (zu den Angaben im Abschnitt \@ref(literaturverzeichnis): [Das Literaturverzeichnis] siehe unten)  \vspace{-6mm} |
 | Muss der Kurzbeleg jedes mal so gemacht werden, auch wenn immer wieder aus demselben Werk zitiert wird? | Alles, was sich wiederholen würde, kann wegbleiben, solange für den Leser die Quelle klar ist. Es genügt die Seitenangabe, oder sogar ein „ebd.“, wenn auch die Seite unverändert bleibt. | 1. Zitat (Müller 1991:351) … 2. Zitat (S. 353) … 3. Zitat (ebd.). _aber_ ein paar Seiten später: 4. Zitat (Müller 1991:123)  \vspace{-6mm}    |
 | Muss der Kurzbeleg komplett angegeben werden, wenn Teile davon schon im Text erwähnt sind? | Es genügen immer jene Angaben, die zur vollständigen Identifizierung noch fehlen. | Müller betont, dass „Zitat“ (1991:351). ; Mayr vertrat schon 1956 die Auffassung, dass „Zitat“ (S. 124).  \vspace{-6mm}    | 
 | Wie werden Werke zitiert, die nur unter ihrem Titel bekannt sind? | nach dem Ordnungswort, unter dem sie auch im Literaturverzeichnis erscheinen. Konversationslexika u. dgl. brauchen nicht zitiert zu werden! | (Fischer Weltalmanach 1988:117)  \vspace{-6mm}    |
@@ -151,7 +152,7 @@ Einen Anwendungsfall für Fußnoten haben wir bereits erwähnt: die Übersetzung
 
 Fußnoten sind also nicht überflüssig geworden, aber man sollte trotzdem so sparsam wie möglich damit umgehen. Wenn Sie beim Schreiben andauernd den Drang haben, eine Fußnote einzufügen oder etwas aus dem Haupttext in eine Fußnote zu verbannen, dann kann das ein Hinweis darauf sein, dass die Argumentation noch nicht „steht“, dass die klare Linie fehlt, oder dass Sie vielleicht eine ganz andere Arbeit schreiben möchten als die, an der Sie gerade sitzen (müssen).
 
-## Das Literaturverzeichnis
+## Das Literaturverzeichnis {#literaturverzeichnis}
 
 Das Literaturverzeichnis enthält alle Quellen, die in der Arbeit verwendet wurden, mit allen Angaben, die notwendig sind, um sie zu identifizieren und aufzufinden. 
 Zu jedem Kurzbeleg muss es daher einen Eintrag im Literaturverzeichnis geben. Dieser Eintrag muss dem Kurzbeleg eindeutig zugeordnet und außerdem schnell und mühelos gefunden werden können (durch alphabetische Sortierung des Literaturverzeichnisses). Es genügt daher nicht, bei der Endkorrektur nur stichprobenartig zu prüfen, ob sich eine Quellenangabe auch im Literaturverzeichnis wiederfindet. Gerade bei längeren Arbeiten, von denen Teile vielleicht schon früher verfasst worden sind und nun integriert wurden, stößt man immer wieder auf Quellen, von denen man schon wieder vergessen hat, dass sie verwendet wurden. Bewährt hat es sich z. B., in einem Korrekturausdruck der Arbeit alle Kurzbelege mit Markierstift anzustreichen. Dann kann man sie beim Durchblättern der Arbeit mit dem Literaturverzeichnis vergleichen und so Stück für Stück kontrollieren bzw. nötigenfalls nachtragen. 
@@ -307,7 +308,8 @@ Bei der Verwendung eines Literaturverwaltungsprogramms, das mit Ihrer Textverarb
 Table: **(\#tab:literaturverzeichnis) Literaturverzeichnis anlegen**
 
 +----------------------------------------------------------------------------------------------------------------------------------+
-| * Welche Formvorschriften gelten für das Literaturverzeichnis (Fachbereich, Verlag usw.), bzw. welche Form habe ich gewählt? \vspace{-6mm}    | +----------------------------------------------------------------------------------------------------------------------------------+                      
+| * Welche Formvorschriften gelten für das Literaturverzeichnis (Fachbereich, Verlag usw.), bzw. welche Form habe ich gewählt? \vspace{-6mm} |
++----------------------------------------------------------------------------------------------------------------------------------+                      
 | * Gibt es für jeden Kurzbeleg einen Eintrag im Literaturverzeichnis? (Vollständigkeit)   \vspace{-6mm}    |
 +----------------------------------------------------------------------------------------------------------------------------------+
 | * Ist jeder Kurzbeleg eindeutig einem Eintrag zuordenbar? (Eindeutigkeit; Kurzbelege wenn nötig mit Initialen und „a“, „b“ beim Jahr differenzieren) \vspace{-6mm}    |
@@ -321,20 +323,22 @@ Table: **(\#tab:literaturverzeichnis) Literaturverzeichnis anlegen**
 
 ## Aufgabe: Zitieren
 
+Springe auf die Überschrift [Vergleichendes Lesen][vergleichendes-lesen]
+
 Table: **(\#tab:aufgabe7-test) Zitieren**
 
 +----------------------------------------------------------------------------------------------------------------------------------+
 | 1. Ihnen stehen folgende Autorenrichtlinien für das Zitieren zur Verfügung: |
 |                                                                                                                                  |
-| Autor, A., Autor, B. und Autor, C. Jahr. Buchtitel. Auflage. Ort: Verlag. |
-| Autor, A. Jahr. Titel des Artikels. Untertitel. Zeitschrift Jahrgang:Heft. Seite-Seite. URL (letztes Zugriffsdatum DD-MM-JJ). 
-| Autor, A. Jahr. Titel des Kapitels. In: Herausgeber, A. (Hg.). Titel des Sammelbandes. Auflage. Ort: Verlag. Seite-Seite. \vspace{-6mm} |
+| * Autor, A., Autor, B. und Autor, C. Jahr. Buchtitel. Auflage. Ort: Verlag. |
+| * Autor, A. Jahr. Titel des Artikels. Untertitel. Zeitschrift Jahrgang:Heft. Seite-Seite. URL (letztes Zugriffsdatum DD-MM-JJ). 
+| * Autor, A. Jahr. Titel des Kapitels. In: Herausgeber, A. (Hg.). Titel des Sammelbandes. Auflage. Ort: Verlag. Seite-Seite. \vspace{-6mm} |
 +----------------------------------------------------------------------------------------------------------------------------------+
-| * Bringen Sie nun folgende Referenzen in die richtige Form:     |
+| 2. Bringen Sie nun folgende Referenzen in die richtige Form:     |
 |                                                                                                                                  |
-| Anton Müller, Sozialverhalten der Meerschweinchen: eine Langzeitstudie, S. 111-154 in Animalische Gesellschaften, hg. von Berthold Hase, Steirischer Landesverlag, Graz, 2004. |
-| Kraut, Marlies, Kohl, Otto, Rübe, Rudi: Nährstoffbedarf adoleszenter Meerschweinchen. Zoologie heute, 41. Jahrgang, Nr. 3/2003, Seite 103-124. Verfügbar unter http://www.uni-briz.de/zool/publik2003/krautkohl2003.pdf, zuletzt besucht am 31. Mai 2005. |
-| Brot, Bernd (2006). Zu kurze Arme. Chili-Verlag, Erfurt. |
+| * Anton Müller, Sozialverhalten der Meerschweinchen: eine Langzeitstudie, S. 111-154 in Animalische Gesellschaften, hg. von Berthold Hase, Steirischer Landesverlag, Graz, 2004. |
+| * Kraut, Marlies, Kohl, Otto, Rübe, Rudi: Nährstoffbedarf adoleszenter Meerschweinchen. Zoologie heute, 41. Jahrgang, Nr. 3/2003, Seite 103-124. Verfügbar unter http://www.uni-briz.de/zool/publik2003/krautkohl2003.pdf, zuletzt besucht am 31. Mai 2005. |
+| * Brot, Bernd (2006). Zu kurze Arme. Chili-Verlag, Erfurt. |
 +----------------------------------------------------------------------------------------------------------------------------------+
 
 

@@ -1,4 +1,4 @@
-# Kooperieren
+# Kooperieren {#kooperieren}
 
 ```{r fig.align='center', echo=FALSE, fig.cap='Kooperieren (Überblick)'}
 knitr::include_graphics('images/kooperieren-min.png', dpi = NA)
@@ -15,6 +15,7 @@ Im Rahmen Ihrer wissenschaftlichen Arbeit werden Sie mit anderen kooperieren und
 * Auskünfte über aktuelle, noch nicht veröffentlichte Forschungsarbeiten erhalten möchten. 
 
 Dieses Kapitel geht vor allem darauf ein, wie und mit welchen Techniken kommuniziert und kooperiert wird:
+
 * Wie kontaktiert man Wissenschafterinnen, an deren Arbeit und Meinung man interessiert ist?
 * Wie benutzt man E-Mail richtig?
 * Wann und wie beteiligt man sich an elektronischen Diskussionen? 
@@ -71,7 +72,7 @@ Auf dem PC, an dem Sie Ihre elektronische Post erledigen wollen, brauchen Sie ei
 
 Daneben zeichnet sich der geübte E-Mail-Benutzer aber noch durch ein paar weitere Merkmale aus: 
 
-Manche Mail-Clients ermöglichen es, E-Mails im HTML-Format (Hypertext Markup Language, siehe Kapitel „Publizieren“) zu versenden. Damit kann der Text attraktiver gestaltet werden als mit ASCII-Zeichen. Doch Vorsicht ist geboten: HTML-Mails sollten Sie nur an jemanden versenden, von dem Sie wissen, dass sein E-Mail-Client ebenfalls HTML darstellen kann. In allen anderen Fällen verzichten Sie besser darauf, um der Empfängerin nicht das Lesen – und Leben – unnötig zu erschweren. 
+Manche Mail-Clients ermöglichen es, E-Mails im HTML-Format (Hypertext Markup Language) zu versenden. Damit kann der Text attraktiver gestaltet werden als mit ASCII-Zeichen. Doch Vorsicht ist geboten: HTML-Mails sollten Sie nur an jemanden versenden, von dem Sie wissen, dass sein E-Mail-Client ebenfalls HTML darstellen kann. In allen anderen Fällen verzichten Sie besser darauf, um der Empfängerin nicht das Lesen – und Leben – unnötig zu erschweren. 
 
 Selbst mit den eingeschränkten Mitteln des ASCII-Codes lassen sich E-Mails übersichtlich und gut lesbar gestalten: Absätze, Leerzeilen und Hervorhebungen (*, - o. ä.) reichen aus, um dem Empfänger einen guten, schnellen Überblick zu gewähren. 
 

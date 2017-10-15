@@ -1,4 +1,4 @@
-#Lesen und notieren
+# Lesen und notieren {#lesen}
 
 
 ```{r fig.align='center', echo=FALSE, fig.cap='Lesen (Überblick)'}
@@ -7,14 +7,14 @@ knitr::include_graphics('images/lesen-min.png', dpi = NA)
 
 
 
-Es gibt verschiedene Arten des Lesens, die wir alle kennen: wir lesen Zeitungen anders als einen Krimi, und Gedichte anders als einen Reiseführer. Die Unterscheidungen gehen aber noch weiter: Einen Reiseführer lese ich zu Hause – vor der Tour –, um schon etwas über die Region zu erfahren, bevor ich hinfahre, um möglichst gut auf die Reise vorbereitet zu sein. Während der Fahrt dagegen brauche ich den Reiseführer für einen ganz bestimmten Zweck und suche mir daher nur mehr heraus, was mir bei der Bewältigung der aktuellen Frage hilft (z. B. ein gutes Restaurant finden). 
+Es gibt verschiedene Arten des Lesens, die wir alle kennen: wir lesen Zeitungen anders als einen Krimi, und Gedichte anders als einen Reiseführer. Die Unterscheidungen gehen aber noch weiter: Einen Reiseführer lese ich zu Hause – vor der Tour –, um schon etwas über die Region zu erfahren, bevor ich hinfahre, um möglichst gut auf die Reise vorbereitet zu sein. Während der Fahrt dagegen brauche ich den Reiseführer für einen ganz bestimmten Zweck und suche mir daher nur mehr heraus, was mir bei der Bewältigung der aktuellen Frage hilft (z. B. ein gutes Restaurant finden).
 
 
 ```{r fig.align='center', echo=FALSE, fig.cap='Vier Lesestufen'}
 knitr::include_graphics('images/lesen-vier-stufen-min.png', dpi = NA)
 ```
 
-So wie es in den unterschiedlichen Phasen einer Reise (Vorbereitung, Durchführung, Nachbereitung) verschiedene Interessen (und damit Ziele) im Umgang mit einem Reiseführer gibt, so lassen sich auch beim Lesen verschiedene Stufen unterscheiden. Der historische, aber immer noch aktuelle “Klassiker“ zur Kunst des Lesens, auf den wir uns hier in diesem Kapitel stützen werden, unterscheidet sogar vier verschiedene Ebenen im Lesevorgang. Auch wenn sie unterschiedliche Charakteristika aufweisen, sind diese verschiedenen Stufen nicht unabhängig voneinander, sondern bauen aufeinander auf: Jede höhere Stufe setzt die untere Stufe voraus, d. h. baut auf ihr auf und schließt sie mit ein. 
+So wie es in den unterschiedlichen Phasen einer Reise (Vorbereitung, Durchführung, Nachbereitung) verschiedene Interessen (und damit Ziele) im Umgang mit einem Reiseführer gibt, so lassen sich auch beim Lesen verschiedene Stufen unterscheiden. Der historische, aber immer noch aktuelle “Klassiker“ zur Kunst des Lesens, auf den wir uns hier in diesem Kapitel stützen werden, unterscheidet sogar vier verschiedene Ebenen im Lesevorgang. Auch wenn sie unterschiedliche Charakteristika aufweisen, sind diese verschiedenen Stufen nicht unabhängig voneinander, sondern bauen aufeinander auf: Jede höhere Stufe setzt die untere Stufe voraus, d. h. baut auf ihr auf und schließt sie mit ein.
 
 ## Vier Lesestufen
 
@@ -26,7 +26,7 @@ Es ist wohl bezeichnend und alarmierend, dass wir in der heutigen “Information
 
 Wir vermuten, dass gerade diese Verwechslung und das damit zusammenhängende Missverständnis über den Charakter des Lesens für viele Schwierigkeiten im wissenschaftlichen Schreibprozess mitverantwortlich sind. Lesen und Schreiben – so unsere These – verhalten sich komplementär zueinander. Weil viele Studierende sich (noch) nicht die höheren Lesefertigkeiten angeeignet haben, können sie diese Fähigkeiten beim Schreiben nicht umsetzen. Was beim Lesen meistens noch kaschiert werden kann, tritt beim Schreiben offen zu Tage: Wo keine Zusammenhänge verstanden oder Einsichten gewonnen wurden, können diese auch nicht in einer schriftlichen Argumentation dargestellt werden. Unser Prüfungssystem, das meist noch immer wesentlich auf Reproduzieren ausgerichtet ist, belohnt noch dieses Stehenbleiben auf dem basalen Leseniveau.
 
-Lesen erschöpft sich nicht in einer Rezeption von Fakten, sondern fordert eine aktive Auseinandersetzung. Schon die Aneignung von Sachverhalten ist kein passiver Vorgang, sondern erfordert aktive Anteilnahme (Aufmerksamkeit, Konzentration) und konstruktive mentale Mitarbeit (Einordnung und Vernetzung in bestehendes Wissen). Dieser Grundsatz einer aktiven Lesehaltung gilt für alle vier Lesestufen und wird vor allem durch ständiges Fragen an den Text eingelöst.
+Lesen erschöpft sich nicht in einer Rezeption von Fakten, sondern fordert eine aktive Auseinandersetzung. Schon die Aneignung von Sachverhalten ist kein passiver Vorgang, sondern erfordert aktive Anteilnahme (Aufmerksamkeit, Konzentration) und konstruktive mentale Mitarbeit (Einordnung und Vernetzung in bestehendes Wissen). Dieser Grundsatz einer aktiven Lesehaltung gilt für alle vier Lesestufen und wird vor allem durch ständiges Fragen an den Text eingelöst. 
 
 Elementares Lesen als notwendige Basis wird in der Grundausbildung mehr oder weniger gut vermittelt bzw. trainiert. Die anderen Lesestufen hingegen fristen in unserem Bildungssystem leider ein Schattendasein: Sie werden zwar beim selbständigen wissenschaftlichen Arbeiten vorausgesetzt, aber kaum systematisch gelehrt oder geübt.
 
@@ -60,7 +60,9 @@ Für diese Art des Lesens sind schnelle Lesetechniken sehr vorteilhaft. Verschie
 
 ### Analytisches Lesen
 
-Mit der dritten Lesestufe beginnt nun die eigentlich “hohe“ Schule des Lesens. Analytisches Lesen hat das Ziel, ein Werk zu verstehen, sich damit auseinanderzusetzen, es kompetent bewerten zu können. Auch hier lassen sich wieder verschiedene Phasen unterscheiden: Struktur-, Interpretations- und Kritikphase. Die wichtigste Voraussetzung dafür ist, mit bestimmten Fragen an das Buch heranzugehen und beim Lesen die Antworten darauf zu suchen.
+Mit der dritten Lesestufe beginnt nun die eigentlich “hohe“ Schule des Lesens. Analytisches Lesen hat das Ziel, ein Werk zu verstehen, sich damit auseinanderzusetzen, es kompetent bewerten zu können. Auch hier lassen sich wieder verschiedene Phasen unterscheiden: Struktur-, Interpretations- und Kritikphase. Die wichtigste Voraussetzung dafür ist, mit bestimmten Fragen an das Buch heranzugehen und beim Lesen die Antworten darauf zu suchen. 
+
+[my-new-link]: #my-new-link
 
 Table: **(\#tab:analytisch-lesen) Analytisch lesen (Übersicht)**
 
@@ -100,7 +102,7 @@ knitr::include_graphics('images/lesen-analytisches-min.png', dpi = NA)
 
 Gegenüber der Vorgangsweise beim prüfenden Lesen gibt es wesentliche Unterschiede: Beim Inspizieren überlappen bzw. vermischen sich teilweise die beiden Phasen (systematisches Durchblättern und schnelles Durchlesen) und die Reihenfolge der verschiedenen Schritte beim Durchblättern ist relativ beliebig. Die drei Etappen wie auch die einzelnen Schritte innerhalb jeder Phase des analytischen Lesens sind jedoch als deutlich getrennte Arbeitsschritte aufzufassen, die weder willkürlich vertauscht noch übersprungen werden können.
 
-Bereits in der Vorbereitungsphase des prüfenden Lesens haben Sie wie ein Detektiv Hinweise über Charakter und Struktur des Buches gesammelt. Nach einem gründlichen Studium sollten Sie nun diese Vermutungen begründet verwerfen oder bestätigen können. Ist es eine eher theoretische, praktische oder empirische Arbeit? (siehe „Theoretische und praktische Probleme“, S. †102) In welches Fachgebiet – mit den jeweils spezifischen Methoden – ist das Buch einzuordnen (Geschichte, Psychologie, Soziologie, Pädagogik,…)? 
+Bereits in der Vorbereitungsphase des prüfenden Lesens haben Sie wie ein Detektiv Hinweise über Charakter und Struktur des Buches gesammelt. Nach einem gründlichen Studium sollten Sie nun diese Vermutungen begründet verwerfen oder bestätigen können. Ist es eine eher theoretische, praktische oder empirische Arbeit? In welches Fachgebiet – mit den jeweils spezifischen Methoden – ist das Buch einzuordnen (Geschichte, Psychologie, Soziologie, Pädagogik,…)? 
 
 Was ist das zentrale Thema des Buches? Was ist die wesentliche Fragestellung, der entscheidende Punkt? Hier genügt es nicht, bloß eine vage Vorstellung zu haben: Fassen Sie den Hauptpunkt des Buches in einem (kurzen!) Satz schriftlich zusammen. Sollte das nicht ausreichen, so können Sie mit ein bis zwei weiteren Sätzen diesen Kernsatz noch weiter spezifizieren.
 
@@ -108,14 +110,15 @@ Im dritten Schritt versuchen Sie nun, Aufbau und die Gliederung des Buches unter
 
 Das Inhaltsverzeichnis kann Ihnen dabei – muss aber nicht – helfen: Es kommt ganz auf Ihre Sichtweise, die Sie im Kernsatz formuliert haben, an. Es gibt viele verschiedene Zugänge und/oder Perspektiven für ein Buch. Jeder Text bedeutet für einen anderen Leser (je nach Interesse, bisheriger Lebens- und/oder Lese-Erfahrung) etwas anderes. Auch wenn es keine „richtige“ Lösung gibt, so sind Sie in Ihrer Zusammenfassung selbstverständlich nicht völlig frei, sondern müssen Ihre Auffassung mit dem Text selbst begründen.
 
-Wenn Sie Ihre strukturelle Analyse gleich am Computer festhalten, können Sie bereits eine Reihe guter Softwarehilfen verwenden. Der Vorteil dieser Werkzeuge (“Outliner“; es handelt sich dabei entweder um eigenständige Anwendungsprogramme oder um Funktionen von Textverarbeitungsprogrammen) liegt nicht nur in der Gliederungshilfe sondern auch darin, dass Sie verschiedene Sichtweisen (“Multiple Representations“) auf Ihren Text haben. So können Sie Ihre Gliederung nicht nur in verschiedenen Detaillierungsgraden betrachten, sondern bei einigen Programmen auch grafisch darstellen. Die Software unterstützt so nicht nur Ihre Aufgabe, sondern wird selbst zu einem Werkzeug der Erkenntnis.
+Wenn Sie Ihre strukturelle Analyse gleich am Computer festhalten, können Sie bereits eine Reihe guter Softwarehilfen verwenden. Der Vorteil dieser Werkzeuge (“Outliner“; es handelt sich dabei entweder um eigenständige Anwendungsprogramme oder um Funktionen von Textverarbeitungsprogrammen) liegt nicht nur in der Gliederungshilfe sondern auch darin, dass Sie verschiedene Sichtweisen (“Multiple Representations“) auf Ihren Text haben. So können Sie Ihre Gliederung nicht nur in verschiedenen Detaillierungsgraden betrachten, sondern bei einigen Programmen auch grafisch darstellen. Die Software unterstützt so nicht nur Ihre Aufgabe, sondern wird selbst zu einem Werkzeug der Erkenntnis. 
+
 
 Diese ersten drei Untersuchungsschritte (Texttyp, Thema und Aufbau) zusammengenommen, ergeben ein erstes Bild über Einheit, Klarheit und Kohärenz des Buches. Die vierte Frage an den Text ist hingegen eine Vorbereitung für die spätere Gesamtbeurteilung (Kritik, Würdigung) des Werkes. Um welche Fragestellungen geht es im Buch? Welche Probleme möchte die Autorin lösen? Es genügt hier nicht nur, die Fragestellungen, die die Autorin verfolgt, aufzulisten, sondern es sind auch Reihenfolge und Prioritäten wichtig.
 
 Ganz allgemein lassen sich zwei Typen von Problemstellungen unterscheiden: 
 
 * Theoretische Texte: Erkundungen über ein “Objekt“ (darunter können auch geistige “Dinge“, Begriffe etc. fallen).
-* Praktische Texte: Untersuchungen über Sinn, Zweck von Handlungen. (Analysen über Struktur, Eigenschaften oder Merkmale von Handlungen sind jedoch theoretische Texte.) Die Handlung ist selbst Gegenstand, die praktischen Probleme sind vor allem moralische bzw. ethische Fragestellungen. Dies zeigt sich auch darin, dass sie meistens mit “soll“ eingeleitet werden.
+* Praktische Texte: Untersuchungen über Sinn, Zweck von Handlungen. (Analysen über Struktur, Eigenschaften oder Merkmale von Handlungen sind jedoch theoretische Texte.) Die Handlung ist selbst Gegenstand, die praktischen Probleme sind vor allem moralische bzw. ethische Fragestellungen. Dies zeigt sich auch darin, dass sie meistens mit “soll“ eingeleitet werden. 
 
 Table: **(\#tab:theoretische-texte) Allgemeine Fragen zu theoretischen Texten**
 
@@ -158,7 +161,8 @@ Table: **(\#tab:praktische-texte) Allgemeine Fragen zu praktischen Texten**
 
 Die Interpretation ist sowohl in der analytischen Lesestufe als auch für die Lesefertigkeit insgesamt die große Bewährungsprobe. Hier liegt der eigentliche Kern des Verstehensprozesses. Gleichzeitig ist die durch die Textauslegung gewonnene Einsicht wohl auch jene Fähigkeit innerhalb der komplexen Lesefertigkeit, die am schwierigsten anzueignen ist. Das liegt einerseits am Vorwissen: Gute sprachliche Kenntnisse (Wortschatz, Grammatik, Satzstrukturen) sind eine notwendige Grundvoraussetzung, Vertrautheit mit logischen Figuren im Alltag (“informelle Logik“: Erkennen von Propositionen und Argumenten, Einschätzung der Qualität einer Argumentationsstruktur) sehr hilfreich. 
 
-Andererseits aber ist der – im Prozess der Interpretation notwendige – hermeneutische Zirkel (Hermeneutik = Kunst der (Text-)Auslegung) selbst ein Grund für diese Schwierigkeit: im Erkenntnisprozess bzw. beim Verstehen gehen wir immer von einem (geschichtlichen) Vorverständnis aus, von dem her wir die Welt (den Text) auslegen. In der aktiven Auseinandersetzung wird dieses Vorurteil abgewandelt, modifiziert und erweitert. Dieses neue Verständnis wird bei einer neuerlichen Deutung zum neuen Vorverständnis (Vorurteil) der Interpretation. Unser Verstehensprozess ist daher zirkulär aufgebaut.
+
+Andererseits aber ist der – im Prozess der Interpretation notwendige – hermeneutische Zirkel (Hermeneutik = Kunst der (Text-)Auslegung) selbst ein Grund für diese Schwierigkeit: im Erkenntnisprozess bzw. beim Verstehen gehen wir immer von einem (geschichtlichen) Vorverständnis aus, von dem her wir die Welt (den Text) auslegen. In der aktiven Auseinandersetzung wird dieses Vorurteil abgewandelt, modifiziert und erweitert. Dieses neue Verständnis wird bei einer neuerlichen Deutung zum neuen Vorverständnis (Vorurteil) der Interpretation. Unser Verstehensprozess ist daher zirkulär aufgebaut. 
 
 Diese lange geisteswissenschaftliche Tradition der Textauslegung können wir hier natürlich nicht referieren. Wir werden – trotz dieser traditionsschweren und komplexen Hintergründe – versuchen, relativ unbekümmert einige Hilfestellungen für die tägliche Lesepraxis so darzulegen, dass sie zwar ihre theoretische Herkunft nicht ganz leugnen, aber dennoch verständlich und vor allem praxisrelevant sind.
 
@@ -170,7 +174,7 @@ Andererseits drücken verschiedene Wörter oft gleiche Bedeutungen aus (Synonyme
 
 Manchmal kann dieser Einigungsprozess auch durch den Autor selbst erschwert werden, z. B. wenn er seine zentralen Begriffe entweder nicht klar abgrenzt und eindeutig verwendet. Das ist dann aber gleich selbst ein wichtiger Hinweis auf die später zu führende Kritik. 
 
-Wie können Sie das Ziel einer Verständigung mit der Begriffswelt der Autorin erreichen? In den meisten Fällen können Sie nicht die Autorin selbst fragen, sondern müssen die Interpretation aus dem Text selbst erschließen. Es wirkt hier wieder der bereits erwähnte hermeneutische Zirkel (vgl. Seite†103): Die umliegenden Wörter und Sätze bilden den Kontext für den zu interpretierenden Begriff. Sie erschließen seine Bedeutung aus diesem Kontext, indem Sie Ihr (Vor-)Verständnis jener Wörter und Ausdrücke anwenden, die Sie bereits kennen, bzw. zu kennen glauben. Es ist wie ein Puzzlespiel nach der Methode von Versuch und Irrtum: Sie wenden Ihr Vorverständnis an und gewinnen neue Einsichten, die Sie wiederum anwenden. Je weiter Sie voranschreiten, desto klarer wird das Bild werden. Manchmal müssen Sie vielleicht wieder zurück und Änderungen vornehmen, an die Sie jedoch bereits mit einem anderen Verständnis herangehen können als zu Beginn der Auslegung.
+Wie können Sie das Ziel einer Verständigung mit der Begriffswelt der Autorin erreichen? In den meisten Fällen können Sie nicht die Autorin selbst fragen, sondern müssen die Interpretation aus dem Text selbst erschließen. Es wirkt hier wieder der bereits erwähnte hermeneutische Zirkel: Die umliegenden Wörter und Sätze bilden den Kontext für den zu interpretierenden Begriff. Sie erschließen seine Bedeutung aus diesem Kontext, indem Sie Ihr (Vor-)Verständnis jener Wörter und Ausdrücke anwenden, die Sie bereits kennen, bzw. zu kennen glauben. Es ist wie ein Puzzlespiel nach der Methode von Versuch und Irrtum: Sie wenden Ihr Vorverständnis an und gewinnen neue Einsichten, die Sie wiederum anwenden. Je weiter Sie voranschreiten, desto klarer wird das Bild werden. Manchmal müssen Sie vielleicht wieder zurück und Änderungen vornehmen, an die Sie jedoch bereits mit einem anderen Verständnis herangehen können als zu Beginn der Auslegung.
 
 Obwohl es keine zwingenden Algorithmen für die Vorgangsweise gibt, lassen sich doch einige heuristische Hilfen (Daumenregeln) anführen: Ihre erste Aufgabe im Prozess der Interpretation muss es sein, die entscheidenden Fachbegriffe ausfindig zu machen:
 
@@ -240,14 +244,14 @@ Gleich von vornherein wollen wir ein häufiges Missverständnis vermeiden: Kriti
 
 Ein Buch aktiv zu lesen, heißt eine Art von Kommunikation (mit der Autorin) zu führen. Dieser Diskurs muss jedoch besonders behutsam geführt werden, weil die Autorin nicht präsent ist und daher weder Missverständnisse aufklären noch Gegenargumente replizieren kann. Als aktive Leserin haben Sie (in Ihren Notizen) immer das letzte Wort.
 
-Aus all diesen Gründen ist es wichtig, dass Sie ein bestimmtes Mindestmaß an intellektuellen Umgangsformen beachten. Diese Anstandsregeln sind nicht nur Gebote der sozialen Höflichkeit, sondern helfen auch, eine Kommunikation effizient zu führen. Vor allem aber sind es weitere Hilfen zur Verständigung mit der Autorin, die Sie vor Fehlurteilen bewahren sollen.
+Aus all diesen Gründen ist es wichtig, dass Sie ein bestimmtes Mindestmaß an intellektuellen Umgangsformen beachten. Diese Anstandsregeln sind nicht nur Gebote der sozialen Höflichkeit, sondern helfen auch, eine Kommunikation effizient zu führen. Vor allem aber sind es weitere Hilfen zur Verständigung mit der Autorin, die Sie vor Fehlurteilen bewahren sollen. 
 
 Table: **(\#tab:etikette) Regeln der intellektuellen Etikette**
 
 +----------------------------------------------------------------------------------------------------------------------------------+
 | * Beginnen Sie erst mit der Kritik, wenn Sie die anderen Phasen des analytischen Lesens (Erfassung der Struktur und Interpretation) abgeschlossen haben \vspace{-6mm}| 
 +----------------------------------------------------------------------------------------------------------------------------------+
-| * Beginnen Sie erst mit der Kritik, wenn Sie sicher sind, dass Sie den Text verstanden haben. (siehe „Zwei Verständniskontrollen“, S. 106) XXX \vspace{-6mm} |
+| * Beginnen Sie erst mit der Kritik, wenn Sie sicher sind, dass Sie den Text verstanden haben.  \vspace{-6mm} |
 +----------------------------------------------------------------------------------------------------------------------------------+
 | * Vermeiden Sie Angriffe auf die Person, konzentrieren Sie sich auf die inhaltliche Ebene. \vspace{-6mm}   | 
 +----------------------------------------------------------------------------------------------------------------------------------+
@@ -269,9 +273,10 @@ Table: **(\#tab:etikette) Regeln der intellektuellen Etikette**
 | Akzeptieren Sie Ihre Gefühle aber halten Sie sie von Ihrer eigenen Argumentation getrennt. |
 +----------------------------------------------------------------------------------------------------------------------------------+
 
-Es gibt sieben grundsätzliche Wege der Kritik. Allgemein gilt dabei: Jegliche Art von Kritik muss auf dem Verständnis des Textes beruhen und daher auch begründet werden. Das trifft ganz besonders auf die Spezialfälle (Zustimmung, Enthaltung, Unverstehen) zu: “Zuzustimmen ohne zu verstehen, ist geistlos. Aber nicht zuzustimmen ohne zu verstehen, ist unverschämt.“ (Adler/Doren 1972:143)
 
-### Vergleichendes Lesen
+Es gibt sieben grundsätzliche Wege der Kritik. Allgemein gilt dabei: Jegliche Art von Kritik muss auf dem Verständnis des Textes beruhen und daher auch begründet werden. Das trifft ganz besonders auf die Spezialfälle (Zustimmung, Enthaltung, Unverstehen) zu: “Zuzustimmen ohne zu verstehen, ist geistlos. Aber nicht zuzustimmen ohne zu verstehen, ist unverschämt.“ [@Adler_Doren_1972, p 143]
+
+### Vergleichendes Lesen 
 
 Bei dieser Lesestufe geht es nun nicht mehr darum, ein einzelnes Buch zu erarbeiten, sondern um die Konstruktion eigener Argumente und Aussagen im Diskurs mit mehreren relevanten Werken. Prüfendes Lesen war die Vorbereitung für die analytische Lesestufe. Jetzt – nachdem Sie mehrere Bücher zum selben Thema analytisch erarbeitet haben – wissen Sie, welche Bücher (bzw. welche Passagen) zum selben Thema für Sie relevant sind. Erst mit diesem Vorverständnis macht das vergleichende Lesen Sinn.
 
@@ -284,19 +289,19 @@ knitr::include_graphics('images/lesen-vergleichendes-min.png', dpi = NA)
 
 
 
-Warum? Wieder ist der bereits mehrmals erwähnte hermeneutische Zirkel (vgl. Seite 94) dafür verantwortlich: Wie können Sie wissen, ob beide Bücher relevante Stellen zum selben Thema haben? Dazu müssten Sie bereits das Thema vor dem Lesen identifizieren bzw. spezifizieren können. Das aber ist oft erst nach dem analytischen Lesen, wo Sie sich mit der Autorin über Thematik und Fragestellung ins detaillierte Einvernehmen setzen, möglich.
+Warum? Wieder ist der bereits mehrmals erwähnte hermeneutische Zirkel dafür verantwortlich: Wie können Sie wissen, ob beide Bücher relevante Stellen zum selben Thema haben? Dazu müssten Sie bereits das Thema vor dem Lesen identifizieren bzw. spezifizieren können. Das aber ist oft erst nach dem analytischen Lesen, wo Sie sich mit der Autorin über Thematik und Fragestellung ins detaillierte Einvernehmen setzen, möglich.
 
 Während Sie beim analytischen Lesen den Spuren der Autorin folgen, gehen Sie beim syntopischen Lesen von Ihrem eigenen Interesse und Thema aus. Sie suchen eine Textpassage nicht danach aus, ob und wie weit sie Ihnen zum Verständnis des Buches hilft, sondern ob sie Ihnen bei der Bearbeitung Ihrer eigenen Fragestellung helfen kann. Und das kann sich durchaus stark von der Intention der Autorin unterscheiden.
 
-Wie bei Stufe 5 (Seite 104 XXX) des analytischen Lesens müssen Sie sich auch beim vergleichenden Lesen über die Bedeutung der Fachbegriffe verständigen. Da Sie es aber nun mit mehreren Autorinnen gleichzeitig zu tun haben, sind Sie es selbst, die die Grundlage für eine gemeinsame Verständigung schaffen müssen. Statt herauszufinden, welche Bedeutung der Begriff für die Autorin hat, müssen Sie die Autorin von Ihrer eigenen Sprachverwendung ausgehend interpretieren. Syntopisches Lesen ist wesentlich eine Übersetzungsprozedur: Sie (re)konstruieren den Gedankengang der Autorin (der Autorinnen) vor dem Hintergrund Ihrer eigenen Sinnzusammenhänge.
+Wie bei der Verständigung über die Fachbegriffe beim analytischen Lesen, müssen Sie sich auch beim vergleichenden Lesen über die Bedeutung der Fachbegriffe verständigen. Da Sie es aber nun mit mehreren Autorinnen gleichzeitig zu tun haben, sind Sie es selbst, die die Grundlage für eine gemeinsame Verständigung schaffen müssen. Statt herauszufinden, welche Bedeutung der Begriff für die Autorin hat, müssen Sie die Autorin von Ihrer eigenen Sprachverwendung ausgehend interpretieren. Syntopisches Lesen ist wesentlich eine Übersetzungsprozedur: Sie (re)konstruieren den Gedankengang der Autorin (der Autorinnen) vor dem Hintergrund Ihrer eigenen Sinnzusammenhänge.
 
 Weil Sie mit mehreren Autorinnen gleichzeitig in einen Diskurs treten wollen, ist es notwendig, dass Sie eine eigene Sprache (eigene Begrifflichkeiten, eigene Bedeutungszusammenhänge) zur Verständigung entwickeln. Diese übergreifende Sprache muss systematisch entwickelt und begründet werden, damit sie als “neutrale“ Kommunikationsgrundlage akzeptabel ist.
 
 Im nächsten Schritt verwenden Sie nun den entwickelten begrifflichen Apparat, die von Ihnen geschaffene Terminologie, um das Thema, zu dem die verschiedenen Autorinnen diskutieren, neu zu definieren. Das ist notwendig, weil Unterschiede in der Frage- bzw. Problemstellung der verschiedenen Diskurspartner auf unterschiedliche theoretische Gerüste zurückzuführen sind.
 
-Von dieser Grundlage aus können Sie nun mit den Autorinnen in einen wissenschaftlichen Diskurs treten. Sie übernehmen dabei die Rolle einer Moderatorin: Sie geben das Thema vor, sehen zu, dass alle Teilnehmerinnen an dieser virtuellen Diskussion zu Wort kommen, klären Missverständnisse, verweisen auf Gemeinsamkeiten und halten unterschiedliche Positionen fest. Dabei kehren Sie immer wieder zu den Originaltexten zurück und lesen erneut die entsprechenden Passagen.
+Von dieser Grundlage aus können Sie nun mit den Autorinnen in einen wissenschaftlichen Diskurs treten. Sie übernehmen dabei die Rolle einer Moderatorin: Sie geben das Thema vor, sehen zu, dass alle Teilnehmerinnen an dieser virtuellen Diskussion zu Wort kommen, klären Missverständnisse, verweisen auf Gemeinsamkeiten und halten unterschiedliche Positionen fest. Dabei kehren Sie immer wieder zu den Originaltexten zurück und lesen erneut die entsprechenden Passagen. 
 
-Wichtig bei diesem virtuellen Disput ist es, dass immer klar ist, um welche Meinung es sich handelt. Im Fortgang dieser Auseinandersetzung ist es oft sinnvoll, die eigene Position immer stärker einzubringen (Rollenwechsel: Von der Moderatorin zur Diskutantin). Daher müssen Sie klarmachen, was Ihre eigenen Worte und was die Beiträge der anderen Teilnehmerinnen sind. Darin liegt der eigentliche Sinn der Regeln für den Umgang mit Quellen beim wissenschaftlichen Schreiben (s. XXX Kapitel „Zitieren“). 
+Wichtig bei diesem virtuellen Disput ist es, dass immer klar ist, um welche Meinung es sich handelt. Im Fortgang dieser Auseinandersetzung ist es oft sinnvoll, die eigene Position immer stärker einzubringen (Rollenwechsel: Von der Moderatorin zur Diskutantin). Daher müssen Sie klarmachen, was Ihre eigenen Worte und was die Beiträge der anderen Teilnehmerinnen sind. Darin liegt der eigentliche Sinn der Regeln für den Umgang mit Quellen beim wissenschaftlichen Schreiben (siehe Kapitel \@ref(zitieren): [Zitieren]). 
 
 ## Notizen machen
 
@@ -390,7 +395,7 @@ Table: **(\#tab:aufgabe5-test) Übungsaufgabe**
 | Trennen Sie eigene Gedanken und Anmerkungen deutlich von denen des Autors.                                                       |
 | Lesen Sie dazu jeden Text aufmerksam durch und legen ihn dann weg, während Sie Ihre Notiz schreiben.  \vspace{-6mm}              |
 +----------------------------------------------------------------------------------------------------------------------------------+
-| **(A)** Langzeituntersuchungen zur Frage des Einflusses einer frühkindlichen Heranführung an naturwissenschaftliche Themenfelder      |
+| **(A)** Langzeituntersuchungen zur Frage des Einflusses einer frühkindlichen Heranführung an naturwissenschaftliche Themenfelder |
 | liegen bislang keine vor, was insbesondere auf zwei Gründe zurückzuführen ist: Zum einen sind sie enorm kostenaufwendig,         |
 | zum anderen sehr zeitintensiv, muss doch mit einem Untersuchungszeitraum von mindestens zehn Jahren gerechnet werden.            |
 |                                                                                                                                  |

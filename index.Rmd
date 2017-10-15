@@ -43,3 +43,24 @@ pacman::p_load(tidyverse,reshape2,readxl,pander,xtable,printr,RColorBrewer,knitr
 knitr::include_graphics('images/cover-stufonet-min.png', dpi = NA)
 ```
 
+Studieren und Forschen mit dem Internet ist 2001 beim [StudienVerlag](http://www.studienverlag.at/page.cfm?vpath=buecher/buchdetail&bookclass=&titnr=1319) herausgekommen und heute vergriffen. Restexemplare können nach wie vor gebraucht über [Amazon](https://www.amazon.de/Studieren-Forschen-mit-dem-Internet/dp/3706513196/ref=sr_1_1?ie=UTF8&qid=1508089811&sr=8-1&keywords=studieren+und+forschen+mit+dem+internet) gekauft werden. 
+
+Das Buch [@Baumgartner_Payr_2001] ist eine praxisorientierte Einführung in das wissenschaftliche Arbeiten mit vielen Aktions- und Prüftabellen. Es geht auf die Logik der Recherche, der Kooperation von sinnstiftenden Lesen und argumentatives Schreiben ein. Obwohl im Buch ganz besonders auch die Möglichkeiten behandelt werden, die sich bereits damals mit dem Internet ergaben, sind viele Kapitel auch heute noch brauchbar.
+
+Es gibt drei Gründe, warum ich _Studieren und Forschen mit dem Internet_ nun in reduzierter Version (ohne Kapitel 8-10 und dem theoretischen Nachwort) kostenlos und frei wieder zu Verfügung stelle:
+
+1. Nach wie vor halte ich besonders sie Kapitel "Konzipieren einer Arbeit" sowie "Lesen und notieren" für sehr gut gelungen und in vielen Teilen nach wie vor aktuell.
+2. Für eine Exerpiment habe ich eine relativ vollständiges Beispiel für ein Buch gebraucht, um die neuen Möglichkeiten von open source Programmpaketen in allen Facetten testen zu können. Konkret handelt es sich um `bookdown` [@Xie_2016], ein Programmpaket des Statistikprogramms R [@R-base]. Damit ist es nicht nur möglich ist, Bücher als Webseiten zu publizieren, sondern vom gleichen Ausgangstext auch E-Books (ePub und Kindle), sowie ein PDF zu generieren.
+3. Vor allem aber arbeite ich derzeit an einem neuen Buchprojekt, das die geänderten Arbeitsabläufe im Forschungsprozess untersucht und dabei ganz besonders die Potenziale einer neuen Generation von Werkzeugen =  wie es ˚bookdown˚ bereits darstellt, einbezieht. Nicht nur aus historischen Gründen halte ich es für interessant, zu vergleichen was sich  in den letzten 20 Jahren verändert hat, sondern es lässt sich dann vielleicht leichter erkennen, was stabil geblieben ist -- und es vielleicht auch bleibt -- und bei welchen Arbeitsprozesse wir schon in naher Zukunft große Umbrüche erwarten werden können. 
+
+Der Test ist soweit in einer ersten Annäherung befriedigend ausgefallen. Ich habe -- nach einer Einarbeitungszeit die nötig war, um das Programm kennen zu lernen -- zwei Tage gebraucht, um den Text in der vorliegenden Fassung fertig zu stellen. Ich habe dabei nur ganz oberflächlich auf die Formatierung geschaut; die detaillierte inhaltliche Durchsicht steht noch aus. 
+
+Allerdings gibt es sogar bei einer groben Betrachtung noch sehr viele Details, die es nachzuarbeiten gibt. Das beginnt beim Design (Stylesheet) von z.B. Tabellen, Überschriften über schnelleres bzw. rationelleres Arbeiten bis hin, dass ein besseres Verständnis der LaTeX-Integration für weitere Adaptionen sehr hilfreich wäre. (Im AUgenblick weiß ich noch nicht, wie ich alle von mir gewünschten LaTeX-Pakete einbinden kann, weil ich immer die Fehlermeldung `entering restricted mode \write18` bekomme und das Programm dann abbricht.)
+
+Mit _Studieren und Forschen mit dem Internet_ habe ich jedoch bereits ein praxisnahes Beispiel, an dem ich mich weiter versuchen kann. Ich werde über die konkreten Erfahrungen im Detail auf meinen Weblogseiten darüber berichten.
+
+Krems, am 15. Oktober 2017
+
+
+
+

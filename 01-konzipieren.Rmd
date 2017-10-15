@@ -1,6 +1,4 @@
-# Konzipieren einer Arbeit
-
-
+# Konzipieren einer Arbeit {#konzipieren}
 
 ```{r fig.align='center', echo=FALSE, fig.cap='Konzipieren (Übersicht)'}
 knitr::include_graphics('images/konzipieren-min.png', dpi = NA)
@@ -145,7 +143,7 @@ Wir betrachten hier den Fall, dass man sich das Thema für eine wissenschaftlich
 
 Nachdem eine Idee aufgetaucht ist, besteht der erste Schritt darin, sie in allen Facetten zu erkunden, um möglichst vielfältige Fragen zu generieren. In dieser Phase geht es darum, ein geeignetes Problem zu finden, indem die Idee systematisch exploriert und die Fragestellung „geöffnet“ wird.
 
-### Thematik erschließen
+### Thematik erschließen {#thematik-erschliessen}
 
 Meistens weiß man viel mehr über ein Thema oder ein Sachgebiet, als man selbst glaubt. Um dieses Wissen zu aktivieren, sind Methoden empfehlenswert, die extra dafür entwickelt wurden, um das assoziative und kreative Denken zu fördern. Mit diesen Techniken lässt sich eine erste Idee nach vielen Richtungen hin genauer entwickeln („öffnen“):
 
@@ -163,13 +161,13 @@ Ein Projekttagebuch, das auch ein schlichtes Notizheft sein kann, dient dazu, ü
 
 ### Material sammeln {#konzipieren-material-sammeln}
 
-Nach der Phase der Ideenfindung wird eine erste Recherche durchgeführt (siehe Kapitel „Recherchieren“). Bei dieser vorläufigen Materialsammlung geht es weder um Vollständigkeit noch um Genauigkeit, sondern bloß darum, einen ersten, möglichst breiten Überblick zu bekommen, wo und wie etwas zum Thema gesagt und veröffentlicht wurde. Der Zweck dieser Rundschau ist es, sich stichprobenartig mit dem Thema vertraut zu machen und es von verschiedenen Seiten zu betrachten, um später den eigenen Zugang dazu abgrenzen und begründen zu können.
+Nach der Phase der Ideenfindung wird eine erste Recherche durchgeführt (siehe Kapitel \@ref(recherchieren): [Recherchieren]). Bei dieser vorläufigen Materialsammlung geht es weder um Vollständigkeit noch um Genauigkeit, sondern bloß darum, einen ersten, möglichst breiten Überblick zu bekommen, wo und wie etwas zum Thema gesagt und veröffentlicht wurde. Der Zweck dieser Rundschau ist es, sich stichprobenartig mit dem Thema vertraut zu machen und es von verschiedenen Seiten zu betrachten, um später den eigenen Zugang dazu abgrenzen und begründen zu können.
 
 Nutzen Sie alle Sinne, Möglichkeiten und Quellen, um zu Informationen über Ihren Gegenstand zu gelangen. Das beginnt beim Einholen von Tipps und Meinungen von erfahreneren Personen oder der Betreuerin, geht über die „klassischen“ Hilfsmittel des wissenschaftlichen Arbeitens (Lexika, Lehr- und Fachbücher) und die „traditionelle“ Literaturrecherche bis hin zu den neuen Möglichkeiten, die das Internet bietet.
 
 Achten Sie beim Sammeln des Materials nicht nur auf die Inhalte, sondern auch auf die Akteure (Personen, Institutionen,...), die diese Positionen vertreten. Das ist besonders für aktuelle Bezüge (Kontaktnahme, Interviews,...) und die Orientierung im wissenschaftlichen Diskurs (Meinungsführer, Kontrahenten, Schulen, ...) wichtig.
 
-Mit der globalen Vernetzung hat sich heute eine völlig neue Dimension für Studierende und Wissenschafter geöffnet: Relativ einfach, mit wenig Kosten und geringem Zeitaufwand können Sie sich weltweit z. B. über aktuelle Projekte informieren (Recherche im Internet, Besuch der Homepage des jeweiligen Wissenschaftlers, Instituts etc.) oder eine konkrete Anfrage starten (siehe Kapitel „Recherchieren im Internet“ XXX). 
+Mit der globalen Vernetzung hat sich heute eine völlig neue Dimension für Studierende und Wissenschafter geöffnet: Relativ einfach, mit wenig Kosten und geringem Zeitaufwand können Sie sich weltweit z. B. über aktuelle Projekte informieren (Recherche im Internet, Besuch der Homepage des jeweiligen Wissenschaftlers, Instituts etc.) oder eine konkrete Anfrage starten (siehe Kapitel \@ref(recherchieren-im-internet): [Recherchieren im Internet]). 
 
 Table: **(\#tab:enquiry) Social Inquiry**
 
@@ -193,11 +191,11 @@ Table: **(\#tab:enquiry) Social Inquiry**
 | * Gibt es dazu eine gute (passende) Gelegenheit (Konferenz, Vortrag an meiner Hochschule etc.)?                                  |
 +----------------------------------------------------------------------------------------------------------------------------------+
 
-Auch wenn es heute (technisch) relativ einfach ist, mit den Akteurinnen der Wissenschaft in Kontakt zu treten, so bedeutet das nicht automatisch, dass Sie auch eine Antwort auf Ihre Frage(n) bekommen: Namhafte Leute (Wissenschafterinnen, Journalistinnen) sind viel beschäftigt und Sie müssen sich schon einen guten Grund einfallen lassen, wenn Ihre Anfrage nicht sang- und klanglos in den Weiten des Cyberspace verschwinden soll (siehe Kapitel „Kooperieren“ XXX). 
+Auch wenn es heute (technisch) relativ einfach ist, mit den Akteurinnen der Wissenschaft in Kontakt zu treten, so bedeutet das nicht automatisch, dass Sie auch eine Antwort auf Ihre Frage(n) bekommen: Namhafte Leute (Wissenschafterinnen, Journalistinnen) sind viel beschäftigt und Sie müssen sich schon einen guten Grund einfallen lassen, wenn Ihre Anfrage nicht sang- und klanglos in den Weiten des Cyberspace verschwinden soll (siehe Kapitel \@ref(kooperieren): [Kooperieren]). 
 
 Überlegen Sie sich daher, wie Sie Ihr (virtuelles) Gegenüber zu einer Antwort motivieren können. Am Besten ist natürlich, wenn Sie nicht nur etwas wollen, sondern auch etwas anzubieten haben wie z. B. Übermittlung der Arbeitsergebnisse, an denen die Expertin Interesse haben könnte. Ihre Chancen auf eine Antwort steigen auch, wenn Sie den Kontakt durch eine andere Person, die die Angefragte kennt bzw. ihr persönlich verbunden ist, aufnehmen können.
 
-Überlegen Sie sich schon bei dieser ersten Recherche ein System, mit dem Sie gefundene Literatur, E-Mail- und Internet-Adressen usw. so ordnen und aufbewahren, dass Sie später bei der systematischen Materialsammlung darauf zurückgreifen können. (siehe Abschnitt \@ref(material-ordnen))
+Überlegen Sie sich schon bei dieser ersten Recherche ein System, mit dem Sie gefundene Literatur, E-Mail- und Internet-Adressen usw. so ordnen und aufbewahren, dass Sie später bei der systematischen Materialsammlung darauf zurückgreifen können (siehe Abschnitt \@ref(material-ordnen): [Material ordnen]).
 
 ### Material sichten und bewerten
 

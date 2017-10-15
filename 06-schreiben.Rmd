@@ -15,14 +15,12 @@ knitr::include_graphics('images/schreiben-argumentationsgang-min.png', dpi = NA)
 ```
 
 
-
-
 * Strukturieren (Gliederung)
 * Inhalte niederschreiben (Rohfassung)
 * Inhalt überarbeiten (Überarbeitung)
 * Glätten und Fertigstellen (Sprache, Stil)
 
-Ihre Aufgabe ist es, Ihre Gedanken zusammenhängend, nachvollziehbar und verständlich zu Papier zu bringen. Dieses Kapitel beschäftigt sich sozusagen mit der inneren Form der Arbeit, die „äußere Form“ – also das Erfüllen formaler Anforderungen und die ansprechende Gestaltung – möchten wir davon trennen und später behandeln (siehe Kapitel „Fertigstellen der Arbeit“). Der Prozess des Schreibens ist in der nebenstehenden Grafik grob dargestellt. 
+Ihre Aufgabe ist es, Ihre Gedanken zusammenhängend, nachvollziehbar und verständlich zu Papier zu bringen. Dieses Kapitel beschäftigt sich sozusagen mit der inneren Form der Arbeit, die „äußere Form“ – also das Erfüllen formaler Anforderungen und die ansprechende Gestaltung – möchten wir davon trennen und später behandeln. Der Prozess des Schreibens ist in der nebenstehenden Grafik grob dargestellt. 
 
 Eine Einschränkung möchten wir aber noch vorausschicken: Das Verfahren, das wir hier beschreiben, führt von „oben“ (dem Gesamtthema, der Grobstruktur) nach „unten“ (zur Feinstruktur, zu den einzelnen Abschnitten und Absätzen). Dieses „Top- Down“-Vorgehen hat sich zwar oft bewährt, vor allem, weil es den Überblick und Zusammenhang bewahren hilft, aber es passt nicht jedem und nicht immer: Manche können besser schreiben, wenn sie einen Teil (fast) fertig ausformulieren und den Rest rundherum bauen; andere haben vielleicht eine gesamte Arbeit wie eine Geschichte bereits im Kopf und können sie von Anfang bis Ende niederschreiben. Wir glauben zwar, dass es gerade für wenig geübte Schreiber besser ist, von einer Gliederung weg zu arbeiten, aber letztlich muss jede(r) selbst herausfinden, welche Methode am besten funktioniert. 
 
@@ -32,7 +30,7 @@ Im ersten Schritt des Top-Down-Verfahrens wird die Gliederung festgelegt, also d
 
 ### Formlose Gliederung
 
-Stellen Sie sich die Gliederung der Arbeit besser nicht als vorweggenommenes Inhaltsverzeichnis vor, sondern als eine strukturierte Zusammenfassung. Die Titel und Überschriften, die wir meistens verwenden, sind zu kurz und zu wenig aussagekräftig, um als Anleitung für das Schreiben herhalten zu können. Um nicht in diese Gewohnheit zu verfallen, ist es oft besser, ganz andere Methoden zu verwenden, um eine Struktur zu schaffen, z. B. ein Mind-Map (siehe „Thematik erschließen, „öffnen““ auf Seite 15) zu zeichnen oder die Gliederung ganz formlos zu erzählen. 
+Stellen Sie sich die Gliederung der Arbeit besser nicht als vorweggenommenes Inhaltsverzeichnis vor, sondern als eine strukturierte Zusammenfassung. Die Titel und Überschriften, die wir meistens verwenden, sind zu kurz und zu wenig aussagekräftig, um als Anleitung für das Schreiben herhalten zu können. Um nicht in diese Gewohnheit zu verfallen, ist es oft besser, ganz andere Methoden zu verwenden, um eine Struktur zu schaffen, z. B. ein Mind-Map (siehe Abschnitt \@ref(thematik-erschliessen): [Thematik erschließen]) zu zeichnen oder die Gliederung ganz formlos zu erzählen. 
 
 Der Einstieg ins Schreiben und Formulieren wird sehr erleichtert, wenn man die Gliederung in ganzen Sätzen und Fragen formuliert. Man beginnt mit dem Thema oder Arbeitstitel und verwandelt ihn in die Leitfrage, um die sich die gesamte Arbeit dreht. Das ist oft gar nicht leicht. Die Mühe lohnt sich, denn diese Formulierung ist vielleicht ein erster Prüfstein dafür, ob Sie Ihr Thema wirklich bewältigt haben: Hinter den Formulierungsschwierigkeiten können sich inhaltliche Unklarheiten und Ungereimtheiten verstecken, die sich beim detaillierten Ausarbeiten als Stolpersteine erweisen können. Die Arbeit an der Fragestellung und der Grobstruktur wird deshalb ja auch schon sehr früh, vor der Materialsammlung und -bearbeitung, begonnen. 
 
@@ -71,7 +69,7 @@ Table: **(\#tab:gliederung2) Modell für die Gliederung wählen**
 | einen Vergleich | kann als eine Sonderform der Klassifizierung gesehen werden. Um zwei Dinge vergleichen zu können, müssen sie Gemeinsamkeiten haben, d. h.  zu einer Gruppe gehören – sie werden beide klassifiziert. Erst dann kann man über Unterschiede reden. | Sie können die Reisegruppe mit anderen Formen von Gruppen vergleichen, z. B. einem Projektteam, einer Schulklasse oder einem Brieftaubenzüchterclub. Auch für die „Vergleichsgruppe“ müssen Sie zuerst zeigen, dass es sich um eine Gruppe in Ihrem Sinn handelt. \vspace{-6mm} |
 | eine Bewertung (Evaluation) | Um einen Gegenstand bewerten zu können, muss man einerseits seine Merkmale einzeln betrachten und für diese Merkmale (Kriterien) einen Maßstab oder Standard haben, an dem man sie messen kann. | Wenn Sie z. B. die Konfliktfähigkeit Ihrer Reisegruppe bewerten wollen, brauchen Sie a) Merkmale, an denen sich die Konfliktfähigkeit zeigt und b) einen Maßstab (z. B. aus der Literatur) mit der Sie diese Kriterien einstufen können \vspace{-6mm} |
 | eine Chronik | Historische Prozesse, Abläufe, Verfahren, Projekte haben einen Zeitverlauf, an dem sich die Darstellung orientieren kann. Es gibt Anfang und Ende (oder Zwischenstand) und dazwischen Phasen, Schritte, Epochen usw. Am Ende kann die gegenwärtige Situation stehen oder auch ein Blick in die Zukunft. | Wenn Sie in einem Teil Ihrer Arbeit den Verlauf der Gruppenreise berichten, so bietet sich dafür dieses Modell an. \vspace{-6mm} |
-| einen Problemlösungsvorschlag | Etwas muss zuerst als Problem wahrgenommen werden, bevor man es lösen kann. Man wird zeigen, warum es nicht oder nicht befriedigend gelöst wurde, bevor man eigene Vorschläge dazu macht. | Sie zeigen z. B. das Problem auf, dass bisherige Untersuchungen von Gruppenverhalten sich auf existierende Gruppen beschränkten, und dass dadurch relevante Aspekte unbeachtet blieben. Anhand der Untersuchung der Reisegruppe zeigen Sie die Besonderheiten in entstehenden Gruppen auf. | 
+| einen Problemlösungs-vorschlag | Etwas muss zuerst als Problem wahrgenommen werden, bevor man es lösen kann. Man wird zeigen, warum es nicht oder nicht befriedigend gelöst wurde, bevor man eigene Vorschläge dazu macht. | Sie zeigen z. B. das Problem auf, dass bisherige Untersuchungen von Gruppenverhalten sich auf existierende Gruppen beschränkten, und dass dadurch relevante Aspekte unbeachtet blieben. Anhand der Untersuchung der Reisegruppe zeigen Sie die Besonderheiten in entstehenden Gruppen auf. | 
 
 Viele Themen bieten von sich aus einen Aufbau an, der wie „natürlich“ aus ihnen zu folgen scheint. Die Aufgliederung eines Ganzen in einzelne Teile, Aspekte, Merkmale usw. kann sich so beinahe von selbst ergeben oder sich an der im Fach üblichen Reihenfolge orientieren. So werden in den technischen und naturwissenschaftlichen Disziplinen fast alle Artikel nach dem Modell „Problemlösungsvoschlag“ geschrieben: Es wird eine (noch) ungelöste Frage aufgezeigt und anschließend der eigene Lösungsvorschlag präsentiert und diskutiert. 
 
@@ -82,14 +80,15 @@ Die frei geschriebene Struktur der Arbeit wird nun in eine provisorische Glieder
 Table: **(\#tab:strukturieren) Strukturieren**
 
 +----------------------------------------------------------------------------------------------------------------------------------+
-| * Wie kann der Aufbau in Form eines frei geschriebenen, zusammenhängenden Textes dargestellt werden? \vspace{-6mm}    | +----------------------------------------------------------------------------------------------------------------------------------+                      
-| * Welche informelle Gliederung ergibt sich aus der Zerlegung dieses Textes in einzelne Fragen und Aussagen? \vspace{-6mm}    |
+| * Wie kann der Aufbau in Form eines frei geschriebenen, zusammenhängenden Textes dargestellt werden? \vspace{-6mm}               |
++----------------------------------------------------------------------------------------------------------------------------------+                      
+| * Welche informelle Gliederung ergibt sich aus der Zerlegung dieses Textes in einzelne Fragen und Aussagen? \vspace{-6mm}        |
 +----------------------------------------------------------------------------------------------------------------------------------+
-| * Welches Modell steht hinter der Struktur? Passt das Modell zum Thema und zur Zielsetzung? \vspace{-6mm}    |
+| * Welches Modell steht hinter der Struktur? Passt das Modell zum Thema und zur Zielsetzung? \vspace{-6mm}                        |
 +----------------------------------------------------------------------------------------------------------------------------------+
-| * Welche provisorische formale Gliederung ergibt sich aus der informellen Struktur? \vspace{-6mm}    |
+| * Welche provisorische formale Gliederung ergibt sich aus der informellen Struktur? \vspace{-6mm}                                |
 +----------------------------------------------------------------------------------------------------------------------------------+
-| * Wie kann die Gliederung so weit verfeinert werden, dass sie als Leitfaden für das Schreiben brauchbar ist? \vspace{-6mm}    |
+| * Wie kann die Gliederung so weit verfeinert werden, dass sie als Leitfaden für das Schreiben brauchbar ist?                     |
 +----------------------------------------------------------------------------------------------------------------------------------+
 
 ## Rohfassung schreiben
@@ -131,7 +130,7 @@ Nicht nur der Text als Ganzes, sondern auch jeder seiner Teile sollten idealerwe
 
 Bei „Argumentieren“ denkt man zuerst an das mündliche Streitgespräch und die Diskussion. Die Spielregeln des Argumentierens gelten aber auch für schriftliche Arbeiten, denn diese sind ja (zumindest gedanklich) „zeitverzögerte“ Debatten. Ihre „Diskussionspartner“ sind einerseits die AutorInnen, mit deren Werken Sie sich auseinandersetzen, andererseits die zukünftigen LeserInnen, die Sie überzeugen und mit denen Sie ins Gespräch kommen möchten. 
 
-Die Regeln des Argumentierens sorgen erst dafür, dass Aussagen überhaupt vernünftig diskutiert werden können. Wir können hier nur kurz die wichtigsten Grundsätze kurz erläutern (mehr dazu in YYY Kienpointner 1996):
+Die Regeln des Argumentierens sorgen erst dafür, dass Aussagen überhaupt vernünftig diskutiert werden können. Wir können hier nur kurz die wichtigsten Grundsätze kurz erläutern; mehr dazu in [@Kienpointner_1996]:
 
 Table: **(\#tab:argumente2) Richtig argumentieren**
 
@@ -165,7 +164,7 @@ Der Fehler, zu wenig explizit zu sein, unterläuft einem dagegen eher später im
 
 ### Die Rohfassung vervollständigen
 
-Die Literatur, die im Text verarbeitet wird, ist in der Rohfassung bereits mit Zitaten und Quellenangaben eingebaut. Wie man beim Schreiben mit der Literatur umgeht, wird im folgenden Kapitel (siehe Kapitel „Zitieren“) beschrieben.
+Die Literatur, die im Text verarbeitet wird, ist in der Rohfassung bereits mit Zitaten und Quellenangaben eingebaut. Wie man beim Schreiben mit der Literatur umgeht, wird im folgenden Kapitel (siehe Kapitel \@ref(zitieren): [Zitieren]) beschrieben.
 
 Um den Faden beim Schreiben der Rohfassung nicht zu verlieren, haben Sie im ersten Anlauf vielleicht Kapitelanfänge ausgelassen und Teile ohne Übergang aneinandergereiht. Diese Lücken sollten bereits in der Rohfassung zumindest versuchsweise geschlossen werden. Unter „Übergang“ ist hier ein Absatz (oder mehrere) gemeint, die einen Teil abschließen und gleichzeitig den nächsten ankündigen. Für den Schreiber muss daraus ebenso wie für den Leser klar werden, was bis dorthin erreicht wurde und warum das Folgende die notwendige und logische Fortsetzung davon ist. Wenn man Schwierigkeiten mit diesen Übergängen hat, die nicht bloß mit dem Ausformulieren zu tun haben, dann kann das ein ernstzunehmendes Warnsignal dafür sein, dass das eigentliche Problem im Aufbau der Arbeit liegt: Wenn dem Aufbau ein logischer Gedankengang zugrunde liegt, dann lässt sich dieser auch sprachlich formulieren – vielleicht holprig, aber doch. Wenn die Formulierung so gar nicht kommen will, könnte das Problem auch daran liegen, dass der Aufbau eben nicht folgerichtig ist. 
 
@@ -174,7 +173,8 @@ Meistens wird der Schluss einer Arbeit, der eine Zusammenfassung, Ergebnisse ode
 Table: **(\#tab:rohfassung) Rohfassung schreiben**
 
 +----------------------------------------------------------------------------------------------------------------------------------+
-| * Wird der Grundsatz „Inhalt geht vor Form“ beachtet? (Stil, Sprache, Layout in dieser Phase nicht zu sehr beachten) \vspace{-6mm}    | +----------------------------------------------------------------------------------------------------------------------------------+                      
+| * Wird der Grundsatz "Inhalt geht vor Form" beachtet? (Stil, Sprache, Laoyout in dieser Phase nicht sehr beachten) \vspace{-6mm} |
++----------------------------------------------------------------------------------------------------------------------------------+                      
 | * Wird – bei Schreibschwierigkeiten – der Einstieg provisorisch und alltagssprachlich überbrückt?  \vspace{-6mm}    |
 +----------------------------------------------------------------------------------------------------------------------------------+
 | * Sind alle Inhalte formuliert und Lücken im Argumentationsgang geschlossen? \vspace{-6mm}    |
@@ -206,12 +206,14 @@ Das Überarbeiten der Rohfassung ist genauso wichtig wie das erste Niederschreib
 
 Idealerweise hat man genug Zeit, um die Rohfassung ein paar Tage liegen zulassen und sich mit ganz anderen Dingen zu beschäftigen. Das erzeugt die notwendige Distanz, um sie dann besser aus der Sicht einer Leserin beurteilen zu können. 
 
-Die Fragen, die man beim Durchlesen an den Text stellt, sind ganz ähnlich wie die des „analytischen Lesers“ (siehe „Analytisches Lesen“, S. 99), mit einem großen Unterschied: Hier handelt es sich nicht um einen fertigen, fremden Text, sondern um den eigenen, vorläufigen, der sich noch in alle Richtungen verändern und verbessern lässt. 
+Die Fragen, die man beim Durchlesen an den Text stellt, sind ganz ähnlich wie die des „analytischen Lesers“ (siehe Abschnitt \@ref(analytisches-lesen): [Analytisches Lesen]), mit einem großen Unterschied: Hier handelt es sich nicht um einen fertigen, fremden Text, sondern um den eigenen, vorläufigen, der sich noch in alle Richtungen verändern und verbessern lässt. 
 
 Table: **(\#tab:rohfassung2) Inhaltliche Fragen an die Rohfassung**
 
+
 +----------------------------------------------------------------------------------------------------------------------------------+
-| * Wird die Fragestellung, das Thema deutlich? Wird der Leserin die Bedeutung der Fragestellung klargemacht? \vspace{-6mm}    | +----------------------------------------------------------------------------------------------------------------------------------+                      
+| * Wird die Fragestellung, das Thema deutlich? Wird der Leserin die Bedeutung der Fragestellung klargemacht? \vspace{-6mm}        |
++----------------------------------------------------------------------------------------------------------------------------------+                      
 | * Welche Erwartungen werden im Leser geweckt – und werden sie auch erfüllt?  \vspace{-6mm}    |
 +----------------------------------------------------------------------------------------------------------------------------------+
 | * Hat die gesamte Arbeit einen Bezug zum Thema, und wird dieser Bezug überall deutlich hergestellt? \vspace{-6mm}    |
@@ -226,6 +228,7 @@ Table: **(\#tab:rohfassung2) Inhaltliche Fragen an die Rohfassung**
 
 Die Arbeit, die notwendig ist, um Schwächen in diesen Aspekten auszubessern, wird sich kaum auf kleine Korrekturen und Umformulierungen beschränken können. Manchmal ist es notwendig, ganze Teile neu zu schreiben. Davor darf man keine allzu große Scheu haben: manchmal ist es sogar einfacher, Passagen wegzuwerfen und sie unbelastet vom bereits einmal Geschriebenen neu zu formulieren, statt zu versuchen, schwache Abschnitte durch kosmetische Operationen an einzelnen Wendungen und Sätzen zu retten. 
 Selbst wenn die Zeit für die Überarbeitung nicht durch die äußeren Umstände begrenzt ist, muss man sich ein festes Ziel setzen, um zu einem Ende zu kommen. Sicher könnte man den Text immer wieder überarbeiten und weiter verbessern, aber das ist nicht der Sinn der Sache. Viele Schreibende sind ihren eigenen Texten gegenüber zu kritisch und finden sie nie wirklich gut. Da hilft es, sich einen typischen Leser(kreis) vorzustellen, sich den Zweck der Arbeit in Erinnerung zu rufen und nicht ganz allgemein zu fragen, ob die Arbeit „gut“ ist, sondern ob sie genau für diese Leser und diesen Zweck „gut genug“ ist. 
+
 ### Stil und Sprache
 
 Obwohl man schon beim Überarbeiten der Inhalte durch das Bemühen um Klarheit und Verständlichkeit viele Verbesserungen an Ausdruck und Sprache vorgenommen hat, ist auch noch ein eigener Durchgang von Vorteil, bei dem man nur mehr auf den Stil und die Sprache der Arbeit achtet. Damit ist aber noch nicht das Korrekturlesen gemeint, bei dem nur noch Fehler ausgebessert werden. Hier geht es vorerst noch um grundlegendere Fragen wie
@@ -262,8 +265,10 @@ Bei der Rohfassung kommt es darauf an, möglichst flüssig zu arbeiten und sich 
 
 Table: **(\#tab:stil2) Stil und Sprache**
 
+
 +----------------------------------------------------------------------------------------------------------------------------------+
-| * Wird zu häufig „ich“ verwendet? Werden Aussagen dadurch abgeschwächt zu persönlichen Meinungen? \vspace{-6mm}    | +----------------------------------------------------------------------------------------------------------------------------------+                      
+| * Wird zu häufig „ich“ verwendet? Werden Aussagen dadurch abgeschwächt zu persönlichen Meinungen? \vspace{-6mm}    |
++----------------------------------------------------------------------------------------------------------------------------------+                      
 | * Werden geschlechtsdiskriminierende Ausdrücke vermieden, und ist die Methode dafür in der gesamten Arbeit einheitlich? Wird sie, wenn nötig, mit einer entsprechenden Erklärung (Fußnote) eingeführt?   \vspace{-6mm}    |
 +----------------------------------------------------------------------------------------------------------------------------------+
 | * Sind die Sätze weder zu kurz und unverbunden noch zu lang und verschachtelt? \vspace{-6mm}    |
