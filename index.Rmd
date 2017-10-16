@@ -2,15 +2,15 @@
 title: "Studieren und Forschen mit dem Internet"
 author: "Peter Baumgartner, Sabine Payr"
 date: "`r Sys.Date()`"
-cover-image: images/cover-stufonet-min.png
-description: Das Buch ist eine gekürzte Ausgabe der gleichlautenden Publikation aud em Jahre 2001. Es beschreibt Arbeitsprozesse une Werkzeuge des wissenschaftlichen Arbeitens. Dabei wird besonders auf die (damals) neuen Möglichkeiten des Internets eingegangen. 
+cover-image: "images/cover-stufonet-min.png"
+description: Arbeitsprozesse und Werkzeuge des wissenschaftlichen Arbeitens. Gekürzte Ausgabe aus 2001, aber viele Inhalte noch aktuell. 
 documentclass: book
-favicon: images/favicon.ico
+favicon: "images/favicon.ico"
 github-repo: petzi53/wiss-arbeiten
 url: 'http\://bookdown.org/pbaumgartner/wiss-arbeiten'
 site: bookdown::bookdown_site
 subtitle: Methoden und Werkzeuge des wissenschaftlichen Arbeitens
-apple-touch-icon: images/touch-icon.png
+apple-touch-icon: "images/touch-icon.png"
 apple-touch-icon-size: 120
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
@@ -43,16 +43,24 @@ pacman::p_load(tidyverse,reshape2,readxl,pander,xtable,printr,RColorBrewer,knitr
 knitr::include_graphics('images/cover-stufonet-min.png', dpi = NA)
 ```
 
-Studieren und Forschen mit dem Internet ist 2001 beim [StudienVerlag](http://www.studienverlag.at/page.cfm?vpath=buecher/buchdetail&bookclass=&titnr=1319) herausgekommen und heute vergriffen. Restexemplare können nach wie vor gebraucht über [Amazon](https://www.amazon.de/Studieren-Forschen-mit-dem-Internet/dp/3706513196/ref=sr_1_1?ie=UTF8&qid=1508089811&sr=8-1&keywords=studieren+und+forschen+mit+dem+internet) gekauft werden. 
+***
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Studieren und Forschen mit dem Internet</span> von <a xmlns:cc="http://creativecommons.org/ns#" href="https://bookdown.org/pbaumgartner/wiss-arbeiten/" property="cc:attributionName" rel="cc:attributionURL">Peter Baumgartner & Sabine Payr</a> ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz</a>.<br />Über diese Lizenz hinausgehende Erlaubnisse können Sie unter <a xmlns:cc="http://creativecommons.org/ns#" href="http://peter.baumgartner.name/kontakt" rel="cc:morePermissions">http://peter.baumgartner.name/kontakt</a> erhalten.
+
+***
+
+
+
+`Studieren und Forschen mit dem Internet` ist 2001 beim [StudienVerlag](http://www.studienverlag.at/page.cfm?vpath=buecher/buchdetail&bookclass=&titnr=1319) herausgekommen und heute vergriffen. Restexemplare können nach wie vor gebraucht über [Amazon](https://www.amazon.de/Studieren-Forschen-mit-dem-Internet/dp/3706513196/ref=sr_1_1?ie=UTF8&qid=1508089811&sr=8-1&keywords=studieren+und+forschen+mit+dem+internet) gekauft werden. 
 
 Das Buch [@Baumgartner_Payr_2001] ist eine praxisorientierte Einführung in das wissenschaftliche Arbeiten mit vielen Aktions- und Prüftabellen. Es geht auf die Logik der Recherche, der Kooperation von sinnstiftenden Lesen und argumentatives Schreiben ein. Obwohl im Buch ganz besonders auch die Möglichkeiten behandelt werden, die sich bereits damals mit dem Internet ergaben, sind viele Kapitel auch heute noch brauchbar.
 Es gibt drei Gründe, warum ich _Studieren und Forschen mit dem Internet_ nun in reduzierter Version (ohne Kapitel 8-10 und dem theoretischen Nachwort) kostenlos und frei wieder zu Verfügung stelle:
 
-1. Nach wie vor halte ich besonders sie Kapitel "Konzipieren einer Arbeit" sowie "Lesen und notieren" für sehr gut gelungen und in vielen Teilen nach wie vor aktuell.
+1. Nach wie vor halte ich besonders die Kapitel \@ref(konzipieren): [Konzipieren einer Arbeit] sowie \@ref(lesen): [Lesen und notieren] für sehr gut gelungen und in vielen Teilen nach wie vor aktuell.
 2. Für eine Exerpiment habe ich eine relativ vollständiges Beispiel für ein Buch gebraucht, um die neuen Möglichkeiten von open source Programmpaketen in allen Facetten testen zu können. Konkret handelt es sich um `bookdown` [@Xie_2016], ein Programmpaket des Statistikprogramms R [@R-base]. Damit ist es nicht nur möglich ist, Bücher als Webseiten zu publizieren, sondern vom gleichen Ausgangstext auch E-Books (ePub und Kindle), sowie ein PDF zu generieren.
 3. Vor allem aber arbeite ich derzeit an einem neuen Buchprojekt, das die geänderten Arbeitsabläufe im Forschungsprozess untersucht und dabei ganz besonders die Potenziale einer neuen Generation von Werkzeugen =  wie es ˚bookdown˚ bereits darstellt, einbezieht. Nicht nur aus historischen Gründen halte ich es für interessant, zu vergleichen was sich  in den letzten 20 Jahren verändert hat, sondern es lässt sich dann vielleicht leichter erkennen, was stabil geblieben ist -- und es vielleicht auch bleibt -- und bei welchen Arbeitsprozesse wir schon in naher Zukunft große Umbrüche erwarten werden können. 
 
-Der Test ist soweit in einer ersten Annäherung befriedigend ausgefallen. Ich habe -- nach einer Einarbeitungszeit die nötig war, um das Programm kennen zu lernen -- zwei Tage gebraucht, um den Text in der vorliegenden Fassung fertig zu stellen. Ich habe dabei nur ganz oberflächlich auf die Formatierung geschaut; die detaillierte inhaltliche Durchsicht steht noch aus. 
+Der Test ist soweit in einer ersten Annäherung befriedigend ausgefallen. Ich habe -- nach einer Einarbeitungszeit die nötig war, um das Programm kennen zu lernen -- zwei Tage gebraucht, um den Text in der vorliegenden Fassung fertig zu stellen. Ich habe dabei vor allem auf die Formatierung in der Online geschaut; die genaue Durchsicht von eBook und PDF-Varianten, aber auch eine detaillierte inhaltliche Durchsicht steht noch aus. 
 
 Allerdings gibt es sogar bei einer groben Betrachtung noch sehr viele Details, die es nachzuarbeiten gibt. Das beginnt beim Design (Stylesheet) von z.B. Tabellen, Überschriften über schnelleres bzw. rationelleres Arbeiten bis hin, dass ein besseres Verständnis der LaTeX-Integration für weitere Adaptionen sehr hilfreich wäre. (Im AUgenblick weiß ich noch nicht, wie ich alle von mir gewünschten LaTeX-Pakete einbinden kann, weil ich immer die Fehlermeldung `entering restricted mode \write18` bekomme und das Programm dann abbricht.)
 
